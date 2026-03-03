@@ -1,0 +1,2 @@
+# newsupdates
+Automated News Updates
