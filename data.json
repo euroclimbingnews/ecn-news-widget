@@ -1,0 +1,91 @@
+{
+  "date": "22 February 2026",
+  "briefing": "A busy week across European climbing. Vertical World confirms its third German acquisition this quarter, taking its portfolio to 14 gyms. Meanwhile, staff at two Paris bouldering halls walked out over proposed schedule changes, and planning approval was granted for what will be Scotland's largest climbing centre. In the Nordics, Finland's first dedicated lead-climbing facility opened in Tampere to strong early membership numbers.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Vertical World Acquires Munich's Kletterhalle Süd in Third German Deal This Quarter",
+      "summary": "The Berlin-headquartered chain adds a 2,200m² facility to its growing portfolio, now spanning 14 gyms across Germany and Austria. CEO Lena Brandt says the group is targeting 20 locations by end of 2027.",
+      "category": "M&A",
+      "region": "Germany",
+      "source": "Klettern Magazin",
+      "time": "3h ago",
+      "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=400&h=250&fit=crop",
+      "lang": "de"
+    },
+    {
+      "id": 2,
+      "title": "Staff Walk Out at Two Paris Bouldering Halls Over Schedule Dispute",
+      "summary": "Employees at Bloc Parisien's Bastille and Belleville locations staged a 48-hour walkout, citing proposed changes to weekend shift patterns. The CGT union says talks have stalled.",
+      "category": "Labor",
+      "region": "France",
+      "source": "Grimper",
+      "time": "5h ago",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?w=400&h=250&fit=crop",
+      "lang": "fr"
+    },
+    {
+      "id": 3,
+      "title": "Planning Approved for Scotland's Largest Climbing Centre in Edinburgh",
+      "summary": "City of Edinburgh Council granted full planning permission for a 4,500m² facility near Leith. Developer Summit Leisure expects to break ground in Q3 2026 with an early 2028 opening.",
+      "category": "Openings",
+      "region": "UK",
+      "source": "UKClimbing",
+      "time": "7h ago",
+      "image": "https://images.unsplash.com/photo-1516592673884-4a382d1124c2?w=400&h=250&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Finland's First Dedicated Lead Climbing Gym Opens in Tampere",
+      "summary": "Seinäkiipeilijät Ry opened a 1,800m² lead-focused facility with walls up to 18m. Early reports suggest 400 memberships sold in the first week, well ahead of projections.",
+      "category": "Openings",
+      "region": "Nordics",
+      "source": "Kiipeily.fi",
+      "time": "9h ago",
+      "image": "https://images.unsplash.com/photo-1601224879064-4d0e8e498079?w=400&h=250&fit=crop",
+      "lang": "fi"
+    },
+    {
+      "id": 5,
+      "title": "Flashpoint Bouldering Shutters Bristol Location After Lease Dispute",
+      "summary": "The independent gym cited an unsustainable rent increase after its 10-year lease expired. Members have been offered temporary access at a partner gym. Staff redundancies are expected.",
+      "category": "Closures",
+      "region": "UK",
+      "source": "ECN Reporting",
+      "time": "12h ago",
+      "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=400&h=250&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Sender One Europe Enters Spanish Market with Barcelona Gym Acquisition",
+      "summary": "The US-based operator acquired RocoBloc's flagship 3,000m² Barcelona facility, marking its first European location. A second Spanish site is reportedly under negotiation in Madrid.",
+      "category": "M&A",
+      "region": "Spain",
+      "source": "Desnivel",
+      "time": "14h ago",
+      "image": "https://images.unsplash.com/photo-1606927547525-2662c2c8311d?w=400&h=250&fit=crop",
+      "lang": "es"
+    },
+    {
+      "id": 7,
+      "title": "Dutch Chain Monk Bouldergym Raises €8M for Benelux Expansion",
+      "summary": "Amsterdam-based Monk closed a Series A round led by Sport Capital Partners. The funds will support three new locations across the Netherlands and Belgium through 2027.",
+      "category": "M&A",
+      "region": "Benelux",
+      "source": "PlanetMountain",
+      "time": "18h ago",
+      "image": "https://images.unsplash.com/photo-1578886524732-2bbfccce7439?w=400&h=250&fit=crop"
+    },
+    {
+      "id": 8,
+      "title": "Italian Climbing Gym Operators Form Trade Association",
+      "summary": "Fifteen of Italy's largest climbing gym operators launched Associazione Palestre di Arrampicata to lobby on safety regulations, insurance costs, and planning policy. First meeting set for March in Bologna.",
+      "category": "Industry",
+      "region": "Italy",
+      "source": "Up Climbing",
+      "time": "22h ago",
+      "image": "https://images.unsplash.com/photo-1526139334526-f591a54b477c?w=400&h=250&fit=crop",
+      "lang": "it"
+    }
+  ]
+}

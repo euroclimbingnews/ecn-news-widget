@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Euro Climbing News — Industry Intelligence</title>
+  <meta name="description" content="Daily industry intelligence for the European climbing gym sector. Openings, closures, M&A, and more.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Source Serif 4', Georgia, serif;
+      background: #FAFAF8;
+      color: #1a1a1a;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .widget {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 20px 24px 0;
+    }
+
+    /* ---- Header ---- */
+    .header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding-bottom: 16px;
+      border-bottom: 3px double #1a1a1a;
+      opacity: 0;
+      transform: translateY(-10px);
+      animation: fadeIn 0.6s ease forwards;
+    }
+
+    .header h1 {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      line-height: 1.1;
+    }
+
+    .header .subtitle {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-top: 4px;
+    }
+
+    .header time {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 13px;
+      color: #666;
+      font-weight: 500;
+    }
+
+    /* ---- Briefing ---- */
+    .briefing {
+      padding: 20px 0;
+      border-bottom: 1px solid #e0ddd8;
+      opacity: 0;
+      transform: translateY(10px);
+      animation: fadeIn 0.6s ease 0.15s forwards;
+    }
+
+    .briefing-label {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+      color: #fff;
+      background: #1a1a1a;
+      padding: 3px 8px;
+      border-radius: 2px;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+
+    .briefing-text {
+      font-size: 17px;
+      line-height: 1.7;
+      color: #333;
+      font-style: italic;
+      font-weight: 300;
+      overflow: hidden;
+      max-height: 4.8em;
+      transition: max-height 0.4s ease;
+    }
+
+    .briefing-text.expanded {
+      max-height: 500px;
+    }
+
+    .briefing-toggle {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px;
+      color: #666;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px 0;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .briefing-toggle:hover {
+      color: #1a1a1a;
+    }
+
+    /* ---- Filters ---- */
+    .filters {
+      padding: 14px 0 10px;
+      border-bottom: 1px solid #e0ddd8;
+      opacity: 0;
+      animation: fadeIn 0.6s ease 0.3s forwards;
+    }
+
+    .filter-row {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+
+    .filter-row:last-child {
+      margin-bottom: 0;
+    }
+
+    .filter-btn {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 5px 12px;
+      border: 1.5px solid transparent;
+      border-radius: 20px;
+      background: transparent;
+      color: #555;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      letter-spacing: 0.2px;
+    }
+
+    .filter-btn:hover {
+      color: #1a1a1a;
+    }
+
+    .filter-btn.active {
+      font-weight: 700;
+      border-color: #1a1a1a;
+      background: #1a1a1a;
+      color: #fff;
+    }
+
+    .region-btn {
+      font-size: 11px;
+      font-weight: 400;
+      padding: 3px 10px;
+      border: none;
+    }
+
+    .region-btn.active {
+      font-weight: 600;
+      background: #EDECE8;
+      color: #1a1a1a;
+      border: none;
+    }
+
+    /* ---- Story count ---- */
+    .story-count {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      color: #999;
+      padding: 12px 0 4px;
+      letter-spacing: 0.3px;
+    }
+
+    /* ---- Story cards ---- */
+    .stories {
+      padding-bottom: 40px;
+    }
+
+    .story {
+      display: grid;
+      grid-template-columns: 1fr 180px;
+      gap: 20px;
+      padding: 20px 0;
+      border-bottom: 1px solid #EDECE8;
+      cursor: pointer;
+      transition: background 0.2s ease;
+      opacity: 0;
+      transform: translateY(15px);
+    }
+
+    .story.visible {
+      animation: fadeIn 0.5s ease forwards;
+    }
+
+    .story:hover {
+      background: #F5F4F0;
+    }
+
+    .story-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+
+    .category-tag {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 2px 7px;
+      border-radius: 3px;
+      border: 1px solid;
+    }
+
+    .category-tag[data-cat="M&A"]      { color: #9D174D; background: #FDF2F8; border-color: #F9A8D4; }
+    .category-tag[data-cat="Openings"] { color: #065F46; background: #ECFDF5; border-color: #6EE7B7; }
+    .category-tag[data-cat="Closures"] { color: #991B1B; background: #FEF2F2; border-color: #FCA5A5; }
+    .category-tag[data-cat="Labor"]    { color: #9A3412; background: #FFF7ED; border-color: #FDBA74; }
+    .category-tag[data-cat="Industry"] { color: #1E40AF; background: #EFF6FF; border-color: #93C5FD; }
+
+    .story-region {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      color: #999;
+      font-weight: 500;
+    }
+
+    .translated-badge {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 9px;
+      color: #aaa;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      background: #F0EFEB;
+      padding: 1px 5px;
+      border-radius: 2px;
+    }
+
+    .story h2 {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.35;
+      margin-bottom: 6px;
+      color: #1a1a1a;
+    }
+
+    .story-summary {
+      font-size: 14px;
+      line-height: 1.6;
+      color: #555;
+      margin-bottom: 8px;
+      font-weight: 300;
+    }
+
+    .story-source {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      color: #aaa;
+      display: flex;
+      gap: 10px;
+    }
+
+    .story-source strong {
+      font-weight: 600;
+    }
+
+    .story-thumb {
+      width: 180px;
+      height: 120px;
+      border-radius: 4px;
+      overflow: hidden;
+      flex-shrink: 0;
+      align-self: center;
+    }
+
+    .story-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: grayscale(20%) contrast(1.05);
+      transition: filter 0.3s ease;
+    }
+
+    .story:hover .story-thumb img {
+      filter: grayscale(0%) contrast(1.08);
+    }
+
+    /* ---- Empty state ---- */
+    .empty-state {
+      padding: 60px 0;
+      text-align: center;
+      font-family: 'DM Sans', sans-serif;
+      color: #aaa;
+      font-size: 14px;
+    }
+
+    /* ---- Loading state ---- */
+    .loading {
+      padding: 80px 0;
+      text-align: center;
+      font-family: 'DM Sans', sans-serif;
+      color: #aaa;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+    }
+
+    .loading::after {
+      content: '';
+      display: block;
+      width: 24px;
+      height: 24px;
+      margin: 16px auto 0;
+      border: 2px solid #e0ddd8;
+      border-top-color: #1a1a1a;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    /* ---- Error state ---- */
+    .error-state {
+      padding: 60px 0;
+      text-align: center;
+      font-family: 'DM Sans', sans-serif;
+      color: #991B1B;
+      font-size: 14px;
+    }
+
+    /* ---- Footer ---- */
+    .footer {
+      border-top: 2px solid #1a1a1a;
+      padding: 14px 0 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      color: #999;
+      opacity: 0;
+      animation: fadeIn 0.6s ease 0.8s forwards;
+    }
+
+    /* ---- Animations ---- */
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 640px) {
+      .widget {
+        padding: 16px 16px 0;
+      }
+
+      .header h1 {
+        font-size: 26px;
+      }
+
+      .story {
+        grid-template-columns: 1fr;
+      }
+
+      .story-thumb {
+        width: 100%;
+        height: 160px;
+        order: -1;
+      }
+
+      .briefing-text {
+        font-size: 15px;
+      }
+
+      .story h2 {
+        font-size: 16px;
+      }
+
+      .footer {
+        flex-direction: column;
+        gap: 4px;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="widget" id="ecn-widget">
+  <div class="loading" id="loading-state">Loading today's stories…</div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  // ---- Configuration ----
+  const DATA_URL = './data.json';
+  const CATEGORIES = ['All', 'M&A', 'Openings', 'Closures', 'Labor', 'Industry'];
+  const REGIONS = ['All Regions', 'UK', 'Germany', 'France', 'Nordics', 'Spain', 'Benelux', 'Italy'];
+
+  let state = {
+    data: null,
+    activeCategory: 'All',
+    activeRegion: 'All Regions',
+    briefingExpanded: false,
+    error: null
+  };
+
+  const widget = document.getElementById('ecn-widget');
+
+  // ---- Fetch Data ----
+  async function loadData() {
+    try {
+      const res = await fetch(DATA_URL, { cache: 'no-cache' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      state.data = await res.json();
+      render();
+    } catch (err) {
+      state.error = err.message;
+      widget.innerHTML = `
+        <div class="error-state">
+          <p>Unable to load stories.</p>
+          <p style="font-size:12px;margin-top:6px;color:#aaa">${err.message}</p>
+        </div>
+      `;
+    }
+  }
+
+  // ---- Filtering ----
+  function getFilteredStories() {
+    return state.data.stories.filter(s => {
+      const catOk = state.activeCategory === 'All' || s.category === state.activeCategory;
+      const regOk = state.activeRegion === 'All Regions' || s.region === state.activeRegion;
+      return catOk && regOk;
+    });
+  }
+
+  // ---- Render ----
+  function render() {
+    const d = state.data;
+    const filtered = getFilteredStories();
+
+    widget.innerHTML = `
+      <!-- Header -->
+      <header class="header">
+        <div>
+          <h1>Euro Climbing News</h1>
+          <p class="subtitle">Industry Intelligence</p>
+        </div>
+        <time>${escHtml(d.date)}</time>
+      </header>
+
+      <!-- Daily Briefing -->
+      <section class="briefing">
+        <span class="briefing-label">Daily Briefing</span>
+        <p class="briefing-text ${state.briefingExpanded ? 'expanded' : ''}" id="briefing-text">
+          ${escHtml(d.briefing)}
+        </p>
+        <button class="briefing-toggle" id="briefing-toggle">
+          ${state.briefingExpanded ? 'Show less ↑' : 'Read more ↓'}
+        </button>
+      </section>
+
+      <!-- Filters -->
+      <nav class="filters">
+        <div class="filter-row" id="cat-filters">
+          ${CATEGORIES.map(cat => `
+            <button class="filter-btn ${state.activeCategory === cat ? 'active' : ''}"
+                    data-category="${cat}">${cat}</button>
+          `).join('')}
+        </div>
+        <div class="filter-row" id="region-filters">
+          ${REGIONS.map(reg => `
+            <button class="filter-btn region-btn ${state.activeRegion === reg ? 'active' : ''}"
+                    data-region="${reg}">${reg}</button>
+          `).join('')}
+        </div>
+      </nav>
+
+      <!-- Story Count -->
+      <div class="story-count">
+        ${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}${
+          state.activeCategory !== 'All' || state.activeRegion !== 'All Regions'
+            ? ' matching filters' : ' today'
+        }
+      </div>
+
+      <!-- Stories -->
+      <div class="stories" id="stories">
+        ${filtered.length === 0 ? `
+          <div class="empty-state">No stories matching these filters today.</div>
+        ` : filtered.map((story, i) => `
+          <article class="story" style="animation-delay: ${0.35 + i * 0.08}s" data-visible>
+            <div>
+              <div class="story-meta">
+                <span class="category-tag" data-cat="${escAttr(story.category)}">${escHtml(story.category)}</span>
+                <span class="story-region">${escHtml(story.region)}</span>
+                ${story.lang ? `<span class="translated-badge">Translated · ${escHtml(story.lang)}</span>` : ''}
+              </div>
+              <h2>${escHtml(story.title)}</h2>
+              <p class="story-summary">${escHtml(story.summary)}</p>
+              <div class="story-source">
+                <strong>${escHtml(story.source)}</strong>
+                <span>${escHtml(story.time)}</span>
+              </div>
+            </div>
+            <div class="story-thumb">
+              <img src="${escAttr(story.image)}" alt="" loading="lazy"
+                   onerror="this.parentElement.style.display='none'">
+            </div>
+          </article>
+        `).join('')}
+      </div>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <span>© Euro Climbing News ${new Date().getFullYear()}</span>
+        <span>Updated daily · Automated intelligence feed</span>
+      </footer>
+    `;
+
+    bindEvents();
+    animateStories();
+  }
+
+  // ---- Animate stories on load ----
+  function animateStories() {
+    const stories = widget.querySelectorAll('.story[data-visible]');
+    stories.forEach(el => el.classList.add('visible'));
+  }
+
+  // ---- Event Binding ----
+  function bindEvents() {
+    // Briefing toggle
+    const toggle = document.getElementById('briefing-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        state.briefingExpanded = !state.briefingExpanded;
+        render();
+      });
+    }
+
+    // Category filters
+    widget.querySelectorAll('[data-category]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        state.activeCategory = btn.dataset.category;
+        render();
+      });
+    });
+
+    // Region filters
+    widget.querySelectorAll('[data-region]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        state.activeRegion = btn.dataset.region;
+        render();
+      });
+    });
+  }
+
+  // ---- Helpers ----
+  function escHtml(str) {
+    const el = document.createElement('span');
+    el.textContent = str || '';
+    return el.innerHTML;
+  }
+
+  function escAttr(str) {
+    return (str || '').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  // ---- Init ----
+  loadData();
+})();
+</script>
+
+</body>
+</html>
