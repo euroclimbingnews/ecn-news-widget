@@ -67,6 +67,34 @@
       font-weight: 500;
     }
 
+    /* ---- Search ---- */
+    .search-bar {
+      padding: 16px 0 0;
+      opacity: 0;
+      animation: fadeIn 0.6s ease 0.1s forwards;
+    }
+
+    .search-input {
+      width: 100%;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 14px;
+      padding: 10px 14px 10px 38px;
+      border: 1.5px solid #e0ddd8;
+      border-radius: 6px;
+      background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='7' cy='7' r='5'/%3E%3Cline x1='11' y1='11' x2='15' y2='15'/%3E%3C/svg%3E") 12px center no-repeat;
+      color: #1a1a1a;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .search-input::placeholder {
+      color: #bbb;
+    }
+
+    .search-input:focus {
+      border-color: #1a1a1a;
+    }
+
     /* ---- Briefing ---- */
     .briefing {
       padding: 20px 0;
@@ -121,26 +149,32 @@
       color: #1a1a1a;
     }
 
-    /* ---- Filters ---- */
-    .filters {
-      padding: 14px 0 10px;
-      border-bottom: 1px solid #e0ddd8;
-      opacity: 0;
-      animation: fadeIn 0.6s ease 0.3s forwards;
+    .no-briefing {
+      display: none;
     }
 
-    .filter-row {
+    /* ---- Date nav ---- */
+    .date-nav {
+      padding: 14px 0 0;
+      opacity: 0;
+      animation: fadeIn 0.6s ease 0.2s forwards;
+    }
+
+    .date-nav-row {
       display: flex;
       gap: 4px;
       flex-wrap: wrap;
-      margin-bottom: 8px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding-bottom: 2px;
     }
 
-    .filter-row:last-child {
-      margin-bottom: 0;
+    .date-nav-row::-webkit-scrollbar {
+      display: none;
     }
 
-    .filter-btn {
+    .date-btn {
       font-family: 'DM Sans', sans-serif;
       font-size: 12px;
       font-weight: 500;
@@ -151,7 +185,50 @@
       color: #555;
       cursor: pointer;
       transition: all 0.2s ease;
-      letter-spacing: 0.2px;
+      white-space: nowrap;
+    }
+
+    .date-btn:hover {
+      color: #1a1a1a;
+    }
+
+    .date-btn.active {
+      font-weight: 700;
+      border-color: #1a1a1a;
+      background: #1a1a1a;
+      color: #fff;
+    }
+
+    /* ---- Filters ---- */
+    .filters {
+      padding: 10px 0;
+      border-bottom: 1px solid #e0ddd8;
+      opacity: 0;
+      animation: fadeIn 0.6s ease 0.3s forwards;
+    }
+
+    .filter-row {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+
+    .filter-row:last-child {
+      margin-bottom: 0;
+    }
+
+    .filter-btn {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      padding: 4px 10px;
+      border: 1.5px solid transparent;
+      border-radius: 20px;
+      background: transparent;
+      color: #777;
+      cursor: pointer;
+      transition: all 0.2s ease;
     }
 
     .filter-btn:hover {
@@ -159,24 +236,9 @@
     }
 
     .filter-btn.active {
-      font-weight: 700;
-      border-color: #1a1a1a;
-      background: #1a1a1a;
-      color: #fff;
-    }
-
-    .region-btn {
-      font-size: 11px;
-      font-weight: 400;
-      padding: 3px 10px;
-      border: none;
-    }
-
-    .region-btn.active {
       font-weight: 600;
       background: #EDECE8;
       color: #1a1a1a;
-      border: none;
     }
 
     /* ---- Story count ---- */
@@ -188,6 +250,22 @@
       letter-spacing: 0.3px;
     }
 
+    /* ---- Date group headers ---- */
+    .date-heading {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #999;
+      padding: 20px 0 6px;
+      border-bottom: 1px solid #EDECE8;
+    }
+
+    .date-heading:first-child {
+      padding-top: 8px;
+    }
+
     /* ---- Story cards ---- */
     .stories {
       padding-bottom: 40px;
@@ -195,22 +273,15 @@
 
     .story {
       display: grid;
-      grid-template-columns: 1fr 180px;
-      gap: 20px;
-      padding: 20px 0;
+      grid-template-columns: 1fr;
+      padding: 18px 0;
       border-bottom: 1px solid #EDECE8;
-      cursor: pointer;
-      transition: background 0.2s ease;
       opacity: 0;
       transform: translateY(15px);
     }
 
     .story.visible {
       animation: fadeIn 0.5s ease forwards;
-    }
-
-    .story:hover {
-      background: #F5F4F0;
     }
 
     .story-meta {
@@ -257,54 +328,89 @@
       border-radius: 2px;
     }
 
+    .story-headline-link {
+      text-decoration: none;
+      color: #1a1a1a;
+      transition: color 0.15s ease;
+    }
+
+    .story-headline-link:hover {
+      color: #555;
+    }
+
     .story h2 {
       font-family: 'Source Serif 4', Georgia, serif;
       font-size: 18px;
       font-weight: 600;
       line-height: 1.35;
       margin-bottom: 6px;
-      color: #1a1a1a;
     }
 
     .story-summary {
       font-size: 14px;
       line-height: 1.6;
       color: #555;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       font-weight: 300;
     }
 
-    .story-source {
+    .story-footer {
+      display: flex;
+      align-items: center;
+      gap: 10px;
       font-family: 'DM Sans', sans-serif;
       font-size: 11px;
       color: #aaa;
-      display: flex;
-      gap: 10px;
     }
 
-    .story-source strong {
+    .source-icon {
+      width: 16px;
+      height: 16px;
+      border-radius: 3px;
+      vertical-align: middle;
+      position: relative;
+      top: -1px;
+    }
+
+    .source-name {
       font-weight: 600;
+      color: #888;
     }
 
-    .story-thumb {
-      width: 180px;
-      height: 120px;
-      border-radius: 4px;
-      overflow: hidden;
-      flex-shrink: 0;
-      align-self: center;
+    .source-link {
+      text-decoration: none;
+      color: inherit;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: color 0.15s ease;
     }
 
-    .story-thumb img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      filter: grayscale(20%) contrast(1.05);
-      transition: filter 0.3s ease;
+    .source-link:hover {
+      color: #1a1a1a;
     }
 
-    .story:hover .story-thumb img {
-      filter: grayscale(0%) contrast(1.08);
+    .source-link:hover .source-name {
+      color: #1a1a1a;
+    }
+
+    .read-original {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      color: #bbb;
+      text-decoration: none;
+      margin-left: auto;
+      transition: color 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .read-original:hover {
+      color: #1a1a1a;
+    }
+
+    .read-original::after {
+      content: ' →';
     }
 
     /* ---- Empty state ---- */
@@ -314,6 +420,11 @@
       font-family: 'DM Sans', sans-serif;
       color: #aaa;
       font-size: 14px;
+    }
+
+    .empty-state p:nth-child(2) {
+      font-size: 12px;
+      margin-top: 4px;
     }
 
     /* ---- Loading state ---- */
@@ -383,16 +494,6 @@
         font-size: 26px;
       }
 
-      .story {
-        grid-template-columns: 1fr;
-      }
-
-      .story-thumb {
-        width: 100%;
-        height: 160px;
-        order: -1;
-      }
-
       .briefing-text {
         font-size: 15px;
       }
@@ -412,7 +513,7 @@
 <body>
 
 <div class="widget" id="ecn-widget">
-  <div class="loading" id="loading-state">Loading today's stories…</div>
+  <div class="loading" id="loading-state">Loading stories…</div>
 </div>
 
 <script>
@@ -423,11 +524,14 @@
   const DATA_URL = './data.json';
   const CATEGORIES = ['All', 'M&A', 'Openings', 'Closures', 'Labor', 'Industry'];
   const REGIONS = ['All Regions', 'UK', 'Germany', 'France', 'Nordics', 'Spain', 'Benelux', 'Italy'];
+  const FAVICON_API = 'https://www.google.com/s2/favicons?sz=32&domain=';
 
   let state = {
     data: null,
+    activeDate: 'latest',
     activeCategory: 'All',
     activeRegion: 'All Regions',
+    searchQuery: '',
     briefingExpanded: false,
     error: null
   };
@@ -438,160 +542,299 @@
   async function loadData() {
     try {
       const res = await fetch(DATA_URL, { cache: 'no-cache' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
       state.data = await res.json();
       render();
     } catch (err) {
       state.error = err.message;
-      widget.innerHTML = `
-        <div class="error-state">
-          <p>Unable to load stories.</p>
-          <p style="font-size:12px;margin-top:6px;color:#aaa">${err.message}</p>
-        </div>
-      `;
+      widget.innerHTML =
+        '<div class="error-state">' +
+          '<p>Unable to load stories.</p>' +
+          '<p style="font-size:12px;margin-top:6px;color:#aaa">' + escHtml(err.message) + '</p>' +
+        '</div>';
     }
+  }
+
+  // ---- Get unique sorted dates ----
+  function getDates() {
+    var dates = [];
+    var seen = {};
+    state.data.stories.forEach(function (s) {
+      if (!seen[s.date]) {
+        seen[s.date] = true;
+        dates.push(s.date);
+      }
+    });
+    dates.sort(function (a, b) { return b.localeCompare(a); });
+    return dates;
+  }
+
+  // ---- Format date for display ----
+  function formatDate(isoDate) {
+    var d = new Date(isoDate + 'T12:00:00');
+    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
+  }
+
+  function formatDateFull(isoDate) {
+    var d = new Date(isoDate + 'T12:00:00');
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return days[d.getDay()] + ' ' + d.getDate() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear();
   }
 
   // ---- Filtering ----
   function getFilteredStories() {
-    return state.data.stories.filter(s => {
-      const catOk = state.activeCategory === 'All' || s.category === state.activeCategory;
-      const regOk = state.activeRegion === 'All Regions' || s.region === state.activeRegion;
-      return catOk && regOk;
+    var q = state.searchQuery.toLowerCase().trim();
+    return state.data.stories.filter(function (s) {
+      var dateOk = state.activeDate === 'latest' || s.date === state.activeDate;
+      var catOk = state.activeCategory === 'All' || s.category === state.activeCategory;
+      var regOk = state.activeRegion === 'All Regions' || s.region === state.activeRegion;
+      var searchOk = !q || s.title.toLowerCase().indexOf(q) !== -1 ||
+        s.summary.toLowerCase().indexOf(q) !== -1 ||
+        s.source.toLowerCase().indexOf(q) !== -1 ||
+        s.region.toLowerCase().indexOf(q) !== -1 ||
+        s.category.toLowerCase().indexOf(q) !== -1;
+      return dateOk && catOk && regOk && searchOk;
     });
+  }
+
+  // ---- Group stories by date ----
+  function groupByDate(stories) {
+    var groups = [];
+    var map = {};
+    stories.forEach(function (s) {
+      if (!map[s.date]) {
+        map[s.date] = [];
+        groups.push(s.date);
+      }
+      map[s.date].push(s);
+    });
+    groups.sort(function (a, b) { return b.localeCompare(a); });
+    return { dates: groups, map: map };
+  }
+
+  // ---- Get current briefing ----
+  function getCurrentBriefing() {
+    if (!state.data.briefings) return null;
+    if (state.activeDate !== 'latest') {
+      return state.data.briefings[state.activeDate] || null;
+    }
+    var dates = getDates();
+    return dates.length > 0 ? state.data.briefings[dates[0]] || null : null;
+  }
+
+  function getCurrentBriefingDate() {
+    if (state.activeDate !== 'latest') return state.activeDate;
+    var dates = getDates();
+    return dates.length > 0 ? dates[0] : null;
   }
 
   // ---- Render ----
   function render() {
-    const d = state.data;
-    const filtered = getFilteredStories();
+    var d = state.data;
+    var dates = getDates();
+    var filtered = getFilteredStories();
+    var grouped = groupByDate(filtered);
+    var briefing = getCurrentBriefing();
+    var isSearching = state.searchQuery.trim().length > 0;
 
-    widget.innerHTML = `
-      <!-- Header -->
-      <header class="header">
-        <div>
-          <h1>Euro Climbing News</h1>
-          <p class="subtitle">Industry Intelligence</p>
-        </div>
-        <time>${escHtml(d.date)}</time>
-      </header>
+    var storyIndex = 0;
 
-      <!-- Daily Briefing -->
-      <section class="briefing">
-        <span class="briefing-label">Daily Briefing</span>
-        <p class="briefing-text ${state.briefingExpanded ? 'expanded' : ''}" id="briefing-text">
-          ${escHtml(d.briefing)}
-        </p>
-        <button class="briefing-toggle" id="briefing-toggle">
-          ${state.briefingExpanded ? 'Show less ↑' : 'Read more ↓'}
-        </button>
-      </section>
+    widget.innerHTML =
+      // Header
+      '<header class="header">' +
+        '<div>' +
+          '<h1>Euro Climbing News</h1>' +
+          '<p class="subtitle">Industry Intelligence</p>' +
+        '</div>' +
+        '<time>' + escHtml(formatDateFull(dates[0])) + '</time>' +
+      '</header>' +
 
-      <!-- Filters -->
-      <nav class="filters">
-        <div class="filter-row" id="cat-filters">
-          ${CATEGORIES.map(cat => `
-            <button class="filter-btn ${state.activeCategory === cat ? 'active' : ''}"
-                    data-category="${cat}">${cat}</button>
-          `).join('')}
-        </div>
-        <div class="filter-row" id="region-filters">
-          ${REGIONS.map(reg => `
-            <button class="filter-btn region-btn ${state.activeRegion === reg ? 'active' : ''}"
-                    data-region="${reg}">${reg}</button>
-          `).join('')}
-        </div>
-      </nav>
+      // Search
+      '<div class="search-bar">' +
+        '<input type="text" class="search-input" id="search-input" ' +
+          'placeholder="Search stories, sources, regions…" ' +
+          'value="' + escAttr(state.searchQuery) + '">' +
+      '</div>' +
 
-      <!-- Story Count -->
-      <div class="story-count">
-        ${filtered.length} ${filtered.length === 1 ? 'story' : 'stories'}${
-          state.activeCategory !== 'All' || state.activeRegion !== 'All Regions'
-            ? ' matching filters' : ' today'
-        }
-      </div>
+      // Briefing
+      (briefing && !isSearching ?
+        '<section class="briefing">' +
+          '<span class="briefing-label">Daily Briefing · ' + escHtml(formatDate(getCurrentBriefingDate())) + '</span>' +
+          '<p class="briefing-text ' + (state.briefingExpanded ? 'expanded' : '') + '" id="briefing-text">' +
+            escHtml(briefing) +
+          '</p>' +
+          '<button class="briefing-toggle" id="briefing-toggle">' +
+            (state.briefingExpanded ? 'Show less \u2191' : 'Read more \u2193') +
+          '</button>' +
+        '</section>'
+      : '') +
 
-      <!-- Stories -->
-      <div class="stories" id="stories">
-        ${filtered.length === 0 ? `
-          <div class="empty-state">No stories matching these filters today.</div>
-        ` : filtered.map((story, i) => `
-          <article class="story" style="animation-delay: ${0.35 + i * 0.08}s" data-visible>
-            <div>
-              <div class="story-meta">
-                <span class="category-tag" data-cat="${escAttr(story.category)}">${escHtml(story.category)}</span>
-                <span class="story-region">${escHtml(story.region)}</span>
-                ${story.lang ? `<span class="translated-badge">Translated · ${escHtml(story.lang)}</span>` : ''}
-              </div>
-              <h2>${escHtml(story.title)}</h2>
-              <p class="story-summary">${escHtml(story.summary)}</p>
-              <div class="story-source">
-                <strong>${escHtml(story.source)}</strong>
-                <span>${escHtml(story.time)}</span>
-              </div>
-            </div>
-            <div class="story-thumb">
-              <img src="${escAttr(story.image)}" alt="" loading="lazy"
-                   onerror="this.parentElement.style.display='none'">
-            </div>
-          </article>
-        `).join('')}
-      </div>
+      // Date nav
+      '<nav class="date-nav">' +
+        '<div class="date-nav-row">' +
+          '<button class="date-btn ' + (state.activeDate === 'latest' ? 'active' : '') + '" data-date="latest">Latest</button>' +
+          dates.map(function (dt) {
+            return '<button class="date-btn ' + (state.activeDate === dt ? 'active' : '') + '" data-date="' + escAttr(dt) + '">' + escHtml(formatDate(dt)) + '</button>';
+          }).join('') +
+        '</div>' +
+      '</nav>' +
 
-      <!-- Footer -->
-      <footer class="footer">
-        <span>© Euro Climbing News ${new Date().getFullYear()}</span>
-        <span>Updated daily · Automated intelligence feed</span>
-      </footer>
-    `;
+      // Category + Region filters
+      '<nav class="filters">' +
+        '<div class="filter-row">' +
+          CATEGORIES.map(function (cat) {
+            return '<button class="filter-btn ' + (state.activeCategory === cat ? 'active' : '') + '" data-category="' + escAttr(cat) + '">' + cat + '</button>';
+          }).join('') +
+        '</div>' +
+        '<div class="filter-row">' +
+          REGIONS.map(function (reg) {
+            return '<button class="filter-btn ' + (state.activeRegion === reg ? 'active' : '') + '" data-region="' + escAttr(reg) + '">' + reg + '</button>';
+          }).join('') +
+        '</div>' +
+      '</nav>' +
+
+      // Story count
+      '<div class="story-count">' +
+        filtered.length + ' ' + (filtered.length === 1 ? 'story' : 'stories') +
+        (isSearching ? ' matching "' + escHtml(state.searchQuery.trim()) + '"' :
+          (state.activeCategory !== 'All' || state.activeRegion !== 'All Regions' ? ' matching filters' : '')) +
+      '</div>' +
+
+      // Stories
+      '<div class="stories" id="stories">' +
+        (filtered.length === 0 ?
+          '<div class="empty-state">' +
+            '<p>No stories found.</p>' +
+            (isSearching ? '<p>Try a different search term.</p>' : '') +
+          '</div>'
+        :
+          grouped.dates.map(function (dt) {
+            var showDateHeader = state.activeDate === 'latest' && !isSearching && grouped.dates.length > 1;
+            return (showDateHeader ? '<div class="date-heading">' + escHtml(formatDateFull(dt)) + '</div>' : '') +
+              grouped.map[dt].map(function (story) {
+                var i = storyIndex++;
+                var faviconUrl = FAVICON_API + encodeURIComponent(story.source_domain || '');
+                return '<article class="story" style="animation-delay: ' + (0.35 + i * 0.06) + 's" data-visible>' +
+                  '<div class="story-meta">' +
+                    '<span class="category-tag" data-cat="' + escAttr(story.category) + '">' + escHtml(story.category) + '</span>' +
+                    '<span class="story-region">' + escHtml(story.region) + '</span>' +
+                    (story.lang ? '<span class="translated-badge">Translated \u00b7 ' + escHtml(story.lang) + '</span>' : '') +
+                  '</div>' +
+                  '<a class="story-headline-link" href="' + escAttr(story.url || '#') + '" target="_blank" rel="noopener">' +
+                    '<h2>' + escHtml(story.title) + '</h2>' +
+                  '</a>' +
+                  '<p class="story-summary">' + escHtml(story.summary) + '</p>' +
+                  '<div class="story-footer">' +
+                    '<a class="source-link" href="https://' + escAttr(story.source_domain || '') + '" target="_blank" rel="noopener">' +
+                      (story.source_domain ?
+                        '<img class="source-icon" src="' + escAttr(faviconUrl) + '" alt="" onerror="this.style.display=\'none\'">'
+                      : '') +
+                      '<span class="source-name">' + escHtml(story.source) + '</span>' +
+                    '</a>' +
+                    (story.url ?
+                      '<a class="read-original" href="' + escAttr(story.url) + '" target="_blank" rel="noopener">Read original</a>'
+                    : '') +
+                  '</div>' +
+                '</article>';
+              }).join('');
+          }).join('')
+        ) +
+      '</div>' +
+
+      // Footer
+      '<footer class="footer">' +
+        '<span>\u00a9 Euro Climbing News ' + new Date().getFullYear() + '</span>' +
+        '<span>' + filtered.length + ' stories in archive \u00b7 Updated daily</span>' +
+      '</footer>';
 
     bindEvents();
     animateStories();
   }
 
-  // ---- Animate stories on load ----
+  // ---- Animate stories ----
   function animateStories() {
-    const stories = widget.querySelectorAll('.story[data-visible]');
-    stories.forEach(el => el.classList.add('visible'));
+    var stories = widget.querySelectorAll('.story[data-visible]');
+    for (var i = 0; i < stories.length; i++) {
+      stories[i].classList.add('visible');
+    }
   }
 
   // ---- Event Binding ----
   function bindEvents() {
+    // Search
+    var searchInput = document.getElementById('search-input');
+    if (searchInput) {
+      searchInput.addEventListener('input', debounce(function (e) {
+        state.searchQuery = e.target.value;
+        render();
+        // Refocus and restore cursor
+        var newInput = document.getElementById('search-input');
+        if (newInput) {
+          newInput.focus();
+          newInput.setSelectionRange(newInput.value.length, newInput.value.length);
+        }
+      }, 200));
+    }
+
     // Briefing toggle
-    const toggle = document.getElementById('briefing-toggle');
+    var toggle = document.getElementById('briefing-toggle');
     if (toggle) {
-      toggle.addEventListener('click', () => {
+      toggle.addEventListener('click', function () {
         state.briefingExpanded = !state.briefingExpanded;
         render();
       });
     }
 
-    // Category filters
-    widget.querySelectorAll('[data-category]').forEach(btn => {
-      btn.addEventListener('click', () => {
-        state.activeCategory = btn.dataset.category;
+    // Date nav
+    var dateBtns = widget.querySelectorAll('[data-date]');
+    for (var i = 0; i < dateBtns.length; i++) {
+      dateBtns[i].addEventListener('click', function () {
+        state.activeDate = this.dataset.date;
+        state.briefingExpanded = false;
         render();
       });
-    });
+    }
+
+    // Category filters
+    var catBtns = widget.querySelectorAll('[data-category]');
+    for (var j = 0; j < catBtns.length; j++) {
+      catBtns[j].addEventListener('click', function () {
+        state.activeCategory = this.dataset.category;
+        render();
+      });
+    }
 
     // Region filters
-    widget.querySelectorAll('[data-region]').forEach(btn => {
-      btn.addEventListener('click', () => {
-        state.activeRegion = btn.dataset.region;
+    var regBtns = widget.querySelectorAll('[data-region]');
+    for (var k = 0; k < regBtns.length; k++) {
+      regBtns[k].addEventListener('click', function () {
+        state.activeRegion = this.dataset.region;
         render();
       });
-    });
+    }
   }
 
   // ---- Helpers ----
   function escHtml(str) {
-    const el = document.createElement('span');
+    var el = document.createElement('span');
     el.textContent = str || '';
     return el.innerHTML;
   }
 
   function escAttr(str) {
-    return (str || '').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    return (str || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function debounce(fn, ms) {
+    var timer;
+    return function () {
+      var self = this;
+      var args = arguments;
+      clearTimeout(timer);
+      timer = setTimeout(function () { fn.apply(self, args); }, ms);
+    };
   }
 
   // ---- Init ----
