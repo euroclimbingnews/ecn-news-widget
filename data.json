@@ -1,4 +1,125 @@
 {
-  "briefings": {},
-  "stories": []
+  "briefings": {
+    "2026-03-29": "European climbing gym operators face mixed fortunes as the industry continues to evolve. Several facilities are dealing with financial challenges, including Climbing Mulhouse Center in France struggling with financial difficulties and ClimbX in Luxembourg remaining closed following a December accident. Meanwhile, construction projects are advancing with the DAV Alpine Centre in Schorndorf completing its shell construction and plans for new facilities in Switzerland including a boulder hall in Burgdorf expected to open in summer 2026. Labor tensions persist in the sector with staff at Climb Up in Angers on strike over deteriorating working conditions, reflecting broader concerns about the commercial direction of climbing gym operations."
+  },
+  "stories": [
+    {
+      "id": 3,
+      "date": "2026-03-29",
+      "title": "Climbing Mulhouse Center faces financial difficulties amid impossible knot to untangle",
+      "summary": "The climbing gym located in former DMC premises, featuring France's tallest climbing wall at 25 meters, is currently facing serious financial difficulties. The facility, which was a significant landmark in the French climbing scene, is now struggling to maintain operations.",
+      "url": "https://www.lalsace.fr/culture-loisirs/2026/03/09/climbing-mulhouse-center-face-aux-difficultes-financieres-un-noeud-impossible-a-defaire",
+      "category": "Industry",
+      "region": "France",
+      "source": "L'Alsace",
+      "source_domain": "lalsace.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 4,
+      "date": "2026-03-29",
+      "title": "ClimbX climbing gym remains closed after December accident, stricter rules announced",
+      "summary": "The ClimbX climbing facility in Lallingen remains closed following an accident in December 2025. Local opposition is raising questions while the municipality has announced plans to implement stricter climbing regulations.",
+      "url": "https://www.tageblatt.lu/Luxemburg/Escher-Opposition-stellt-Fragen-Gemeinde-kuendigt-strengere-Kletter-Regeln-an-62878.html",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Tageblatt",
+      "source_domain": "tageblatt.lu",
+      "lang": "de"
+    },
+    {
+      "id": 5,
+      "date": "2026-03-29",
+      "title": "DAV Alpine Centre in Schorndorf completes shell construction, interior work progresses",
+      "summary": "The million-euro climbing hall project in Schorndorf has finished its shell construction phase and is entering the final stretch. Interior work is ongoing with plans for the facility to open soon.",
+      "url": "https://www.gmuender-tagespost.de/ostalb/lorch/dav-alpinzentrum-in-schorndorf-rohbau-fertig-drinnen-laeuft-94205875.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Gmünder Tagespost",
+      "source_domain": "gmuender-tagespost.de",
+      "lang": "de"
+    },
+    {
+      "id": 6,
+      "date": "2026-03-29",
+      "title": "New boulder hall planned for Burgdorf to open summer 2026 after seven-year delay",
+      "summary": "A climbing association in Burgdorf has been planning a new climbing facility since 2019. After seven years of delays, the boulder hall project is expected to finally open in summer 2026.",
+      "url": "https://www.neo1.ch/artikel/burgdorf-steht-kurz-vor-einer-neuen-boulderhalle",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "neo1",
+      "source_domain": "neo1.ch",
+      "lang": "de"
+    },
+    {
+      "id": 7,
+      "date": "2026-03-29",
+      "title": "Climb Up Angers staff on strike over deteriorating working conditions",
+      "summary": "Staff at the Climb Up climbing gym in Angers have gone on strike to protest deteriorating working conditions. This follows a similar strike at Climb Up Aubervilliers a year ago, marking a concerning trend in the climbing gym chain's labor relations.",
+      "url": "https://planetgrimpe.com/mobilisation-a-climb-up-angers-les-salaries-denoncent-une-degradation-de-leurs-conditions-de-travail/",
+      "category": "Labor",
+      "region": "France",
+      "source": "PlanetGrimpe",
+      "source_domain": "planetgrimpe.com",
+      "lang": "fr"
+    },
+    {
+      "id": 8,
+      "date": "2026-03-29",
+      "title": "New climbing hall under construction in Cologne's Deutz district",
+      "summary": "A new climbing facility is being constructed in a brown building in Cologne's Deutz district, located in the shadow of the trade fair high-rise. The project represents continued expansion of climbing facilities in major German cities.",
+      "url": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/koeln-in-deutz-entsteht-in-einem-braunen-kasten-eine-kletterhalle-1-1235036",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Kölner Stadt-Anzeiger",
+      "source_domain": "ksta.de",
+      "lang": "de"
+    },
+    {
+      "id": 9,
+      "date": "2026-03-29",
+      "title": "Le Locle to get new climbing wall as part of Communal site development",
+      "summary": "The Communal site in Le Locle will soon host a new climbing facility as part of a private project. The climbing wall is planned to cost 1.3 million francs and is scheduled for completion by Christmas 2026.",
+      "url": "https://www.arcinfo.ch/neuchatel-canton/montagnes/le-locle-commune/piscine-camping-football-ce-qui-va-changer-au-communal-du-locle-des-2026-1491479",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "ArcInfo",
+      "source_domain": "arcinfo.ch",
+      "lang": "fr"
+    },
+    {
+      "id": 10,
+      "date": "2026-03-29",
+      "title": "Face Nord climbing gym in Mons launches crowdfunding after contractor bankruptcy",
+      "summary": "The Face Nord climbing facility in Mons has launched a crowdfunding campaign to raise 60,000 euros needed to complete its transformation project after the bankruptcy of its contractor. The climbing gym is seeking to finish construction work that was left incomplete.",
+      "url": "https://www.dhnet.be/regions/mons/2026/03/01/la-salle-descalade-face-nord-lance-un-crowdfunding-pour-boucler-son-chantier-de-transformation-apres-la-faillite-de-lentrepreneur-ZCRYEPIFLVGTFCA2EG7DGWXDPE/",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "DH Net",
+      "source_domain": "dhnet.be",
+      "lang": "fr"
+    },
+    {
+      "id": 1,
+      "date": "2026-03-29",
+      "title": "2026 CWA Summit Week A to Z",
+      "summary": "The 2026 Climbing Wall Association Summit will take place April 11-17 in Salt Lake City, bringing together climbing industry professionals for networking, learning, and product demonstrations. The event serves as the climbing gym industry's premier annual gathering with less than 20 days remaining until the conference.",
+      "url": "https://climbingbusinessjournal.com/2026-cwa-summit-week-a-to-z/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-29",
+      "title": "Shauna Coxsey wins at the final ever CWIF competition",
+      "summary": "The Climbing Works has decided to make their 2026 competition the final edition of the CWIF after 19 years of running the event. Shauna Coxsey and Rei Kawamata took the top spots in what marks the end of one of the UK's most established climbing gym competitions.",
+      "url": "https://www.climber.co.uk/news/shauna-coxsey-wins-at-the-final-ever-cwif-competition/",
+      "category": "Industry",
+      "region": "UK",
+      "source": "Climber",
+      "source_domain": "climber.co.uk"
+    }
+  ]
 }
