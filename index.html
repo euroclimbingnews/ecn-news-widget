@@ -648,7 +648,7 @@
           '<h1>Euro Climbing News</h1>' +
           '<p class="subtitle">Industry Intelligence</p>' +
         '</div>' +
-        '<time>' + escHtml(formatDateFull(dates[0])) + '</time>' +
+    	'<time>' + (dates.length > 0 ? escHtml(formatDateFull(dates[0])) : '') + '</time>' +
       '</header>' +
 
       // Search
