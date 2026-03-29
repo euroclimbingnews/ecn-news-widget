@@ -1,4 +1,29 @@
 {
-  "briefings": {},
-  "stories": []
+  "briefings": {
+    "2026-03-29": "The climbing gym industry is gearing up for the 2026 CWA Summit in Salt Lake City, taking place April 11-17, which serves as the industry's premier networking and business development event. Meanwhile, The Climbing Works in the UK has announced that their 2026 competition will be the final edition of the CWIF after 19 years, with Shauna Coxsey taking the women's title in what marks the end of an era for one of the UK's most established climbing gym competitions."
+  },
+  "stories": [
+    {
+      "id": 1,
+      "date": "2026-03-29",
+      "title": "2026 CWA Summit Week A to Z",
+      "summary": "The 2026 Climbing Wall Association Summit will take place April 11-17 in Salt Lake City, bringing together climbing industry professionals for networking, learning, and product demonstrations. The event serves as the climbing gym industry's premier annual gathering with less than 20 days remaining until the conference.",
+      "url": "https://climbingbusinessjournal.com/2026-cwa-summit-week-a-to-z/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-29",
+      "title": "Shauna Coxsey wins at the final ever CWIF competition",
+      "summary": "The Climbing Works has decided to make their 2026 competition the final edition of the CWIF after 19 years of running the event. Shauna Coxsey and Rei Kawamata took the top spots in what marks the end of one of the UK's most established climbing gym competitions.",
+      "url": "https://www.climber.co.uk/news/shauna-coxsey-wins-at-the-final-ever-cwif-competition/",
+      "category": "Industry",
+      "region": "UK",
+      "source": "Climber",
+      "source_domain": "climber.co.uk"
+    }
+  ]
 }
