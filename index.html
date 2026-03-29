@@ -642,14 +642,15 @@
     var storyIndex = 0;
 
     widget.innerHTML =
-      // Header
+// Header
+      (EMBED_MODE ? '' :
       '<header class="header">' +
         '<div>' +
           '<h1>Euro Climbing News</h1>' +
           '<p class="subtitle">Industry Intelligence</p>' +
         '</div>' +
-    	'<time>' + (dates.length > 0 ? escHtml(formatDateFull(dates[0])) : '') + '</time>' +
-      '</header>' +
+        '<time>' + (dates.length > 0 ? escHtml(formatDateFull(dates[0])) : '') + '</time>' +
+      '</header>') +
 
       // Search
       '<div class="search-bar">' +
@@ -716,6 +717,7 @@
               grouped.map[dt].map(function (story) {
                 var i = storyIndex++;
                 var faviconUrl = FAVICON_API + encodeURIComponent(story.source_domain || '');
+		var EMBED_MODE = new URLSearchParams(window.location.search).get('embed') === 'true';
                 return '<article class="story" style="animation-delay: ' + (0.35 + i * 0.06) + 's" data-visible>' +
                   '<div class="story-meta">' +
                     '<span class="category-tag" data-cat="' + escAttr(story.category) + '">' + escHtml(story.category) + '</span>' +
@@ -743,11 +745,11 @@
         ) +
       '</div>' +
 
-      // Footer
+      (EMBED_MODE ? '' :
       '<footer class="footer">' +
         '<span>\u00a9 Euro Climbing News ' + new Date().getFullYear() + '</span>' +
         '<span>' + filtered.length + ' stories in archive \u00b7 Updated daily</span>' +
-      '</footer>';
+      '</footer>');
 
     bindEvents();
     animateStories();
