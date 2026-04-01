@@ -2,9 +2,43 @@
   "briefings": {
     "2026-03-29": "European climbing gym operators face mixed fortunes as the industry continues to evolve. Several facilities are dealing with financial challenges, including Climbing Mulhouse Center in France struggling with financial difficulties and ClimbX in Luxembourg remaining closed following a December accident. Meanwhile, construction projects are advancing with the DAV Alpine Centre in Schorndorf completing its shell construction and plans for new facilities in Switzerland including a boulder hall in Burgdorf expected to open in summer 2026. Labor tensions persist in the sector with staff at Climb Up in Angers on strike over deteriorating working conditions, reflecting broader concerns about the commercial direction of climbing gym operations.",
     "2026-03-30": "German climbing gym news features the conversion of a former church in Bad Orb into a climbing facility, highlighting the creative repurposing of historic buildings for the climbing industry. Meanwhile in France, a new leisure complex in Cormeilles-en-Parisis is preparing to open, featuring a climbing wall alongside bowling, trampoline park, and laser game facilities as part of a mixed entertainment offering.",
-    "2026-03-31": "The Baltic region's largest climbing gym is set to open in Vilnius on April 2nd, marking a significant expansion for the climbing industry in Eastern Europe. Meanwhile, the Swiss climbing community celebrated youth championships at the Elys climbing gym in Basel, highlighting the continued role of commercial climbing facilities in hosting competitive events."
+    "2026-03-31": "The Baltic region's largest climbing gym is set to open in Vilnius on April 2nd, marking a significant expansion for the climbing industry in Eastern Europe. Meanwhile, the Swiss climbing community celebrated youth championships at the Elys climbing gym in Basel, highlighting the continued role of commercial climbing facilities in hosting competitive events.",
+    "2026-04-01": "The climbing gym industry saw important developments in equipment and partnerships today. Kilter Board launched a new app after their previous third-party operator shut down the original platform, allowing climbers to reclaim boulders they created. Sender One Climbing announced a multi-year partnership with So iLL running through the 2028 Olympics, bringing exclusive products to the climbing community. RAMPF Group showcased new polyurethane resin and dispensing technology for cost-efficient climbing hold manufacturing at the Climbing Wall Summit, while Crag X is actively seeking used TruBlue auto belay equipment for their operations."
   },
   "stories": [
+    {
+      "id": 15,
+      "date": "2026-04-01",
+      "title": "New Kilter Board App Launched After Third-Party Shutdown",
+      "summary": "Kilter Board has launched a new app from the ground up after their previous third-party operator shut down the original platform. The new app allows climbers to reclaim the boulders they created, though the company admits it was launched earlier than planned without full polish.",
+      "url": "https://climbingbusinessjournal.com/new-kilter-board-app-reclaim-the-boulders-you-created/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 16,
+      "date": "2026-04-01",
+      "title": "Sender One Climbing Partners with So iLL for Multi-Year Deal Through 2028 Olympics",
+      "summary": "Southern California climbing gym operator Sender One Climbing has announced a three-year partnership with climbing company So iLL. The collaboration will bring exclusive products and new ideas to the climbing community, culminating with the 2028 Summer Olympic Games.",
+      "url": "https://climbingbusinessjournal.com/sender-one-climbing-and-so-ill-announce-multi-year-partnership-ahead-of-the-2028-olympics/",
+      "category": "M&A",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 17,
+      "date": "2026-04-01",
+      "title": "RAMPF Showcases New Materials Technology for Climbing Hold Manufacturing",
+      "summary": "RAMPF Group presented polyurethane resin RAKU TOOL IE-3092, silicones, tooling boards, and automated dispensing technology for cost-efficient climbing hold manufacturing at the Climbing Wall Summit. The technology aims to improve the manufacturing process for high-performance climbing holds.",
+      "url": "https://climbingbusinessjournal.com/materials-processing-technology-for-cost-efficient-climbing-hold-manufacturing/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 14,
       "date": "2026-03-31",
@@ -84,7 +118,7 @@
       "url": "https://www.gmuender-tagespost.de/ostalb/lorch/dav-alpinzentrum-in-schorndorf-rohbau-fertig-drinnen-laeuft-94205875.html",
       "category": "Openings",
       "region": "Germany",
-      "source": "GmÃÂÃÂ¼nder Tagespost",
+      "source": "GmÃÂÃÂÃÂÃÂ¼nder Tagespost",
       "source_domain": "gmuender-tagespost.de",
       "lang": "de"
     },
@@ -120,7 +154,7 @@
       "url": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/koeln-in-deutz-entsteht-in-einem-braunen-kasten-eine-kletterhalle-1-1235036",
       "category": "Openings",
       "region": "Germany",
-      "source": "KÃÂÃÂ¶lner Stadt-Anzeiger",
+      "source": "KÃÂÃÂÃÂÃÂ¶lner Stadt-Anzeiger",
       "source_domain": "ksta.de",
       "lang": "de"
     },
