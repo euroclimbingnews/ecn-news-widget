@@ -4,14 +4,48 @@
     "2026-03-30": "German climbing gym news features the conversion of a former church in Bad Orb into a climbing facility, highlighting the creative repurposing of historic buildings for the climbing industry. Meanwhile in France, a new leisure complex in Cormeilles-en-Parisis is preparing to open, featuring a climbing wall alongside bowling, trampoline park, and laser game facilities as part of a mixed entertainment offering.",
     "2026-03-31": "The Baltic region's largest climbing gym is set to open in Vilnius on April 2nd, marking a significant expansion for the climbing industry in Eastern Europe. Meanwhile, the Swiss climbing community celebrated youth championships at the Elys climbing gym in Basel, highlighting the continued role of commercial climbing facilities in hosting competitive events.",
     "2026-04-01": "The Baltic region's climbing gym scene is expanding with the opening of the largest climbing gym in the Baltic states in Vilnius, marking a significant development for the northeastern European market.",
-    "2026-04-02": "French climbing gym activity shows steady local engagement, with Labroquère hosting its fourth annual climbing open and Chambéry Escalade installing new competition walls. However, most stories today focused on competitions and ski season wrap-ups rather than significant business developments in the climbing gym sector."
+    "2026-04-02": "French climbing gym activity shows steady local engagement, with LabroquÃ¨re hosting its fourth annual climbing open and ChambÃ©ry Escalade installing new competition walls. However, most stories today focused on competitions and ski season wrap-ups rather than significant business developments in the climbing gym sector.",
+    "2026-04-03": "The U.S. climbing gym industry continues to face workforce challenges as CBJ launches its 2026 compensation survey to address pay equity issues across climbing facilities. Meanwhile, the debate over USA Climbing's proposed National Training Center in Salt Lake City intensifies, with the Athletes' Commission supporting the project despite opposition from over 100 gym owners. Berkshire Boulders in Massachusetts is seeking a general manager with significant ownership stake, highlighting the ongoing staffing needs in the sector."
   },
   "stories": [
     {
+      "id": 21,
+      "date": "2026-04-03",
+      "title": "USA Climbing CEO Marc Norman Discusses Training Centers and LA28 Road Map",
+      "summary": "USA Climbing CEO Marc Norman was interviewed about the organization's plans for training centers and the road to the 2028 Los Angeles Olympics. Norman brings two decades of experience from the Utah Olympic Legacy Foundation, where he oversaw three Olympic facilities and 300 employees. The discussion covers athlete development and training infrastructure needs for competitive climbing.",
+      "url": "https://climbingbusinessjournal.com/athletes-training-centers-road-to-la28-cbj-podcast-with-marc-norman/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 22,
+      "date": "2026-04-03",
+      "title": "Berkshire Boulders Seeks General Manager with Ownership Stake",
+      "summary": "Berkshire Boulders in Great Barrington, Massachusetts is recruiting for a General Manager position. The role comes with significant ownership stake in the business and full responsibility for gym operations. This represents part of the ongoing staffing challenges facing climbing gym operators.",
+      "url": "https://climbingbusinessjournal.com/manage-berkshire-boulders-climbing-jobs-weekly-2026-april-2/",
+      "category": "Labor",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
+    {
+      "id": 23,
+      "date": "2026-04-03",
+      "title": "USA Climbing Athletes Support National Training Center Despite Gym Owner Opposition",
+      "summary": "The USA Climbing Athletes' Commission has voiced support for the proposed National Training Center in Salt Lake City. This comes after over 100 gym owners signed a petition expressing opposition to the project. The debate highlights tensions between national competitive climbing development and local gym business interests.",
+      "url": "https://gripped.com/news/usa-climbing-athletes-commission-speaks-out-in-favour-of-national-training-center/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Gripped",
+      "source_domain": "gripped.com"
+    },
+    {
       "id": 20,
       "date": "2026-04-02",
-      "title": "New competition wall for Chambéry Escalade club",
-      "summary": "Chambéry Escalade climbing club has installed a new competition wall as part of facility improvements. The climbing gym has reopened following the installation work.",
+      "title": "New competition wall for ChambÃ©ry Escalade club",
+      "summary": "ChambÃ©ry Escalade climbing club has installed a new competition wall as part of facility improvements. The climbing gym has reopened following the installation work.",
       "url": "https://www.savoie-news.fr/reportages/sport/article/un-nouveau-mur-de-competition-pour-le-club-chambery-escalade",
       "category": "Industry",
       "region": "France",
@@ -154,7 +188,7 @@
       "url": "https://www.gmuender-tagespost.de/ostalb/lorch/dav-alpinzentrum-in-schorndorf-rohbau-fertig-drinnen-laeuft-94205875.html",
       "category": "Openings",
       "region": "Germany",
-      "source": "GmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼nder Tagespost",
+      "source": "GmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼nder Tagespost",
       "source_domain": "gmuender-tagespost.de",
       "lang": "de"
     },
@@ -190,7 +224,7 @@
       "url": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/koeln-in-deutz-entsteht-in-einem-braunen-kasten-eine-kletterhalle-1-1235036",
       "category": "Openings",
       "region": "Germany",
-      "source": "KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶lner Stadt-Anzeiger",
+      "source": "KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶lner Stadt-Anzeiger",
       "source_domain": "ksta.de",
       "lang": "de"
     },
