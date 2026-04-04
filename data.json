@@ -4,11 +4,23 @@
     "2026-03-30": "German climbing gym news features the conversion of a former church in Bad Orb into a climbing facility, highlighting the creative repurposing of historic buildings for the climbing industry. Meanwhile in France, a new leisure complex in Cormeilles-en-Parisis is preparing to open, featuring a climbing wall alongside bowling, trampoline park, and laser game facilities as part of a mixed entertainment offering.",
     "2026-03-31": "The Baltic region's largest climbing gym is set to open in Vilnius on April 2nd, marking a significant expansion for the climbing industry in Eastern Europe. Meanwhile, the Swiss climbing community celebrated youth championships at the Elys climbing gym in Basel, highlighting the continued role of commercial climbing facilities in hosting competitive events.",
     "2026-04-01": "The Baltic region's climbing gym scene is expanding with the opening of the largest climbing gym in the Baltic states in Vilnius, marking a significant development for the northeastern European market.",
-    "2026-04-02": "French climbing gym activity shows steady local engagement, with LabroquÃÂ¨re hosting its fourth annual climbing open and ChambÃÂ©ry Escalade installing new competition walls. However, most stories today focused on competitions and ski season wrap-ups rather than significant business developments in the climbing gym sector.",
+    "2026-04-02": "French climbing gym activity shows steady local engagement, with LabroquÃÂÃÂ¨re hosting its fourth annual climbing open and ChambÃÂÃÂ©ry Escalade installing new competition walls. However, most stories today focused on competitions and ski season wrap-ups rather than significant business developments in the climbing gym sector.",
     "2026-04-03": "The U.S. climbing gym industry continues to face workforce challenges as CBJ launches its 2026 compensation survey to address pay equity issues across climbing facilities. Meanwhile, the debate over USA Climbing's proposed National Training Center in Salt Lake City intensifies, with the Athletes' Commission supporting the project despite opposition from over 100 gym owners. Berkshire Boulders in Massachusetts is seeking a general manager with significant ownership stake, highlighting the ongoing staffing needs in the sector.",
-    "2026-04-04": "The climbing gym industry is preparing for the CWA Summit, which has expanded its programming to kick off Wednesday morning with keynotes and roundtables. The industry continues to focus on workforce development, with CBJ conducting a fresh compensation survey to help establish equitable pay standards across climbing gyms. Meanwhile, Salt Lake City's Momentum Indoor Climbing Fort Union will host the opening event of the World Climbing Para Series from May 15-16, highlighting the growing importance of adaptive climbing programs in commercial facilities."
+    "2026-04-04": "Limited climbing gym industry activity reported today, with most stories focusing on general climbing content rather than business developments. A new climbing hall is mentioned as part of a leisure center development in St. Georgen, Austria, though details remain sparse."
   },
   "stories": [
+    {
+      "id": 27,
+      "date": "2026-04-04",
+      "title": "New climbing hall opens at St. Georgen leisure center",
+      "summary": "A new climbing hall has opened as part of the leisure center development in St. Georgen, Austria. The facility appears to be part of a broader recreational complex expansion in the Vöcklabruck area.",
+      "url": "https://tv1.nachrichten.at/ober%C3%B6sterreich/top/liebstattsonntag_gmunden_feiert_die_liebe_/678",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "TV1",
+      "source_domain": "tv1.nachrichten.at",
+      "lang": "de"
+    },
     {
       "id": 24,
       "date": "2026-04-04",
@@ -78,8 +90,8 @@
     {
       "id": 20,
       "date": "2026-04-02",
-      "title": "New competition wall for ChambÃÂ©ry Escalade club",
-      "summary": "ChambÃÂ©ry Escalade climbing club has installed a new competition wall as part of facility improvements. The climbing gym has reopened following the installation work.",
+      "title": "New competition wall for ChambÃÂÃÂ©ry Escalade club",
+      "summary": "ChambÃÂÃÂ©ry Escalade climbing club has installed a new competition wall as part of facility improvements. The climbing gym has reopened following the installation work.",
       "url": "https://www.savoie-news.fr/reportages/sport/article/un-nouveau-mur-de-competition-pour-le-club-chambery-escalade",
       "category": "Industry",
       "region": "France",
@@ -222,7 +234,7 @@
       "url": "https://www.gmuender-tagespost.de/ostalb/lorch/dav-alpinzentrum-in-schorndorf-rohbau-fertig-drinnen-laeuft-94205875.html",
       "category": "Openings",
       "region": "Germany",
-      "source": "GmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼nder Tagespost",
+      "source": "GmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼nder Tagespost",
       "source_domain": "gmuender-tagespost.de",
       "lang": "de"
     },
@@ -258,7 +270,7 @@
       "url": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/koeln-in-deutz-entsteht-in-einem-braunen-kasten-eine-kletterhalle-1-1235036",
       "category": "Openings",
       "region": "Germany",
-      "source": "KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶lner Stadt-Anzeiger",
+      "source": "KÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶lner Stadt-Anzeiger",
       "source_domain": "ksta.de",
       "lang": "de"
     },
