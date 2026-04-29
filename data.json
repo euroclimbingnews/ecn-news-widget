@@ -1,4 +1,19 @@
 {
-  "briefings": {},
-  "stories": []
+  "briefings": {
+    "2026-04-29": "Today's European climbing industry news is limited, with only one relevant story from Spain. Climbing gym chain Climbat concluded their 2025-26 Youth League with 460 participants in the final round held on April 19th across five Climbat centers, reinforcing its position as the leading youth and children's climbing competition in Spain. The league focuses on promoting participation and enjoyment in youth climbing competitions. Other stories from international sources cover outdoor climbing achievements and gear reviews that fall outside our European gym industry focus."
+  },
+  "stories": [
+    {
+      "id": 1,
+      "date": "2026-04-29",
+      "title": "Climbat Youth League 2025-26 Concludes with 460 Participants in Final Round",
+      "summary": "Spanish climbing gym chain Climbat wrapped up their 2025-26 Youth League with 460 participants in the third and final round held on April 19th across five Climbat centers. The league has established itself as the leading competition on the youth and children's climbing calendar, focusing on promoting participation and enjoyment in the sport.",
+      "url": "https://www.desnivel.com/material/noticias-de-empresa/la-liga-infantil-climbat-25-26-cierra-con-460-participantes-en-la-ultima-jornada/",
+      "category": "Industry",
+      "region": "Spain",
+      "source": "Desnivel",
+      "source_domain": "desnivel.com",
+      "lang": "es"
+    }
+  ]
 }
