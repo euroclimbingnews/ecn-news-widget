@@ -1,8 +1,104 @@
 {
   "briefings": {
-    "2026-04-29": "Today's European climbing industry news is limited, with only one relevant story from Spain. Climbing gym chain Climbat concluded their 2025-26 Youth League with 460 participants in the final round held on April 19th across five Climbat centers, reinforcing its position as the leading youth and children's climbing competition in Spain. The league focuses on promoting participation and enjoyment in youth climbing competitions. Other stories from international sources cover outdoor climbing achievements and gear reviews that fall outside our European gym industry focus."
+    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in Würzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria."
   },
   "stories": [
+    {
+      "id": 2,
+      "date": "2026-04-29",
+      "title": "Upzone 360 climbing gym opens in Rodez with innovative concept",
+      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by Sébastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
+      "url": "https://www.centrepresseaveyron.fr/2026/04/29/jai-voulu-creer-un-espace-tout-public-et-toujours-en-mouvement-decouvrez-upzone-360-la-nouvelle-salle-descalade-de-rodez-dotee-dun-espace-13347668.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Centre Presse Aveyron",
+      "source_domain": "centrepresseaveyron.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 3,
+      "date": "2026-04-29",
+      "title": "St. Andreas Church in Würzburg converted to climbing hall by Rock Inn",
+      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in Würzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
+      "url": "https://www.mainpost.de/wuerzburg/stadtwuerzburg/in-wuerzburg-baut-das-rock-inn-die-erste-kletterkirche-in-bayern-110571602",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Main-Post",
+      "source_domain": "mainpost.de",
+      "lang": "de"
+    },
+    {
+      "id": 4,
+      "date": "2026-04-29",
+      "title": "The Roof climbing gym in Poitiers expands with 30 additional meters",
+      "summary": "The Roof bouldering gym in Poitiers has inaugurated a new climbing space, adding 30 linear meters of additional climbing surface. The expansion represents significant growth for the facility's boulder climbing offerings.",
+      "url": "https://www.le7.info/article/27108-the-roof-monte-dun-bloc",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le7.info",
+      "source_domain": "le7.info",
+      "lang": "fr"
+    },
+    {
+      "id": 5,
+      "date": "2026-04-29",
+      "title": "Karma La Villette climbing gym officially inaugurated in Paris",
+      "summary": "The federal climbing gym Karma La Villette was officially inaugurated on April 10th after opening its doors to the public in January. The facility represents a significant addition to Paris's climbing infrastructure.",
+      "url": "https://www.ffme.fr/karma-la-villette-officiellement-inauguree/",
+      "category": "Openings",
+      "region": "France",
+      "source": "FFME",
+      "source_domain": "ffme.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 6,
+      "date": "2026-04-29",
+      "title": "Bimano bouldering hall in Solothurn faces financial pressure",
+      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano Böhlen, is struggling with economic pressures despite its operations.",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/bimano-boulderhalle-solothurn-steht-finanziell-unter-druck-ld.4149167",
+      "category": "Industry",
+      "region": "Switzerland",
+      "source": "Solothurner Zeitung",
+      "source_domain": "solothurnerzeitung.ch",
+      "lang": "de"
+    },
+    {
+      "id": 7,
+      "date": "2026-04-29",
+      "title": "Face Nord climbing gym in Mons fails to meet crowdfunding target",
+      "summary": "The Face Nord climbing gym project in Mons, Belgium has failed to reach its crowdfunding objectives and must postpone its development plans. The project organizers expressed disappointment at the lack of community support for the climbing facility.",
+      "url": "https://www.lavenir.net/regions/mons-centre/mons/2026/04/16/la-salle-descalade-montoise-face-nord-natteint-pas-ses-objectifs-de-crowdfunding-et-doit-reporter-son-projet-je-suis-vraiment-decu-CADJBE2TY5CITET7JC72EIE2BQ/",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "L'Avenir",
+      "source_domain": "lavenir.net",
+      "lang": "fr"
+    },
+    {
+      "id": 8,
+      "date": "2026-04-29",
+      "title": "Esch updates ClimbX climbing wall regulations after accident",
+      "summary": "The city of Esch in Luxembourg has revised the operating regulations for its ClimbX climbing wall following an accident. The new rules will clarify usage guidelines, responsibilities, and safety procedures for the facility.",
+      "url": "https://www.tageblatt.lu/Luxemburg/Esch-stellt-neue-Betriebsregelung-der-ClimbX-Kletterwand-vor-63756.html",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Tageblatt.lu",
+      "source_domain": "tageblatt.lu",
+      "lang": "de"
+    },
+    {
+      "id": 9,
+      "date": "2026-04-29",
+      "title": "New leisure park with climbing gym planned in Cormeilles-en-Parisis",
+      "summary": "A leisure complex including a bowling alley, trampoline park, climbing gym and laser game is being developed at the Bois Rochefort ZAC in Cormeilles-en-Parisis, France. The project represents a significant addition to the area's recreational facilities.",
+      "url": "https://www.lesechos.fr/pme-regions/ile-de-france/val-doise-cormeilles-en-parisis-boucle-le-pole-economique-des-bois-rochefort-2223537",
+      "category": "Openings",
+      "region": "France",
+      "source": "Les Echos",
+      "source_domain": "lesechos.fr",
+      "lang": "fr"
+    },
     {
       "id": 1,
       "date": "2026-04-29",
