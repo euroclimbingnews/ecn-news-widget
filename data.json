@@ -1,13 +1,14 @@
 {
   "briefings": {
-    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in Würzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria."
+    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in WÃ¼rzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria.",
+    "2026-04-30": "Today's European climbing gym industry news is limited, with only one relevant story from Spain's gym chain sector. Climbat concluded its youth climbing league for the 2025-26 season with 460 participants in the final session across five centers, highlighting the chain's commitment to youth engagement and participation in competitive climbing. The remaining stories focus on outdoor climbing achievements and international competition results outside Europe."
   },
   "stories": [
     {
       "id": 2,
       "date": "2026-04-29",
       "title": "Upzone 360 climbing gym opens in Rodez with innovative concept",
-      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by Sébastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
+      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by SÃ©bastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
       "url": "https://www.centrepresseaveyron.fr/2026/04/29/jai-voulu-creer-un-espace-tout-public-et-toujours-en-mouvement-decouvrez-upzone-360-la-nouvelle-salle-descalade-de-rodez-dotee-dun-espace-13347668.php",
       "category": "Openings",
       "region": "France",
@@ -18,8 +19,8 @@
     {
       "id": 3,
       "date": "2026-04-29",
-      "title": "St. Andreas Church in Würzburg converted to climbing hall by Rock Inn",
-      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in Würzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
+      "title": "St. Andreas Church in WÃ¼rzburg converted to climbing hall by Rock Inn",
+      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in WÃ¼rzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
       "url": "https://www.mainpost.de/wuerzburg/stadtwuerzburg/in-wuerzburg-baut-das-rock-inn-die-erste-kletterkirche-in-bayern-110571602",
       "category": "Openings",
       "region": "Germany",
@@ -55,7 +56,7 @@
       "id": 6,
       "date": "2026-04-29",
       "title": "Bimano bouldering hall in Solothurn faces financial pressure",
-      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano Böhlen, is struggling with economic pressures despite its operations.",
+      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano BÃ¶hlen, is struggling with economic pressures despite its operations.",
       "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/bimano-boulderhalle-solothurn-steht-finanziell-unter-druck-ld.4149167",
       "category": "Industry",
       "region": "Switzerland",
