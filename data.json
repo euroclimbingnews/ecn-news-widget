@@ -1,9 +1,22 @@
 {
   "briefings": {
-    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in WÃÂ¼rzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria.",
-    "2026-04-30": "European climbing gym operators continue to expand their footprint with new facilities opening across the continent. In France, Upzone 360 has launched a new climbing gym in Rodez featuring innovative facilities, while Austrian climbing gyms remain active in community engagement through charity events. German climbing facilities continue to show strong membership growth, with some clubs reporting over 3,700 members despite facing infrastructure challenges."
+    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in WÃÂÃÂ¼rzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria.",
+    "2026-04-30": "European climbing gym operators continue to expand their footprint with new facilities opening across the continent. In France, Upzone 360 has launched a new climbing gym in Rodez featuring innovative facilities, while Austrian climbing gyms remain active in community engagement through charity events. German climbing facilities continue to show strong membership growth, with some clubs reporting over 3,700 members despite facing infrastructure challenges.",
+    "2026-05-01": "A new climbing gym project is moving forward in Belgium, where the Entre Ciel et Terre association is launching a citizen space centered around a bouldering hall in Genval, marking a first of its kind in the country. Meanwhile, German climbing media focused on training facilities and competitions, with coverage of paraclimbing championships in Kempten and local climbing hall activities."
   },
   "stories": [
+    {
+      "id": 12,
+      "date": "2026-05-01",
+      "title": "Genval: New Climbing Gym Project by Entre Ciel et Terre",
+      "summary": "The Entre Ciel et Terre association is launching a new citizen space centered around a bouldering hall in Genval, Belgium. This project is described as a first of its kind in Belgium, combining climbing facilities with community space.",
+      "url": "https://www.tvcom.be/info/genval-une-nouvelle-salle-descalade-le-projet-dentre-ciel-et-terre/57732",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "TVcom",
+      "source_domain": "tvcom.be",
+      "lang": "fr"
+    },
     {
       "id": 10,
       "date": "2026-04-30",
@@ -19,8 +32,8 @@
     {
       "id": 11,
       "date": "2026-04-30",
-      "title": "Climbing club faces €165,000 deficit despite 3,700 members due to facility renovations",
-      "summary": "A German climbing club with 3,700 members is facing a €165,000 budget shortfall due to hut renovation costs. Despite the financial challenge, the club's tour offerings have continued to grow, and their climbing gym, completed in 2016, has become financially sustainable after initial struggles. The facility is now profitable thanks to good management.",
+      "title": "Climbing club faces â¬165,000 deficit despite 3,700 members due to facility renovations",
+      "summary": "A German climbing club with 3,700 members is facing a â¬165,000 budget shortfall due to hut renovation costs. Despite the financial challenge, the club's tour offerings have continued to grow, and their climbing gym, completed in 2016, has become financially sustainable after initial struggles. The facility is now profitable thanks to good management.",
       "url": "https://www.giessener-anzeiger.de/stadt-giessen/trotz-3700-mitgliedern-huettensanierung-reisst-165-000-euro-loch-94283447.html",
       "category": "Industry",
       "region": "Germany",
@@ -32,7 +45,7 @@
       "id": 2,
       "date": "2026-04-29",
       "title": "Upzone 360 climbing gym opens in Rodez with innovative concept",
-      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by SÃÂ©bastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
+      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by SÃÂÃÂ©bastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
       "url": "https://www.centrepresseaveyron.fr/2026/04/29/jai-voulu-creer-un-espace-tout-public-et-toujours-en-mouvement-decouvrez-upzone-360-la-nouvelle-salle-descalade-de-rodez-dotee-dun-espace-13347668.php",
       "category": "Openings",
       "region": "France",
@@ -43,8 +56,8 @@
     {
       "id": 3,
       "date": "2026-04-29",
-      "title": "St. Andreas Church in WÃÂ¼rzburg converted to climbing hall by Rock Inn",
-      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in WÃÂ¼rzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
+      "title": "St. Andreas Church in WÃÂÃÂ¼rzburg converted to climbing hall by Rock Inn",
+      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in WÃÂÃÂ¼rzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
       "url": "https://www.mainpost.de/wuerzburg/stadtwuerzburg/in-wuerzburg-baut-das-rock-inn-die-erste-kletterkirche-in-bayern-110571602",
       "category": "Openings",
       "region": "Germany",
@@ -80,7 +93,7 @@
       "id": 6,
       "date": "2026-04-29",
       "title": "Bimano bouldering hall in Solothurn faces financial pressure",
-      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano BÃÂ¶hlen, is struggling with economic pressures despite its operations.",
+      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano BÃÂÃÂ¶hlen, is struggling with economic pressures despite its operations.",
       "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/bimano-boulderhalle-solothurn-steht-finanziell-unter-druck-ld.4149167",
       "category": "Industry",
       "region": "Switzerland",
