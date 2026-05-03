@@ -1,12 +1,24 @@
 {
   "briefings": {
-    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria.",
+    "2026-04-29": "European climbing gym industry activity remains steady with several significant developments this week. France continues to see expansion with Upzone 360 opening in Rodez and Karma La Villette officially inaugurating in Paris, while The Roof in Poitiers expands its boulder facilities. In Germany, the unique conversion of St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg to a climbing facility by Rock Inn represents a creative solution to church repurposing. Switzerland's Bimano bouldering hall in Solothurn faces financial difficulties, highlighting ongoing challenges for gym operators. Meanwhile, new climbing facility projects are advancing across the region, from Cormeilles-en-Parisis in France to potential developments in Germany and Austria.",
     "2026-04-30": "European climbing gym operators continue to expand their footprint with new facilities opening across the continent. In France, Upzone 360 has launched a new climbing gym in Rodez featuring innovative facilities, while Austrian climbing gyms remain active in community engagement through charity events. German climbing facilities continue to show strong membership growth, with some clubs reporting over 3,700 members despite facing infrastructure challenges.",
     "2026-05-01": "A new climbing gym project is moving forward in Belgium, where the Entre Ciel et Terre association is launching a citizen space centered around a bouldering hall in Genval, marking a first of its kind in the country. Meanwhile, German climbing media focused on training facilities and competitions, with coverage of paraclimbing championships in Kempten and local climbing hall activities.",
-    "2026-05-02": "Three new climbing facilities opened across Europe this week. France saw the inauguration of Altissimo, an XXL climbing gym in Saint-Geours-de-Maremne, while Belgium welcomed Bon Matin, a unique hybrid concept combining a neighborhood cafÃ© with a climbing gym in Etterbeek. Meanwhile, DAV Wuppertal confirmed their board at their annual meeting held at the WupperwÃ¤nde climbing hall.",
-    "2026-05-03": "The climbing gym industry sees product innovation this week with new holds that enable traditional climbing practice indoors, allowing gym climbers to place and take falls on real protection gear like cams and nuts. This development could expand training opportunities for climbers transitioning from gym to outdoor trad climbing, though adoption will depend on safety protocols and gym operator appetite for more complex equipment."
+    "2026-05-02": "Three new climbing facilities opened across Europe this week. France saw the inauguration of Altissimo, an XXL climbing gym in Saint-Geours-de-Maremne, while Belgium welcomed Bon Matin, a unique hybrid concept combining a neighborhood cafÃÂ© with a climbing gym in Etterbeek. Meanwhile, DAV Wuppertal confirmed their board at their annual meeting held at the WupperwÃÂ¤nde climbing hall.",
+    "2026-05-03": "Climb World, a new bouldering gym, is set to open in Paris's 14th arrondissement and is currently recruiting reception staff for the facility, which is being promoted as the largest bouldering gym in Paris."
   },
   "stories": [
+    {
+      "id": 16,
+      "date": "2026-05-03",
+      "title": "Climb World Paris Recruiting Reception Staff Ahead of Opening",
+      "summary": "Climb World, described as the largest bouldering gym in Paris, is hiring reception staff as part of its opening preparations in the 14th arrondissement. The job posting indicates the facility is actively preparing for its launch in the French capital.",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78652255.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Hellowork",
+      "source_domain": "hellowork.com",
+      "lang": "fr"
+    },
     {
       "id": 14,
       "date": "2026-05-02",
@@ -22,8 +34,8 @@
     {
       "id": 15,
       "date": "2026-05-02",
-      "title": "Bon Matin combines neighborhood cafÃ© and climbing in Etterbeek",
-      "summary": "A unique hybrid venue called Bon Matin has opened in a former industrial hangar in Etterbeek, Belgium. The concept combines a neighborhood cafÃ© with a climbing gym, allowing customers to climb and then enjoy refreshments in the same location.",
+      "title": "Bon Matin combines neighborhood cafÃÂ© and climbing in Etterbeek",
+      "summary": "A unique hybrid venue called Bon Matin has opened in a former industrial hangar in Etterbeek, Belgium. The concept combines a neighborhood cafÃÂ© with a climbing gym, allowing customers to climb and then enjoy refreshments in the same location.",
       "url": "https://www.sudinfo.be/id1145586/article/2026-05-01/bon-matin-mele-cafe-de-quartier-et-escalade-etterbeek-peut-venir-grimper-puis",
       "category": "Openings",
       "region": "Benelux",
@@ -69,8 +81,8 @@
     {
       "id": 11,
       "date": "2026-04-30",
-      "title": "Climbing club faces ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¬165,000 deficit despite 3,700 members due to facility renovations",
-      "summary": "A German climbing club with 3,700 members is facing a ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¬165,000 budget shortfall due to hut renovation costs. Despite the financial challenge, the club's tour offerings have continued to grow, and their climbing gym, completed in 2016, has become financially sustainable after initial struggles. The facility is now profitable thanks to good management.",
+      "title": "Climbing club faces ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¬165,000 deficit despite 3,700 members due to facility renovations",
+      "summary": "A German climbing club with 3,700 members is facing a ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¬165,000 budget shortfall due to hut renovation costs. Despite the financial challenge, the club's tour offerings have continued to grow, and their climbing gym, completed in 2016, has become financially sustainable after initial struggles. The facility is now profitable thanks to good management.",
       "url": "https://www.giessener-anzeiger.de/stadt-giessen/trotz-3700-mitgliedern-huettensanierung-reisst-165-000-euro-loch-94283447.html",
       "category": "Industry",
       "region": "Germany",
@@ -82,7 +94,7 @@
       "id": 2,
       "date": "2026-04-29",
       "title": "Upzone 360 climbing gym opens in Rodez with innovative concept",
-      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©bastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
+      "summary": "A new climbing gym called Upzone 360 has opened its doors in Rodez, France, featuring an innovative space that combines climbing with other activities. The facility, led by SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©bastien Anglade, opened on April 25th at 19 avenue Amans Rodat.",
       "url": "https://www.centrepresseaveyron.fr/2026/04/29/jai-voulu-creer-un-espace-tout-public-et-toujours-en-mouvement-decouvrez-upzone-360-la-nouvelle-salle-descalade-de-rodez-dotee-dun-espace-13347668.php",
       "category": "Openings",
       "region": "France",
@@ -93,8 +105,8 @@
     {
       "id": 3,
       "date": "2026-04-29",
-      "title": "St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg converted to climbing hall by Rock Inn",
-      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
+      "title": "St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg converted to climbing hall by Rock Inn",
+      "summary": "The Rock Inn climbing facility is converting St. Andreas Church in WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼rzburg's Sanderau district into Bavaria's first climbing church. The project involves transforming the former Catholic church into a climbing and bouldering hall, with plans to complete the conversion over the next year.",
       "url": "https://www.mainpost.de/wuerzburg/stadtwuerzburg/in-wuerzburg-baut-das-rock-inn-die-erste-kletterkirche-in-bayern-110571602",
       "category": "Openings",
       "region": "Germany",
@@ -130,7 +142,7 @@
       "id": 6,
       "date": "2026-04-29",
       "title": "Bimano bouldering hall in Solothurn faces financial pressure",
-      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶hlen, is struggling with economic pressures despite its operations.",
+      "summary": "The Bimano bouldering hall in Solothurn, Switzerland is experiencing financial difficulties. The facility, founded by Jasmin Blaser, Wolfgang Antz, and Jano BÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶hlen, is struggling with economic pressures despite its operations.",
       "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/bimano-boulderhalle-solothurn-steht-finanziell-unter-druck-ld.4149167",
       "category": "Industry",
       "region": "Switzerland",
