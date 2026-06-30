@@ -1,8 +1,128 @@
 {
   "briefings": {
-    "2026-06-30": "Several new climbing gym openings are in the pipeline across continental Europe today. In France, father-son duo Bloc'Up has launched an innovative new climbing gym concept in Roquevaire. In Austria, Vienna's Brigittenau district welcomes 'das flash', a new community-focused climbing gym in a converted factory hall. Meanwhile in Germany, the Kaufbeuren sports association has voted to approve construction and operation of a new climbing hall as part of a planned facility expansion."
+    "2026-06-30": "Today's European climbing gym news features several openings and facility upgrades. Belgium's Louvain-la-Neuve sports complex has installed a connected Kilter Board, while Germany's Schorndorf has opened a new Alpine Centre with bouldering, a bistro and sustainable design. In Switzerland, investor Samih Sawiris has unveiled plans for a major new sports centre in Andermatt featuring a climbing hall alongside a pool, spa and ice rink, though completion isn't expected until 2032/33. Paris continues its gym boom with a new large bouldering facility in the Seine-Saint-Denis department, and several disused Paris-region churches are being repurposed into climbing gyms and bars. Separately, a fatal accident at a climbing gym in Zolver, Luxembourg has prompted comment from the national climbing federation on indoor climbing safety standards."
   },
   "stories": [
+    {
+      "id": 4,
+      "date": "2026-06-30",
+      "title": "Hamburg shopping centre transforms into climbing wall again",
+      "summary": "The popular free climbing wall has returned to Hamburg's Europa Passage shopping centre in the city centre. The article offers tips on who should visit and when, as the attraction draws crowds during its limited run.",
+      "url": "https://www.abendblatt.de/sport/article412320574/hamburger-einkaufszentrum-wird-zur-kletterhalle-tipps-zum-mitmachen.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Abendblatt",
+      "source_domain": "abendblatt.de",
+      "lang": "de"
+    },
+    {
+      "id": 5,
+      "date": "2026-06-30",
+      "title": "Climbing trade show bars outlet Vertige Media as 'too activist'",
+      "summary": "France's Salon de l'escalade climbing trade show has denied accreditation to independent outlet Vertige Media, deeming its coverage too politically engaged. The move has sparked debate about press freedom and editorial independence at industry trade events.",
+      "url": "https://reporterre.net/Juge-trop-engage-le-site-Vertige-Media-persona-non-grata-au-Salon-de-l-escalade",
+      "category": "Industry",
+      "region": "France",
+      "source": "Reporterre",
+      "source_domain": "reporterre.net",
+      "lang": "fr"
+    },
+    {
+      "id": 6,
+      "date": "2026-06-30",
+      "title": "Town of Huy, Belgium to launch tender for new climbing gym",
+      "summary": "The Belgian town of Huy plans to issue a call for proposals to build a climbing wall behind its existing sports hall, after the town went several years without a climbing facility. The move comes as climbing's popularity grows following its Olympic recognition.",
+      "url": "https://www.sudinfo.be/id1161520/article/2026-06-15/la-ville-de-huy-va-lancer-un-appel-pour-creer-une-salle-descalade-larriere-du",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
+    {
+      "id": 7,
+      "date": "2026-06-30",
+      "title": "New 4,000m² multipurpose climbing hall Monoliet under construction in Roeselare",
+      "summary": "A new climbing facility called Monoliet is being built on Armoedestraat in Roeselare, Belgium, spanning 4,000 square metres. The venue is designed as a multipurpose space combining climbing with other activities.",
+      "url": "https://www.architectura.be/fr/projets/monoliet/",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Architectura",
+      "source_domain": "architectura.be",
+      "lang": "fr"
+    },
+    {
+      "id": 8,
+      "date": "2026-06-30",
+      "title": "Connected Climbing Wall Opens New Routes for Climbers in Louvain-la-Neuve",
+      "summary": "The Blocry sports complex in Louvain-la-Neuve, Belgium has installed a Kilter Board, an adjustable connected climbing wall, in its climbing hall. The addition is expected to expand training options for local climbers.",
+      "url": "https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/06/13/un-mur-connecte-ouvre-de-nouvelles-voies-aux-grimpeurs-de-louvain-la-neuve-ZBQPILHKIZF7RHYOHCU2WGGO24/",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "L'Avenir",
+      "source_domain": "lavenir.net",
+      "lang": "fr"
+    },
+    {
+      "id": 9,
+      "date": "2026-06-30",
+      "title": "Paris-Region Churches Reborn as Bars and Climbing Gyms",
+      "summary": "Several deconsecrated churches in the Île-de-France region are being converted into unconventional venues, including a 13-metre-high climbing gym and a cosy bar. The trend reflects a wider reuse of disused religious buildings for leisure purposes in 2026.",
+      "url": "https://www.parisselectbook.com/2026/06/13/bar-feutre-salle-descalade-a-13-metres-de-haut-ces-eglises-franciliennes-ont-une-seconde-vie-insoupconnee/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Paris Select Book",
+      "source_domain": "parisselectbook.com",
+      "lang": "fr"
+    },
+    {
+      "id": 10,
+      "date": "2026-06-30",
+      "title": "New Alpine Centre Climbing Gym Opens in Schorndorf, Germany",
+      "summary": "A new climbing facility, the Schorndorf Alpinzentrum, has opened in Germany featuring a bouldering area, a bistro, and a sustainability-focused design. The centre aims to serve as a hub for both climbing and alpine sports enthusiasts.",
+      "url": "https://www.gmuender-tagespost.de/ostalb/lorch/kletterhalle-schorndorf-neues-alpinzentrum-eroeffnet-94348476.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Gmünder Tagespost",
+      "source_domain": "gmuender-tagespost.de",
+      "lang": "de"
+    },
+    {
+      "id": 11,
+      "date": "2026-06-30",
+      "title": "Fatal Accident at Luxembourg Climbing Gym Sparks Safety Debate",
+      "summary": "A 37-year-old man died following a fall at a climbing gym in Zolver, Luxembourg, prompting questions over whether indoor sport climbing carries excessive risk. The national climbing federation has responded publicly to address safety concerns raised by the incident.",
+      "url": "https://www.wort.lu/sport/nach-toedlichem-unfall-in-zolver-ist-sportklettern-zu-gefaehrlich/156357491.html",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "Luxemburger Wort",
+      "source_domain": "wort.lu",
+      "lang": "de"
+    },
+    {
+      "id": 12,
+      "date": "2026-06-30",
+      "title": "Sawiris Unveils Plans for Mega Sports Centre with Climbing Hall in Andermatt",
+      "summary": "Swiss investor Samih Sawiris has presented plans for a large new sports centre in Andermatt, Switzerland, which will include a climbing hall, swimming pool, spa, padel courts, bowling and an ice rink. The project, fulfilling a longstanding promise to the local community, is expected to open in 2032/33.",
+      "url": "https://www.srf.ch/news/schweiz/neues-sportzentrum-geplant-samih-sawiris-loest-in-andermatt-ein-altes-versprechen-ein",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "SRF",
+      "source_domain": "srf.ch",
+      "lang": "de"
+    },
+    {
+      "id": 13,
+      "date": "2026-06-30",
+      "title": "Largest Bouldering Gym in Paris Opens in Seine-Saint-Denis",
+      "summary": "A new bouldering gym described as the largest in Paris has opened in the Seine-Saint-Denis department (93), adding to the city's growing indoor climbing scene. The opening was noted alongside coverage of a nearby free World Cup fan zone.",
+      "url": "https://www.timeout.fr/paris/actualites/fan-zone-93-coupe-du-monde-gratuite-061126",
+      "category": "Openings",
+      "region": "France",
+      "source": "Time Out Paris",
+      "source_domain": "timeout.fr",
+      "lang": "fr"
+    },
     {
       "id": 1,
       "date": "2026-06-30",
