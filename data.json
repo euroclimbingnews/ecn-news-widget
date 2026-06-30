@@ -1,8 +1,140 @@
 {
   "briefings": {
-    "2026-06-30": "Today's European climbing gym news centres on Germany, where church-to-climbing-gym conversions remain a recurring trend: entrepreneurs have transformed a former church into a modern bouldering hall, while a similar concept is being explored for a church in Leutesdorf, and Hannover Zoo's indoor climbing hall in its rotunda building continues to draw attention. In Belgium, plans are being floated to convert the Basilique de Cointe in Liège into a climbing venue as part of a wider rethink of the city's 500 churches. Meanwhile in Switzerland, the Bimano Boulderhalle in Solothurn has confirmed it is under significant financial pressure, raising questions about its future viability."
+    "2026-06-30": "European climbing gym news today is light but touches on safety, property, and openings. In Luxembourg, the ClimbX gym in Lallingen remains closed following a December 2025 accident, prompting opposition questions and a municipal pledge for stricter climbing safety regulations. In Belgium, plans for a climbing hall inside Liège's Basilique de Cointe have been complicated by repeated break-ins at the unoccupied building. Meanwhile, Paris's Le Triangle in Bercy Village continues to be highlighted as the capital's first fully independent climbing gym, and Bad Tölz, Germany, confirmed its municipal climbing hall renovation is progressing as part of a stable town budget."
   },
   "stories": [
+    {
+      "id": 81,
+      "date": "2026-06-30",
+      "title": "New competition wall unveiled at Chambéry Escalade climbing club",
+      "summary": "The Chambéry Escalade climbing club has reopened its facility featuring a new competition wall. The renovation supports the club's training and competitive climbing programmes.",
+      "url": "https://www.savoie-news.fr/reportages/sport/article/un-nouveau-mur-de-competition-pour-le-club-chambery-escalade",
+      "category": "Openings",
+      "region": "France",
+      "source": "Savoie News",
+      "source_domain": "savoie-news.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 82,
+      "date": "2026-06-30",
+      "title": "Largest climbing gym in the Baltic states to open in Vilnius",
+      "summary": "Vilnius will soon be home to the largest climbing gym in the Baltic states, with a grand opening ceremony planned for April 2. The new facility will offer climbers access to all areas for the first time during the launch event.",
+      "url": "https://madeinvilnius.lt/fr/divertissement/La-plus-grande-salle-d%27escalade-des-pays-baltes-ouvrira-ses-portes-%C3%A0-Vilnius.-Une-grande-c%C3%A9r%C3%A9monie-d%27inauguration-aura-lieu./",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "MadeInVilnius.lt",
+      "source_domain": "madeinvilnius.lt",
+      "lang": "fr"
+    },
+    {
+      "id": 83,
+      "date": "2026-06-30",
+      "title": "New leisure complex with climbing gym completes Val-d'Oise economic zone",
+      "summary": "A new leisure park including a bowling alley, trampoline park, climbing gym, and laser game venue is set to open in the Bois Rochefort economic zone in Cormeilles-en-Parisis, Val-d'Oise. The development marks the completion of this commercial district near Paris.",
+      "url": "https://www.lesechos.fr/pme-regions/ile-de-france/val-doise-cormeilles-en-parisis-boucle-le-pole-economique-des-bois-rochefort-2223537",
+      "category": "Openings",
+      "region": "France",
+      "source": "Les Echos",
+      "source_domain": "lesechos.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 84,
+      "date": "2026-06-30",
+      "title": "Austrian Alpine Club climbing hall to close for maintenance",
+      "summary": "The Alpenverein's Kletterhalle Yspertal will close for scheduled maintenance and route-setting work from June 18 to July 5, 2026. The facility will be inaccessible to climbers during this period.",
+      "url": "https://www.alpenverein.at/kletterhalle-yspertal/Berichte/Bekanntmachungen/Wartung.php",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Österreichischer Alpenverein",
+      "source_domain": "alpenverein.at",
+      "lang": "de"
+    },
+    {
+      "id": 85,
+      "date": "2026-06-30",
+      "title": "Potential buyer eyes former church in Herford for climbing gym conversion",
+      "summary": "As the Christuskirche in Herford, Germany seeks a new owner, local officials have indicated openness to a buyer converting the building into a climbing gym. A dedication event for the church's future use is planned for July 11.",
+      "url": "https://www.westfalen-blatt.de/owl/kreis-herford/wer-will-die-christuskirche-in-herford-kaufen-3519062",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Westfalen-Blatt",
+      "source_domain": "westfalen-blatt.de",
+      "lang": "de"
+    },
+    {
+      "id": 86,
+      "date": "2026-06-30",
+      "title": "€50 million Rotterdam leisure park with climbing wall may never open",
+      "summary": "A 25,000 square metre indoor leisure park in Rotterdam, built at a cost of €50 million and featuring a rollercoaster, ice rink, escape room, and climbing gym, stands completely empty and may never open to the public. The financial troubles highlight risks in large-scale multi-attraction leisure developments that include climbing facilities.",
+      "url": "https://www.merkur.de/welt/50-millionen-euro-wohl-futsch-freizeitpark-im-nachbarland-in-der-krise-zr-94236201.html",
+      "category": "Closures",
+      "region": "Benelux",
+      "source": "Merkur",
+      "source_domain": "merkur.de",
+      "lang": "de"
+    },
+    {
+      "id": 87,
+      "date": "2026-06-30",
+      "title": "L'Orangerie opens in Grenoble combining climbing gym, restaurant and bakery",
+      "summary": "A new venue called L'Orangerie has opened in Grenoble, France, combining a climbing gym with a restaurant and bakery. The space includes an outdoor terrace that is planned to be expanded further.",
+      "url": "https://lesmondaines.com/orangerie-grenoble/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Les Mondaines",
+      "source_domain": "lesmondaines.com",
+      "lang": "fr"
+    },
+    {
+      "id": 88,
+      "date": "2026-06-30",
+      "title": "Bad Tölz Budget Report: Town Finances Stable, Climbing Hall Renovation Continues",
+      "summary": "A municipal budget report for Bad Tölz confirms the town's finances remain stable, with ongoing projects including the renovation of the local climbing hall (Kletterhalle) set to be completed alongside street lighting modernisation. The renovation is part of a broader set of public infrastructure projects funded under the current budget.",
+      "url": "https://alpenwelle.de/haushaltsbericht-bad-toelz-finanziell-stabil",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Radio Alpenwelle",
+      "source_domain": "alpenwelle.de",
+      "lang": "de"
+    },
+    {
+      "id": 89,
+      "date": "2026-06-30",
+      "title": "Repeated Break-Ins at Liège Basilica Slated for Future Climbing Gym",
+      "summary": "Police in Liège have intervened nine times in under three months at the Basilique de Cointe, addressing break-ins and theft at the currently unoccupied building. The site is planned to house a climbing gym, complicating security and renovation plans ahead of its intended opening.",
+      "url": "https://www.dhnet.be/regions/liege/2026/03/25/la-police-de-liege-est-intervenue-9-fois-a-la-basilique-de-cointe-pour-des-faits-de-vol-ou-deffraction-EZKAAPD7HVGKNNCBMDFUTLRDLQ/",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "DH Les Sports+",
+      "source_domain": "dhnet.be",
+      "lang": "fr"
+    },
+    {
+      "id": 90,
+      "date": "2026-06-30",
+      "title": "Le Triangle: Paris's First Fully Independent City-Centre Climbing Gym",
+      "summary": "Le Triangle in Bercy Village is highlighted as Paris's first fully independent climbing gym located in the city centre, offering 900 square metres dedicated entirely to climbing. The gym is positioned as a notable addition to the capital's growing indoor climbing scene.",
+      "url": "https://parissecret.com/de/le-triangle-escalade-bercy-de/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Paris Secret",
+      "source_domain": "parissecret.com",
+      "lang": "de"
+    },
+    {
+      "id": 91,
+      "date": "2026-06-30",
+      "title": "Luxembourg's ClimbX Gym Remains Closed Following December Accident, Municipality Promises Stricter Rules",
+      "summary": "The ClimbX climbing gym in Lallingen, Luxembourg, has remained closed since an accident in December 2025, prompting opposition councillors in Esch to demand answers from local authorities. The municipality has announced it will introduce stricter climbing safety regulations in response.",
+      "url": "https://www.tageblatt.lu/Luxemburg/Escher-Opposition-stellt-Fragen-Gemeinde-kuendigt-strengere-Kletter-Regeln-an-62878.html",
+      "category": "Closures",
+      "region": "Benelux",
+      "source": "Tageblatt",
+      "source_domain": "tageblatt.lu",
+      "lang": "de"
+    },
     {
       "id": 76,
       "date": "2026-06-30",
