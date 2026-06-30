@@ -1,8 +1,176 @@
 {
   "briefings": {
-    "2026-06-30": "Two notable European stories today: a Bavarian operator, Rock Inn, is converting the deconsecrated St. Andreas church in Würzburg into what would be Bavaria's first 'climbing church', adding bouldering, climbing and yoga space over the coming year. Meanwhile, French trade outlet Vertige Media examines consolidation pressures in the UK indoor climbing market, noting that gyms—especially in London—are facing falling footfall and rising operational complexity as the sector matures."
+    "2026-06-30": "Several French projects highlight continued diversification of leisure complexes incorporating climbing alongside padel, trampoline and coworking facilities, with one new development in Lorient facing a legal delay. In Rennes, the climbing gym 'The Roof' has already opened as part of the redevelopment of historic civic sites. Meanwhile in Germany, a coastal town is exploring a climbing hall as a future tourism draw at the Heilig Kreuz site, and a major new climbing facility is reportedly under construction in northern Germany. In the Alps, French operators in Chambéry report indoor climbing and trampoline halls running at capacity during wet weather, underscoring strong demand for indoor leisure activities."
   },
   "stories": [
+    {
+      "id": 62,
+      "date": "2026-06-30",
+      "title": "Climb Up opens 31st French climbing gym in Le Mans",
+      "summary": "Lyon-based chain Climb Up has opened a new climbing gym in Le Mans, its 31st location in France. The opening is part of the operator's continued expansion across French cities.",
+      "url": "https://www.lejournaldesentreprises.com/breve/un-golf-indoor-va-ouvrir-ses-portes-lyon-2141395",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Journal des Entreprises",
+      "source_domain": "lejournaldesentreprises.com",
+      "lang": "fr"
+    },
+    {
+      "id": 63,
+      "date": "2026-06-30",
+      "title": "Bouldering gym The Roof in Poitiers adds new climbing area",
+      "summary": "The Roof, a bouldering gym in Poitiers, has inaugurated a new climbing space adding 30 linear metres of additional climbing surface. The expansion increases the gym's overall capacity for climbers.",
+      "url": "https://www.le7.info/article/27108-the-roof-monte-dun-bloc",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le7.info",
+      "source_domain": "le7.info",
+      "lang": "fr"
+    },
+    {
+      "id": 64,
+      "date": "2026-06-30",
+      "title": "Vertical Park du Pontet celebrates first year of strong growth",
+      "summary": "The Vertical Park climbing gym in Le Pontet is marking its first anniversary with reported strong business success. Founders Nicolas Bastide and Maxime Vegas built the venue as more than a simple climbing hall, incorporating broader leisure offerings.",
+      "url": "https://www.laprovence.com/article/sortie-loisirs/1499773404913615/le-vertical-park-du-pontet-celebre-sa-premiere-annee-avec-un-succes-qui-grimpe-en-fleche",
+      "category": "Industry",
+      "region": "France",
+      "source": "La Provence",
+      "source_domain": "laprovence.com",
+      "lang": "fr"
+    },
+    {
+      "id": 65,
+      "date": "2026-06-30",
+      "title": "€10.5 million climbing centre in Ravensburg hangs in the balance",
+      "summary": "A planned XXL climbing centre costing €10.5 million in Ravensburg, Germany, faces a critical decision in May on whether the project will proceed. The German Alpine Club (DAV) section in Ravensburg is appealing to members ahead of the decisive vote.",
+      "url": "https://www.schwaebische.de/regional/oberschwaben/ravensburg/xxl-kletterzentrum-auf-der-kippe-der-mai-entscheidet-alles-4499838",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Schwäbische Zeitung",
+      "source_domain": "schwaebische.de",
+      "lang": "de"
+    },
+    {
+      "id": 66,
+      "date": "2026-06-30",
+      "title": "Climb Up Brest introduces vertical accessibility system for elderly and disabled climbers",
+      "summary": "Since January, the Climb Up climbing gym in Brest has offered a 'vertical footing' system enabling elderly people and those with disabilities to try climbing. The innovation is designed to broaden access to indoor climbing for underserved groups.",
+      "url": "https://actu.fr/bretagne/brest_29019/a-brest-cette-innovation-permet-aux-personnes-agees-et-en-situation-de-handicap-de-sinitier-a-lescalade_64136511.html",
+      "category": "Industry",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 67,
+      "date": "2026-06-30",
+      "title": "Esch unveils new operating rules for ClimbX climbing wall after accident",
+      "summary": "Following an accident at the ClimbX climbing wall, the city of Esch-sur-Alzette in Luxembourg has presented revised operating regulations. The new rules will overhaul usage protocols and clarify responsibility at the facility.",
+      "url": "https://www.tageblatt.lu/Luxemburg/Esch-stellt-neue-Betriebsregelung-der-ClimbX-Kletterwand-vor-63756.html",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "Tageblatt",
+      "source_domain": "tageblatt.lu",
+      "lang": "de"
+    },
+    {
+      "id": 68,
+      "date": "2026-06-30",
+      "title": "Mons climbing gym Face Nord fails crowdfunding goal, project delayed",
+      "summary": "The Face Nord climbing gym project in Mons, Belgium failed to reach its crowdfunding target and must postpone its plans. Organisers expressed disappointment at the lack of community support for the campaign, which closed on 19 April.",
+      "url": "https://www.dhnet.be/regions/mons/2026/04/15/le-financement-participatif-lance-par-la-salle-descalade-face-nord-se-solde-pas-un-echec-je-suis-vraiment-decu-par-le-non-soutien-de-la-communaute-VJ2RAL6ZTJAFFK2HEALNJ2S7OI/",
+      "category": "M&A",
+      "region": "Benelux",
+      "source": "DH Les Sports+",
+      "source_domain": "dhnet.be",
+      "lang": "fr"
+    },
+    {
+      "id": 69,
+      "date": "2026-06-30",
+      "title": "Karma La Villette federal climbing gym officially inaugurated in Paris",
+      "summary": "After opening to the public in January, the FFME federal climbing gym Karma La Villette in Paris was officially inaugurated on 10 April. The venue represents an expansion of the French Mountaineering and Climbing Federation's gym network.",
+      "url": "https://www.ffme.fr/karma-la-villette-officiellement-inauguree/",
+      "category": "Openings",
+      "region": "France",
+      "source": "FFME",
+      "source_domain": "ffme.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 70,
+      "date": "2026-06-30",
+      "title": "Baltic Rocks in Schwerin to expand boulder hall by summer 2026",
+      "summary": "Climbing gym Baltic Rocks in Schwerin, Germany, is expanding its bouldering hall, with completion expected by summer 2026. The facility already offers interactive climbing features, Ninja Warrior elements, and skill games alongside traditional bouldering.",
+      "url": "https://www.ostsee-zeitung.de/lokales/schwerin/interaktives-klettern-in-schwerin-baltic-rocks-erweitert-boulderhalle-bis-sommer-2026-VRFNLD5O25FUFDJOA5WFAOKTFM.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Ostsee-Zeitung",
+      "source_domain": "ostsee-zeitung.de",
+      "lang": "de"
+    },
+    {
+      "id": 71,
+      "date": "2026-06-30",
+      "title": "Lorient leisure complex with climbing wall and padel courts delayed by legal challenge",
+      "summary": "A planned leisure complex near a Decathlon store in Lorient, which now includes a climbing wall, padel courts and a restaurant (golf and Pilates concepts have been dropped), has been delayed due to a legal appeal. The project's scope has been revised to focus on these three core activities.",
+      "url": "https://www.ouest-france.fr/economie/entreprises/padel-escalade-a-lorient-le-projet-de-salle-pres-de-decathlon-retarde-par-un-recours-fc39e21c-35bb-11f1-aa8d-862764c4f0ec",
+      "category": "Openings",
+      "region": "France",
+      "source": "Ouest-France",
+      "source_domain": "ouest-france.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 72,
+      "date": "2026-06-30",
+      "title": "Rennes redevelopment: climbing gym 'The Roof' opens at historic Saint-Georges site",
+      "summary": "As part of the redevelopment of the Palais Saint-Georges and Saint-Melaine area in Rennes, a new climbing gym called 'The Roof' has opened alongside a restaurant, with a coworking space and further projects planned for the site.",
+      "url": "https://www.ouest-france.fr/bretagne/rennes-35000/palais-saint-georges-et-saint-melaine-piscine-de-villejean-quel-avenir-pour-ces-sites-emblematiques-de-rennes-2a11934e-292b-11f1-97c2-97e16ef66fd6",
+      "category": "Openings",
+      "region": "France",
+      "source": "Ouest-France",
+      "source_domain": "ouest-france.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 73,
+      "date": "2026-06-30",
+      "title": "Chambéry climbing and trampoline halls running at full capacity amid wet weather",
+      "summary": "Indoor climbing and trampoline facilities in the Chambéry area are reportedly packed during periods of rainy weather, as families seek indoor activity options. Operators note the need to find sufficient activities to meet demand on wet days.",
+      "url": "https://www.francebleu.fr/auvergne-rhone-alpes/savoie-73/voglans/chambery-les-salles-d-escalade-et-de-trampoline-pleines-a-craquer-il-faut-trouver-des-activites-quand-il-pleut-6733380",
+      "category": "Industry",
+      "region": "France",
+      "source": "France Bleu",
+      "source_domain": "francebleu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 74,
+      "date": "2026-06-30",
+      "title": "Climbing gym proposed as future option for Heilig Kreuz site in Germany",
+      "summary": "Local planners are considering a climbing gym as a way to fill a leisure gap at the Heilig Kreuz site, potentially in cooperation with a nearby youth hostel, to boost local and tourist appeal.",
+      "url": "https://www.nr-kurier.de/artikel/169517-neue-ideen-fuer-heilig-kreuz--kletterhalle-als-zukunftsoption",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "NR-Kurier",
+      "source_domain": "nr-kurier.de",
+      "lang": "de"
+    },
+    {
+      "id": 75,
+      "date": "2026-06-30",
+      "title": "New large climbing gym under construction in northern Germany",
+      "summary": "A regional news report referencing local elections in Schwerin also notes that a company is building what is described as the largest climbing gym in northern Germany, though further details on location and opening date were not specified in the source.",
+      "url": "https://www.ostsee-zeitung.de/lokales/schwerin/stichwahlkampf-wer-buhlt-um-afd-stimmen-groesste-kletterhalle-im-norden-firma-baut-58-MC6EKLMVTVGLXGEGCUIVRH4XVY.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Ostsee-Zeitung",
+      "source_domain": "ostsee-zeitung.de",
+      "lang": "de"
+    },
     {
       "id": 51,
       "date": "2026-06-30",
