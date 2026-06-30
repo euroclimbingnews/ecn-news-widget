@@ -1,8 +1,176 @@
 {
   "briefings": {
-    "2026-06-30": "A new bouldering gym has opened in Paris's Montparnasse district, adding significant capacity to the city's climbing scene. Climb World's 2,800m² facility at the Ateliers Gaîté development is now being billed as the largest bouldering gym in Paris, reflecting continued growth in the French capital's climbing gym market. No other qualifying European industry stories were identified today."
+    "2026-06-30": "Today's European climbing gym news is light but spans several themes: a new climbing club has launched in Pontivy, Brittany, building on last year's opening of the Wallness gym, while in Switzerland the canton of Glarus is weighing further public funding for the long-running Näfels climbing hall, which has been expanded repeatedly since 2004. In Germany, a Mühlhausen development plan dispute highlights ongoing friction between planning regulations and proposals for new leisure facilities, including a climbing hall. Austrian gyms also made news with an 11-venue, 130-climber charity marathon organised by ClimbingZoo and Kletterhalle Kraftreich. Meanwhile, a French labor feature sheds light on the modest pay (€1,400/month) earned by climbing instructors and route-setters at large commercial gyms."
   },
   "stories": [
+    {
+      "id": 28,
+      "date": "2026-06-30",
+      "title": "Climbing Gym 'Kraftreaktor' Begins Construction on Planned Extension",
+      "summary": "The Kraftreaktor climbing gym in Lenzburg, Switzerland has started building work on a long-planned extension. Owners Franziska and Marco Toretti, who took over the gym in 2018, say the project is proceeding on schedule.",
+      "url": "https://lba.chmedia.ch/ressorts/stadt-lenzburg/artikelseite-stadt-lenzbrug/baubeginn-nach-plan-der-kraftreaktor-erweitert",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "lba.chmedia.ch",
+      "source_domain": "lba.chmedia.ch",
+      "lang": "de"
+    },
+    {
+      "id": 29,
+      "date": "2026-06-30",
+      "title": "Brussels Climbing Gym Cancels European Youth Competition",
+      "summary": "Le Camp de Base, a 1,600m² climbing gym in Ixelles, Brussels, has cancelled its hosting of the World Climbing Europe Youth Series. In a lengthy statement, gym management said the decision was not directed against any specific competitors but reflected the venue's responsibility as employer and site owner to determine under what conditions events can be held.",
+      "url": "https://www.vertigemedia.fr/camp-de-base-bruxelles-coupe-europe-jeunes-world-climbing-israel",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 30,
+      "date": "2026-06-30",
+      "title": "Opening of New Climbing Gym in Völs, Austria Delayed",
+      "summary": "A new climbing gym in Völs, Austria, which was expected to open within months, has seen construction work fail to begin on schedule. Local media outline the reasons behind the ongoing delay.",
+      "url": "https://www.tt.com/artikel/30934341/das-warten-auf-die-kletterhalle-in-voels-dauert-laenger-das-sind-die-gruende",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Tiroler Tageszeitung",
+      "source_domain": "tt.com",
+      "lang": "de"
+    },
+    {
+      "id": 31,
+      "date": "2026-06-30",
+      "title": "Former Industrial Building in Ilmenau to Become Modern Climbing Gym",
+      "summary": "Plans to convert the historic Fischerhütte industrial building in Ilmenau, Germany into a modern climbing gym are becoming more concrete. The project, first reported last year, is now moving toward implementation.",
+      "url": "https://www.insuedthueringen.de/inhalt.neues-sportangebot-vom-industriedenkmal-zur-modernen-kletterhalle.a321267a-ec90-474a-9f80-89a92cb4f4db.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "inSüdthüringen",
+      "source_domain": "insuedthueringen.de",
+      "lang": "de"
+    },
+    {
+      "id": 32,
+      "date": "2026-06-30",
+      "title": "Debate Over Future of Marienkirche: Climbing Gym, Museum, or Something Else?",
+      "summary": "Local authorities in Rheda-Wiedenbrück, Germany are debating possible future uses for the historic Marienkirche, with a climbing gym among the options being considered alongside a museum.",
+      "url": "https://www.die-glocke.de/kreis-guetersloh/rheda-wiedenbrueck/artikel/kletterhalle-museum-oder-etwas-ganz-anderes-debatte-um-zukunft-der-marienkirche-1779199208",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "die-glocke.de",
+      "source_domain": "die-glocke.de",
+      "lang": "de"
+    },
+    {
+      "id": 33,
+      "date": "2026-06-30",
+      "title": "Climbing Gym Hosts Apprenticeship Speed-Dating Event for Hamburg Youth",
+      "summary": "The Nordwandhalle climbing gym in Hamburg hosted an apprenticeship 'speed-dating' event, drawing around 400 visitors seeking information on vocational training and career paths.",
+      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-Journal,hamj-10940.html",
+      "category": "Labor",
+      "region": "Germany",
+      "source": "NDR",
+      "source_domain": "ndr.de",
+      "lang": "de"
+    },
+    {
+      "id": 34,
+      "date": "2026-06-30",
+      "title": "Swiss Canton Approves Funding for Climbing Hall in Näfels",
+      "summary": "The cantonal government of Glarus, Switzerland has approved funding contributions for sports facility projects, including the climbing hall in Näfels alongside the Buchholz athletics facility.",
+      "url": "https://www.glarus24.ch/artikel/kantonsbeitraege-fuer-sportanlagen-2444638",
+      "category": "Industry",
+      "region": "Switzerland",
+      "source": "glarus24.ch",
+      "source_domain": "glarus24.ch",
+      "lang": "de"
+    },
+    {
+      "id": 35,
+      "date": "2026-06-30",
+      "title": "New Climbing Gym Opens in Belgium Following Fac Trophy 2026",
+      "summary": "A newly built climbing gym was highlighted as a special feature of the Fac Trophy 2026 event in Belgium, with the freshly renovated venue now ready to welcome climbers.",
+      "url": "https://www.canalzoom.be/actu/fac-trophy-2026-du-plaisir-de-la-sueur-et-une-nouvelle-salle-descalade/24166",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Canal Zoom",
+      "source_domain": "canalzoom.be",
+      "lang": "fr"
+    },
+    {
+      "id": 36,
+      "date": "2026-06-30",
+      "title": "Edelrid Issues Urgent Safety Warning for OHM Belay Devices",
+      "summary": "Edelrid has issued an urgent safety notice for its OHM II, OHMEGA and FUSE assisted-braking devices after a defective unit was discovered in a climbing gym in April 2026, where the sleeve and screw were found to be made from incorrect materials. Climbing gyms across Europe using these devices are advised to check their equipment.",
+      "url": "https://www.produktwarnung.eu/2026/05/14/dringende-sicherheitsinformation-zu-edelrid-ohm-ii-ohmega-und-fuse-auffanggeraeten/38009",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "produktwarnung.eu",
+      "source_domain": "produktwarnung.eu",
+      "lang": "de"
+    },
+    {
+      "id": 37,
+      "date": "2026-06-30",
+      "title": "New Climbing Club Launches in Pontivy, Brittany",
+      "summary": "A year after the opening of the Wallness climbing gym in Pontivy (Morbihan), founders Ghislain Guidrais and his partner Laëtitia have launched a new climbing club to grow the sport in central Brittany. The initiative aims to build on the gym's first year of operation by fostering a local climbing community.",
+      "url": "https://www.ouest-france.fr/sport/escalade/a-pontivy-un-nouveau-club-descalade-vient-detre-cree-pour-faire-grimper-la-discipline-en-centre-bretagne-38b2dbfc-4eaa-11f1-9eda-464e58e97699",
+      "category": "Openings",
+      "region": "France",
+      "source": "Ouest-France",
+      "source_domain": "ouest-france.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 38,
+      "date": "2026-06-30",
+      "title": "Mühlhausen Debates Climbing Hall vs Petrol Station for New 'XXL' Leisure Site",
+      "summary": "Local authorities in Mühlhausen, Germany are debating options for a large new development site, with an indoor climbing hall among the proposed uses alongside an indoor playground, minigolf, and paintball. However, a development plan dating back more than 30 years restricts what can actually be built.",
+      "url": "https://www.pressreader.com/germany/thuringer-allgemeine-muhlhausen-und-bad-langensalza/20260513/281891599905364",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Thüringer Allgemeine (via PressReader)",
+      "source_domain": "pressreader.com",
+      "lang": "de"
+    },
+    {
+      "id": 39,
+      "date": "2026-06-30",
+      "title": "Austrian Gyms Unite for 10-Hour Charity Climbing Marathon",
+      "summary": "The ClimbingZoo association and Kletterhalle Kraftreich organised a 10-hour charity climbing event spanning 11 climbing gyms and involving 130 climbers in support of a good cause. Organisers thanked participants, sponsors, and host venues for their involvement.",
+      "url": "https://www.zillertalfoto.at/2026/05/12/10-stunden-charity-klettern-11-kletterhallen-mit-130-kletterinnen-fuer-guten-zweck-im-einsatz/",
+      "category": "Industry",
+      "region": "Austria",
+      "source": "Zillertalfoto.at",
+      "source_domain": "zillertalfoto.at",
+      "lang": "de"
+    },
+    {
+      "id": 40,
+      "date": "2026-06-30",
+      "title": "Canton Glarus Considers Further Funding for Näfels Climbing Hall Expansion",
+      "summary": "The Swiss canton of Glarus is reviewing contributions to local sports facilities, including the climbing hall in Näfels, which has been regularly expanded and renovated since opening in 2004. The Verein Kletteranlagen Linthgebiet (VKL) is seeking continued support for further upgrades.",
+      "url": "https://www.gl.ch/public-newsroom.html/31/newsroomnews/15060/title/kantonsbeitr%C3%A4ge-f%C3%BCr-sportanlagen",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "Kanton Glarus",
+      "source_domain": "gl.ch",
+      "lang": "de"
+    },
+    {
+      "id": 41,
+      "date": "2026-06-30",
+      "title": "French Climbing Instructor Opens Up on €1,400 Monthly Salary",
+      "summary": "A French climbing instructor and route-setter, Lucas, has shared details of his finances, revealing he earns around €1,400 per month working at a large commercial climbing gym. The piece highlights wider concerns about pay levels for climbing gym staff in France.",
+      "url": "https://www.vertigemedia.fr/lucas-moniteur-escalade-salaire-1400-euros",
+      "category": "Labor",
+      "region": "France",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 23,
       "date": "2026-06-30",
