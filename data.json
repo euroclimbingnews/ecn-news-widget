@@ -1,8 +1,116 @@
 {
   "briefings": {
-    "2026-06-30": "Today's European climbing gym news features several openings and facility upgrades. Belgium's Louvain-la-Neuve sports complex has installed a connected Kilter Board, while Germany's Schorndorf has opened a new Alpine Centre with bouldering, a bistro and sustainable design. In Switzerland, investor Samih Sawiris has unveiled plans for a major new sports centre in Andermatt featuring a climbing hall alongside a pool, spa and ice rink, though completion isn't expected until 2032/33. Paris continues its gym boom with a new large bouldering facility in the Seine-Saint-Denis department, and several disused Paris-region churches are being repurposed into climbing gyms and bars. Separately, a fatal accident at a climbing gym in Zolver, Luxembourg has prompted comment from the national climbing federation on indoor climbing safety standards."
+    "2026-06-30": "A handful of stories today touch the European climbing gym sector. In Luxembourg, the operator of a climbing hall in Soleuvre (Zolver) has issued a statement following a fatal fall at the facility, with prosecutors ordering an autopsy as the safety investigation continues. In Germany, an architecture firm has unveiled its entry for a competition to build a new DAV climbing hall and clubhouse on the historic Zeche Zollverein coking plant site in Essen. Meanwhile in France, the Blocabrac climbing gym in Saint-Étienne celebrated its 10th anniversary with a festive event, highlighting the longevity of independent gyms in the French market."
   },
   "stories": [
+    {
+      "id": 14,
+      "date": "2026-06-30",
+      "title": "Investor Sawiris to build mega sports centre with climbing hall in Andermatt",
+      "summary": "Egyptian investor Samih Sawiris is funding a large new sports complex in Andermatt, Switzerland, featuring a swimming pool, spa, ice rink and climbing hall. The multi-million franc project adds to Sawiris's broader development push in the Andermatt resort area.",
+      "url": "https://www.blick.ch/wirtschaft/hallenbad-und-kletterhalle-investor-samih-sawiris-baut-in-andermatt-ur-ein-mega-sportzentrum-id22018490.html",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "Blick",
+      "source_domain": "blick.ch",
+      "lang": "de"
+    },
+    {
+      "id": 15,
+      "date": "2026-06-30",
+      "title": "Biberach climbing centre sees membership numbers explode at five-year mark",
+      "summary": "The Kletterzentrum Biberach is celebrating its fifth anniversary with strong growth, with the German Alpine Club (DAV) reporting membership rising from 3,400 to 5,700 since opening. Local DAV chairman Klaus Hassler called the facility a proven success.",
+      "url": "https://www.schwaebische.de/regional/biberach/biberach/mitgliederzahlen-explodieren-kletterzentrum-biberach-feiert-fuenf-jahre-4599828",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Schwäbische.de",
+      "source_domain": "schwaebische.de",
+      "lang": "de"
+    },
+    {
+      "id": 16,
+      "date": "2026-06-30",
+      "title": "Paris's largest bouldering gym opens in the 14th arrondissement",
+      "summary": "Climb World, billed as the largest bouldering facility in Paris, has opened on the lower level of Les Ateliers Gaîté in the 14th arrondissement. The new gym adds significant bouldering capacity to the capital's climbing scene.",
+      "url": "https://www.timeout.com/paris/actualites/la-plus-grande-salle-descalade-de-bloc-de-paris-vient-douvrir-dans-le-14e-arrondissement-061026",
+      "category": "Openings",
+      "region": "France",
+      "source": "Time Out Paris",
+      "source_domain": "timeout.com",
+      "lang": "fr"
+    },
+    {
+      "id": 17,
+      "date": "2026-06-30",
+      "title": "Bloc à Bleau climbing gym gets green light after months of work",
+      "summary": "After months of construction, the long-awaited Bloc à Bleau climbing gym has officially opened, generating strong local anticipation. The project is expected to quickly attract a dedicated following in the Seine-et-Marne region.",
+      "url": "https://www.pressreader.com/france/la-republique-de-seine-et-marne-edition-a-b/20260608/282140708060409",
+      "category": "Openings",
+      "region": "France",
+      "source": "La République de Seine-et-Marne",
+      "source_domain": "pressreader.com",
+      "lang": "fr"
+    },
+    {
+      "id": 18,
+      "date": "2026-06-30",
+      "title": "Greifswald bouldering gym files for insolvency",
+      "summary": "The Grips-Boulderhalle in Greifswald, Germany has filed for insolvency, with operators saying 'this chapter ends here.' Reports suggest a new chapter could begin for the climbing facility under different management.",
+      "url": "https://www.ostsee-zeitung.de/lokales/vorpommern-greifswald/greifswald/greifswalder-boulderhalle-stellt-insolvenzantrag-kapitel-endet-an-dieser-stelle-34EVUNPQYZHBFORGHY4VK6N5DI.html?outputType=valid_amp",
+      "category": "Closures",
+      "region": "Germany",
+      "source": "Ostsee-Zeitung",
+      "source_domain": "ostsee-zeitung.de",
+      "lang": "de"
+    },
+    {
+      "id": 19,
+      "date": "2026-06-30",
+      "title": "Fatal fall at Luxembourg climbing gym prompts investigation, casts doubt on upcoming competition",
+      "summary": "A 37-year-old man died after falling roughly seven metres at a climbing gym in Zolver/Soleuvre, Luxembourg. The gym remained open following the incident, but the status of the upcoming Petzl Lead Open competition (12 June–4 July) is uncertain as police investigate the circumstances of the fall.",
+      "url": "https://www.lessentiel.lu/de/story/luxemburg-kletterszene-trauert-nach-toedlichem-sturz-in-zolwer-103576595",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "L'essentiel",
+      "source_domain": "lessentiel.lu",
+      "lang": "de"
+    },
+    {
+      "id": 20,
+      "date": "2026-06-30",
+      "title": "Operator responds after fatal climbing accident in Soleuvre (Zolver)",
+      "summary": "A 37-year-old man died after a fall of several metres at a climbing gym in Soleuvre, Luxembourg, on Monday evening. The gym's operator has issued a statement following the incident, and prosecutors have ordered an autopsy as part of the investigation.",
+      "url": "https://www.wort.lu/luxemburg/sueden/betreiber-aeussert-sich-nach-toedlichem-kletterunfall-in-zolver/155013628.html",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "Luxemburger Wort",
+      "source_domain": "wort.lu",
+      "lang": "de"
+    },
+    {
+      "id": 21,
+      "date": "2026-06-30",
+      "title": "New DAV climbing hall and clubhouse proposed for Zeche Zollverein, Essen",
+      "summary": "An architecture firm has presented its competition entry for a new DAV (German Alpine Club) climbing hall with an accompanying clubhouse, to be built on the site of the former Zollverein coking plant in Essen. The proposal placed second in an invitational design competition for the historic industrial site.",
+      "url": "https://www.ssp.ag/errichtung-einer-kletterhalle-und-eines-vereinsheimes-zeche-zollverein-wettbewerbsbeitrag/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "SSP AG",
+      "source_domain": "ssp.ag",
+      "lang": "de"
+    },
+    {
+      "id": 22,
+      "date": "2026-06-30",
+      "title": "Blocabrac climbing gym in Saint-Étienne celebrates 10th anniversary",
+      "summary": "The Blocabrac climbing gym in the Grand-Clos area of Saint-Étienne, France, marked its tenth anniversary with a festive evening event including a competition. The gym welcomes beginners and experienced climbers daily and has become an established part of the local climbing scene.",
+      "url": "https://www.leprogres.fr/sport/2026/06/01/la-salle-d-escalade-blocabrac-a-fete-ses-10-ans",
+      "category": "Industry",
+      "region": "France",
+      "source": "Le Progrès",
+      "source_domain": "leprogres.fr",
+      "lang": "fr"
+    },
     {
       "id": 4,
       "date": "2026-06-30",
