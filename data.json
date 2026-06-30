@@ -1,8 +1,164 @@
 {
   "briefings": {
-    "2026-06-30": "A quiet day for European climbing gym news, with a handful of notable items. In Austria, the Kletterhalle Wörgl is set to close within days as part of ongoing insolvency proceedings, with no new operator yet found. In Germany, plans for a new sports park combining a climbing hall and ice rink in Lindau are stirring local debate. Meanwhile, French outlet Grimper.com reports on the continued rise of private climbing gyms in France, and Swiss media note strong visitor numbers at climbing venues like L'Entrepôt in Bulle during the recent school holidays."
+    "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers."
   },
   "stories": [
+    {
+      "id": 135,
+      "date": "2026-06-30",
+      "title": "Brittany Climbing Club Launches 'Vertical Running' Sessions",
+      "summary": "Varap'Rance, a climbing club in Caulnes, Côtes-d'Armor, has introduced vertical running (footing vertical) sessions in its climbing gym — a first for the Brittany region. The new offering diversifies the club's activities beyond traditional climbing.",
+      "url": "https://actu.fr/bretagne/caulnes_22032/cotes-darmor-ils-proposent-du-footing-vertical-dans-leur-salle-descalade-une-premiere-en-bretagne_63860874.html",
+      "category": "Industry",
+      "region": "France",
+      "source": "actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 136,
+      "date": "2026-06-30",
+      "title": "German Alpine Club Branch Shares Solar Power Between Climbing Hall and Gym",
+      "summary": "The DAV Altdorf branch reports that a rooftop and facade solar PV installation on its climbing hall, commissioned at the start of 2025, has exceeded expectations and is now sharing generated power with the adjacent triple gymnasium. The project highlights a growing trend of sustainability investment among German climbing facility operators.",
+      "url": "https://www.nn.de/region/nuernberger-land/erwartungen-ubertroffen-dav-altdorf-teilt-kletterhallen-pv-strom-mit-dreifachturnhalle-1.15015889",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "nn.de",
+      "source_domain": "nn.de",
+      "lang": "de"
+    },
+    {
+      "id": 137,
+      "date": "2026-06-30",
+      "title": "Austrian Climbing Gym Operator Wörgl Files for Insolvency",
+      "summary": "SKT Sport- und Kletteranlagen Tirol GmbH, which operates the Kletterhalle Wörgl in Tyrol, Austria, has filed for insolvency proceedings. The company runs the climbing facility in the town of Wörgl.",
+      "url": "https://www.msn.com/de-at/nachrichten/other/kletterhalle-w%C3%B6rgl-ist-insolvent/ar-AA1VewJS?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "MSN",
+      "source_domain": "msn.com",
+      "lang": "de"
+    },
+    {
+      "id": 138,
+      "date": "2026-06-30",
+      "title": "German Alpine Club Friedrichshafen Building New Climbing Hall",
+      "summary": "The Friedrichshafen branch of the German Alpine Club (DAV) is constructing a new climbing hall at the local Sportpark. The article details the current status of the project and planned features.",
+      "url": "https://www.suedkurier.de/bodenseekreis/deutsche-alpenverein-sektion-friedrichshafen-baut-neue-kletterhalle-wo-das-projekt-steht-und-was-geplant-ist-113110248",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Südkurier",
+      "source_domain": "suedkurier.de",
+      "lang": "de"
+    },
+    {
+      "id": 139,
+      "date": "2026-06-30",
+      "title": "New Restaurant 'Basecamp' Opens at Griffwerk Climbing Gym in Ludwigsburg",
+      "summary": "A new restaurant called 'Basecamp' has opened within the Griffwerk climbing gym complex in Ludwigsburg, Germany, situated between the climbing hall and a children's play area. The venue aims to create an additional social hub for visitors.",
+      "url": "https://www.stuttgarter-zeitung.de/inhalt.gastronomie-im-griffwerk-neues-restaurant-basecamp-eroeffnet-in-ludwigsburg.e6262b8c-25e0-4ed7-80e8-63345ca3b333.html",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Stuttgarter Zeitung",
+      "source_domain": "stuttgarter-zeitung.de",
+      "lang": "de"
+    },
+    {
+      "id": 140,
+      "date": "2026-06-30",
+      "title": "Lindau Considers New Ice Rink and Climbing Hall at Lakeside Thermal Baths Site",
+      "summary": "Local authorities in Lindau, Germany, are debating plans for a new ice sports hall and climbing hall, alongside questions over school facility funding. The discussion focuses on financing for the proposed climbing and ice sports facilities.",
+      "url": "https://www.schwaebische.de/regional/lindau/eissporthalle-kletterhalle-neue-schulen-aber-woher-soll-das-geld-kommen-4343775",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Schwäbische Zeitung",
+      "source_domain": "schwaebische.de",
+      "lang": "de"
+    },
+    {
+      "id": 141,
+      "date": "2026-06-30",
+      "title": "New Leisure Complex with Climbing Wall Opens in Historic Grenoble Building",
+      "summary": "A new leisure complex called 'L'Orangerie perchée' has opened in a historic building opposite the Stade des Alpes in Grenoble, France, featuring a climbing wall among its attractions. The opening reuses a heritage site for modern recreational use.",
+      "url": "https://actu.fr/auvergne-rhone-alpes/grenoble_38185/grenoble-un-nouveau-complexe-de-loisirs-vient-d-ouvrir-au-coeur-de-ce-batiment-historique_63839351.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 142,
+      "date": "2026-06-30",
+      "title": "Art Deco Church in Romans-sur-Isère to Be Converted Into Lyon Climbing Gym",
+      "summary": "Saint-Bernard church in Romans-sur-Isère, recently classified as a historic monument, is set to be transformed into a climbing gym in Lyon. The conversion represents an adaptive reuse of a heritage religious building for the climbing industry.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/drome/c-est-un-style-rare-l-eglise-art-deco-de-romans-sur-isere-classee-monument-historique-3298908.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "France 3 Régions",
+      "source_domain": "franceinfo.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 143,
+      "date": "2026-06-30",
+      "title": "Mons Gas Outage Threatens Local Climbing Gym Amid Energy Crisis",
+      "summary": "Following a major gas supply cutoff in Mons, Belgium, concerns are growing about additional strain on the electricity network due to increased heating demand, with a local climbing gym among the facilities affected. The situation highlights energy resilience challenges for gym operators.",
+      "url": "https://www.lalibre.be/regions/hainaut/2026/02/15/linquietude-regne-a-mons-apres-la-gigantesque-coupure-de-gaz-un-autre-probleme-est-a-craindre-63KVCHIR45C63HKCNKPFWANPLY/",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "La Libre",
+      "source_domain": "lalibre.be",
+      "lang": "fr"
+    },
+    {
+      "id": 144,
+      "date": "2026-06-30",
+      "title": "Bloc Boulder Opens in Wiesbaden After Converting Tennis and Climbing Hall",
+      "summary": "Studio Bloc GmbH has converted a former tennis and climbing hall in Wiesbaden, Germany, into a dedicated bouldering facility called Bloc Boulder. The new gym opened to the public over the weekend.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bloc-boulder-in-wiesbaden-eroeffnet-das-kann-die-neue-halle-accg-200525258.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "FAZ",
+      "source_domain": "faz.net",
+      "lang": "de"
+    },
+    {
+      "id": 145,
+      "date": "2026-06-30",
+      "title": "RedRock Climbing Expands Soleuvre Facility in Luxembourg",
+      "summary": "RedRock Climbing in Soleuvre, Luxembourg, has inaugurated a new expanded space as part of efforts to diversify its offering. The expansion, opened on February 7, aims to attract a broader range of climbing enthusiasts.",
+      "url": "https://lequotidien.lu/a-la-une/soleuvre-la-salle-descalade-redrock-voit-plus-grand/",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Le Quotidien",
+      "source_domain": "lequotidien.lu",
+      "lang": "fr"
+    },
+    {
+      "id": 146,
+      "date": "2026-06-30",
+      "title": "New Family-Friendly Vertical World Climbing Gym Opens in Paris's Montparnasse",
+      "summary": "A new climbing gym called Vertical World has opened in the Montparnasse district of Paris, designed to appeal to families with interactive features including 33 automatic belay devices and playful walls. The venue targets a broad demographic, from beginners to children.",
+      "url": "https://www.sortiraparis.com/de/was-zu-tun-in-paris/sport-wohlbefinden/articles/341456-vertical-world-die-familienfreundliche-kletterhalle-mit-spasswanden-in-montparnasse",
+      "category": "Openings",
+      "region": "France",
+      "source": "Sortiraparis",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
+    {
+      "id": 147,
+      "date": "2026-06-30",
+      "title": "Vertical World: Family-Friendly Climbing Gym with Fun Walls Opens in Montparnasse, Paris",
+      "summary": "A new climbing gym called Vertical World has opened in the Montparnasse area of Paris, targeting families and casual climbers. The venue features 33 auto-belay devices and interactive 'fun wall' installations designed to appeal to a broad range of visitors beyond traditional climbers.",
+      "url": "https://www.sortiraparis.com/loisirs/sport/articles/341456-vertical-world-la-salle-d-escalade-familiale-et-ludique-avec-des-fun-walls-a-montparnasse",
+      "category": "Openings",
+      "region": "France",
+      "source": "sortiraparis.com",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
     {
       "id": 123,
       "date": "2026-06-30",
