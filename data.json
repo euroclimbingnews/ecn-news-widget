@@ -1,8 +1,152 @@
 {
   "briefings": {
-    "2026-06-30": "European bouldering and climbing gym news today centres on France and German-speaking markets. Les Echos reports a noticeable slowdown in France's climbing gym market after years of rapid expansion, while a new Bloc Session gym in Chalon-sur-Saône is hiring staff ahead of its opening. Meanwhile a Climb Up gym near Amiens is diversifying revenue by hosting a private techno rave. In Austria and Germany, unusual new climbing facilities are taking shape: an Innsbruck church is being converted into a climbing hall, and the DAV's new Alpine Centre in Schorndorf has completed its structural shell ahead of interior fit-out."
+    "2026-06-30": "A quiet day for European climbing gym news, with a handful of notable items. In Austria, the Kletterhalle Wörgl is set to close within days as part of ongoing insolvency proceedings, with no new operator yet found. In Germany, plans for a new sports park combining a climbing hall and ice rink in Lindau are stirring local debate. Meanwhile, French outlet Grimper.com reports on the continued rise of private climbing gyms in France, and Swiss media note strong visitor numbers at climbing venues like L'Entrepôt in Bulle during the recent school holidays."
   },
   "stories": [
+    {
+      "id": 123,
+      "date": "2026-06-30",
+      "title": "Outdoor climbing wall dismantled at Marburg's Volksbank climbing hall",
+      "summary": "The outdoor climbing wall at the Volksbank Kletterhalle near Marburg's main train station has been removed ahead of renovation works. The hall itself continues to operate while refurbishment proceeds.",
+      "url": "https://www.op-marburg.de/lokales/marburg-biedenkopf/marburg/marburg-kletterwand-der-volksbank-kletterhalle-abgebaut-7LLDW6T6G5HHFBT2XGONCDVFRM.html?outputType=valid_amp",
+      "category": "Closures",
+      "region": "Germany",
+      "source": "op-marburg.de",
+      "source_domain": "op-marburg.de",
+      "lang": "de"
+    },
+    {
+      "id": 124,
+      "date": "2026-06-30",
+      "title": "Belgian climbing gym Face Nord launches crowdfunding after contractor bankruptcy",
+      "summary": "Face Nord climbing gym has launched a crowdfunding campaign seeking around €60,000 to complete its renovation project, after the original contractor went bankrupt mid-construction. The gym's transformation is ongoing despite the financial setback.",
+      "url": "https://www.dhnet.be/regions/mons/2026/03/01/la-salle-descalade-face-nord-lance-un-crowdfunding-pour-boucler-son-chantier-de-transformation-apres-la-faillite-de-lentrepreneur-ZCRYEPIFLVGTFCA2EG7DGWXDPE/",
+      "category": "Industry",
+      "region": "Benelux",
+      "source": "dhnet.be",
+      "source_domain": "dhnet.be",
+      "lang": "fr"
+    },
+    {
+      "id": 125,
+      "date": "2026-06-30",
+      "title": "Amiens climbing club calls for candidates to back new climbing facility ahead of elections",
+      "summary": "The Amiens-Rivery climbing club is renewing its push for a new bouldering and speed-climbing facility as municipal elections approach. The project had previously stalled but is resurfacing as a campaign issue.",
+      "url": "https://www.courrier-picard.fr/id699897/article/2026-02-28/lappel-aux-candidats-du-club-descalade-amiens-rivery",
+      "category": "Openings",
+      "region": "France",
+      "source": "Courrier Picard",
+      "source_domain": "courrier-picard.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 126,
+      "date": "2026-06-30",
+      "title": "Kletterhalle Wörgl remains closed as rescue talks continue",
+      "summary": "The Wörgl climbing hall in Tyrol, Austria, remains shut after its insolvency administrator ordered closure, with the Alpine Club (Alpenverein) section warning that survival depends on lower rent, reduced operating costs, and a clear commitment from all stakeholders. Mayor Riedhart had previously suggested the hall's future was secured, but talks over its fate are ongoing.",
+      "url": "https://www.meinbezirk.at/kufstein/c-lokales/fortbestand-der-kletterhalle-woergl-nur-moeglich-wenn-alle-daran-arbeiten_a8302931",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "meinbezirk.at",
+      "source_domain": "meinbezirk.at",
+      "lang": "de"
+    },
+    {
+      "id": 127,
+      "date": "2026-06-30",
+      "title": "French halles complex including climbing gym enters receivership",
+      "summary": "The SCIC cooperative that coordinates the Halles de la Cartoucherie site — which includes a climbing gym alongside coworking space and a food shop — has entered judicial receivership (redressement judiciaire). The cooperative is seeking a path to restructure and continue operations.",
+      "url": "https://gazette-du-midi.fr/au-sommaire/entreprises/en-redressement-judiciaire-la-scic-coordonnatrice-des-halles-de-la-cartoucherie",
+      "category": "Closures",
+      "region": "France",
+      "source": "Gazette du Midi",
+      "source_domain": "gazette-du-midi.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 128,
+      "date": "2026-06-30",
+      "title": "Volunteers complete new climbing wall at Krems sports hall",
+      "summary": "The Alpine Club and Naturfreunde invested significant time and money to build a new climbing wall at the Krems Sporthalle in Austria, completed as a volunteer 'masterpiece' project. The hall is now described as one of the finest climbing facilities in the country.",
+      "url": "https://www.noen.at/krems/vereine-sehr-engagiert-neue-kletterwand-in-der-kremser-sporthalle-als-meisterstueck-511830985",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "NÖN.at",
+      "source_domain": "noen.at",
+      "lang": "de"
+    },
+    {
+      "id": 129,
+      "date": "2026-06-30",
+      "title": "French climbing gym sector facing financial imbalance, industry analysis warns",
+      "summary": "A Grimper.com industry report examines financial pressures on French climbing gyms, noting that net margins typically max out at 8% of turnover before depreciation costs are even factored in. The piece highlights structural economic challenges facing gym operators across the sector.",
+      "url": "https://www.grimper.com/news-salles-escalade-secteur-perte-equilibre",
+      "category": "Industry",
+      "region": "France",
+      "source": "Grimper.com",
+      "source_domain": "grimper.com",
+      "lang": "fr"
+    },
+    {
+      "id": 130,
+      "date": "2026-06-30",
+      "title": "Plans progress for climbing tower at Vogtland's new Sportforum",
+      "summary": "Local authorities in Germany's Vogtland region are advancing plans for a climbing tower as part of the new Sportforum development, with the Chemnitz climbing hall cited as a model. Details of the project's progress and design are being finalised.",
+      "url": "https://www.freiepresse.de/vogtland/plauen/wie-es-mit-dem-geplanten-kletterturm-im-neuen-sportforum-vogtland-weitergeht-artikel14147637",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Freie Presse",
+      "source_domain": "freiepresse.de",
+      "lang": "de"
+    },
+    {
+      "id": 131,
+      "date": "2026-06-30",
+      "title": "The Rise of Private Climbing Gyms in France",
+      "summary": "Grimper.com examines the growing trend of privately-run climbing gyms in France, tracing their commercial success back to the 2010s. The piece highlights how operators have shifted gym design and branding to appeal beyond core climbers, making facilities more accessible to casual visitors.",
+      "url": "https://www.grimper.com/news-essor-salles-escalade-privees",
+      "category": "Industry",
+      "region": "France",
+      "source": "Grimper.com",
+      "source_domain": "grimper.com",
+      "lang": "fr"
+    },
+    {
+      "id": 132,
+      "date": "2026-06-30",
+      "title": "Insolvency Proceedings Force Closure of Wörgl Climbing Gym",
+      "summary": "The Kletterhalle Wörgl in Tyrol, Austria, is being closed within days as part of ongoing insolvency proceedings. No new operator has yet been found to take over the facility.",
+      "url": "https://www.tt.com/artikel/30928417/insolvenzverfahren-laeuft-kletterhalle-woergl-wird-jetzt-geschlossen",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Tiroler Tageszeitung",
+      "source_domain": "tt.com",
+      "lang": "de"
+    },
+    {
+      "id": 133,
+      "date": "2026-06-30",
+      "title": "Entertainment Centres, Including Climbing Halls, See Visitor Numbers Rise During Holidays",
+      "summary": "Swiss outlet Frapp reports increased footfall at entertainment venues in the Fribourg region during the recent carnival school holidays, with poor weather driving families indoors. The L'Entrepôt climbing hall in Bulle is cited as one of the venues benefiting from the trend.",
+      "url": "https://frapp.ch/fr/articles/stories/vacances-de-carnaval",
+      "category": "Industry",
+      "region": "Switzerland",
+      "source": "Frapp",
+      "source_domain": "frapp.ch",
+      "lang": "fr"
+    },
+    {
+      "id": 134,
+      "date": "2026-06-30",
+      "title": "Plans for New Sports Park with Climbing Hall and Ice Rink Spark Debate in Lindau",
+      "summary": "A proposed sports park in Lindau, Germany, combining a climbing hall and an ice rink, has triggered heated local discussion. An ice hockey club representative voiced frustration over delays and competing facility plans, with the ice rink reportedly drawing 80,000 visitors annually.",
+      "url": "https://www.schwaebische.de/regional/lindau/lindau/diskussion-um-neue-eishalle-einer-laesst-seinem-arger-freien-lauf-bodensee-eishockey-bayern-4353319",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Schwäbische.de",
+      "source_domain": "schwaebische.de",
+      "lang": "de"
+    },
     {
       "id": 105,
       "date": "2026-06-30",
