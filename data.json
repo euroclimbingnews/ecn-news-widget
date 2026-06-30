@@ -1,8 +1,140 @@
 {
   "briefings": {
-    "2026-06-30": "Two French gym openings feature in today's roundup. In the Landes region, the XXL climbing facility Altissimo in Saint-Geours-de-Maremne was officially inaugurated in late April with local officials present, while in Paris, recruitment is underway for Climb World, billed as the city's largest bouldering gym, ahead of its opening in the 14th arrondissement. No other qualifying European gym industry stories were identified today amid a batch otherwise dominated by competition results, community events, and non-industry content."
+    "2026-06-30": "Two notable European stories today: a Bavarian operator, Rock Inn, is converting the deconsecrated St. Andreas church in Würzburg into what would be Bavaria's first 'climbing church', adding bouldering, climbing and yoga space over the coming year. Meanwhile, French trade outlet Vertige Media examines consolidation pressures in the UK indoor climbing market, noting that gyms—especially in London—are facing falling footfall and rising operational complexity as the sector matures."
   },
   "stories": [
+    {
+      "id": 51,
+      "date": "2026-06-30",
+      "title": "XXL Climbing Gym Altissimo Inaugurated in Saint-Geours-de-Maremne",
+      "summary": "The Altissimo climbing gym, a large-format facility in Saint-Geours-de-Maremne (Landes), was officially inaugurated on Saturday 25 April 2026. The opening adds a major new bouldering and lead climbing venue to southwest France.",
+      "url": "https://www.sudouest.fr/landes/dax/saint-geours-de-maremne-la-salle-d-escalade-xxl-altissimo-a-ete-inauguree-28848123.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Sud Ouest",
+      "source_domain": "sudouest.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 52,
+      "date": "2026-06-30",
+      "title": "Hybrid Café-and-Climbing Venue 'Bon Matin' Opens in Etterbeek, Brussels",
+      "summary": "Bon Matin, a new venue housed in a former industrial warehouse in Etterbeek, combines a neighbourhood café with a climbing gym under one roof. The hybrid concept lets visitors climb and then socialise over coffee in the same space.",
+      "url": "https://www.sudinfo.be/id1145586/article/2026-05-01/bon-matin-mele-cafe-de-quartier-et-escalade-etterbeek-peut-venir-grimper-puis",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
+    {
+      "id": 53,
+      "date": "2026-06-30",
+      "title": "New Community Bouldering Space Launches in Genval, Belgium",
+      "summary": "A citizen-led project called 'Entre Ciel et Terre' has launched a community space built around a bouldering gym in Genval, billed as a first of its kind in Belgium. The initiative is run as a non-profit citizen association.",
+      "url": "https://www.tvcom.be/info/genval-une-nouvelle-salle-descalade-le-projet-dentre-ciel-et-terre/57732",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "TVcom",
+      "source_domain": "tvcom.be",
+      "lang": "fr"
+    },
+    {
+      "id": 54,
+      "date": "2026-06-30",
+      "title": "Upzone 360 Climbing Gym Opens in Rodez, France",
+      "summary": "A new climbing gym, Upzone 360, opened on 25 April at 19 Avenue Amans Rodat in Rodez. Founder Sébastien Anglade designed the venue as an all-public space featuring climbing walls alongside a dedicated multi-use area.",
+      "url": "https://www.centrepresseaveyron.fr/2026/04/29/jai-voulu-creer-un-espace-tout-public-et-toujours-en-mouvement-decouvrez-upzone-360-la-nouvelle-salle-descalade-de-rodez-dotee-dun-espace-13347668.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Centre Presse Aveyron",
+      "source_domain": "centrepresseaveyron.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 55,
+      "date": "2026-06-30",
+      "title": "Lienz Tourism Board Revives Talk of Building a Climbing Hall",
+      "summary": "Franz Theurl, head of the Lienz tourism association (Alpinplattform Lienz), raised the long-discussed proposal for a local climbing hall at the body's general assembly. The newly elected board signalled openness to reviving the stalled project.",
+      "url": "https://www.kleinezeitung.at/kaernten/osttirol/20807888/franz-theurl-zur-kletterhalle-man-soll-nie-nie-sagen",
+      "category": "Industry",
+      "region": "Austria",
+      "source": "Kleine Zeitung",
+      "source_domain": "kleinezeitung.at",
+      "lang": "de"
+    },
+    {
+      "id": 56,
+      "date": "2026-06-30",
+      "title": "New Family Climbing Gym with 'Fun Walls' Opens in Paris's Montparnasse",
+      "summary": "A new climbing gym featuring playful 'fun walls' aimed at families has opened in the Montparnasse district of Paris, according to a roundup of May 2026 sports activities in the Île-de-France region.",
+      "url": "https://www.sortiraparis.com/loisirs/sport/guides/281108-les-activites-et-evenements-sportifs-du-mois-de-mai-2026-a-paris-et-en-ile-de-france",
+      "category": "Openings",
+      "region": "France",
+      "source": "Sortiraparis",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
+    {
+      "id": 57,
+      "date": "2026-06-30",
+      "title": "Former Church in Bad Orb Converted into 'Boulder Church' Climbing Gym",
+      "summary": "A disused church in Bad Orb, Hesse, has been transformed into a bouldering gym named 'Boulder Church.' The conversion was a technical challenge, and operators worked closely with the diocese to avoid an invasive renovation.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/boulder-church-in-bad-orb-wo-heute-geklettert-wird-war-frueher-eine-kirche-accg-200763035.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "FAZ",
+      "source_domain": "faz.net",
+      "lang": "de"
+    },
+    {
+      "id": 58,
+      "date": "2026-06-30",
+      "title": "Bloc Session Climbing Gym in Salon-de-Provence Celebrates First Anniversary",
+      "summary": "Bloc Session in Salon-de-Provence has become a popular fixture in the local community after one year of operation. The gym is marking its first anniversary, according to local newspaper La Provence.",
+      "url": "https://www.laprovence.com/article/sortie-loisirs/1996951924054615/bloc-session-la-salle-descalade-qui-grimpe-dans-le-coeur-des-salonais",
+      "category": "Industry",
+      "region": "France",
+      "source": "La Provence",
+      "source_domain": "laprovence.com",
+      "lang": "fr"
+    },
+    {
+      "id": 59,
+      "date": "2026-06-30",
+      "title": "Würzburg's St. Andreas Church to Be Converted into a Climbing Gym",
+      "summary": "The Diocese of Würzburg has approved turning the Catholic St. Andreas church into a climbing gym, resolving a prior legal dispute for the operators. The move reflects a wider trend of repurposing redundant church buildings for sports use in Germany.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-wuerzburg-sport-gottesdienst-kirche-kletterhalle-li.3473457",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Süddeutsche Zeitung",
+      "source_domain": "sueddeutsche.de",
+      "lang": "de"
+    },
+    {
+      "id": 60,
+      "date": "2026-06-30",
+      "title": "Würzburg Church to Become Bavaria's First 'Climbing Church'",
+      "summary": "Rock Inn, operator of a Würzburg bouldering gym, plans to convert the deconsecrated St. Andreas church into a climbing and bouldering hall over the next year. The project would mark Bavaria's first conversion of a church into a climbing facility, repurposing the former worship space for climbing, bouldering and yoga.",
+      "url": "https://www.mainpost.de/wuerzburg/stadtwuerzburg/in-wuerzburg-baut-das-rock-inn-die-erste-kletterkirche-in-bayern-110571602",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Main-Post",
+      "source_domain": "mainpost.de",
+      "lang": "de"
+    },
+    {
+      "id": 61,
+      "date": "2026-06-30",
+      "title": "UK Indoor Climbing Market Faces Consolidation Amid Rising Costs",
+      "summary": "French industry outlet Vertige Media reports that the UK indoor climbing sector is undergoing consolidation as operators face declining footfall, rising costs and increasingly complex business operations. The piece notes that running a climbing gym, particularly in London, now requires sophisticated management as the market matures beyond its early growth phase.",
+      "url": "https://www.vertigemedia.fr/marche-escalade-uk-consolidation-frequentation-revenus",
+      "category": "Industry",
+      "region": "UK",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 42,
       "date": "2026-06-30",
