@@ -1,8 +1,68 @@
 {
   "briefings": {
-    "2026-06-30": "A handful of stories today touch the European climbing gym sector. In Luxembourg, the operator of a climbing hall in Soleuvre (Zolver) has issued a statement following a fatal fall at the facility, with prosecutors ordering an autopsy as the safety investigation continues. In Germany, an architecture firm has unveiled its entry for a competition to build a new DAV climbing hall and clubhouse on the historic Zeche Zollverein coking plant site in Essen. Meanwhile in France, the Blocabrac climbing gym in Saint-Étienne celebrated its 10th anniversary with a festive event, highlighting the longevity of independent gyms in the French market."
+    "2026-06-30": "A new bouldering gym has opened in Paris's Montparnasse district, adding significant capacity to the city's climbing scene. Climb World's 2,800m² facility at the Ateliers Gaîté development is now being billed as the largest bouldering gym in Paris, reflecting continued growth in the French capital's climbing gym market. No other qualifying European industry stories were identified today."
   },
   "stories": [
+    {
+      "id": 23,
+      "date": "2026-06-30",
+      "title": "Liechtenstein Climbing Hall Construction Fuels Parking Dispute",
+      "summary": "A new climbing hall under construction near a public swimming pool in Liechtenstein is taking up additional space, contributing to a reduction in available parking and sparking local debate. Residents and officials are discussing how to balance the new facility's footprint with existing parking demand.",
+      "url": "https://www.vaterland.li/liechtenstein/gesellschaft/parkplatzsituation-beim-freibad-sorgt-fuer-diskussionen-art-734099",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Liechtensteiner Vaterland",
+      "source_domain": "vaterland.li",
+      "lang": "de"
+    },
+    {
+      "id": 24,
+      "date": "2026-06-30",
+      "title": "Pontivy Gym Owners Launch New Climbing Club",
+      "summary": "Ghislain and Laëtitia Guidrais, operators of the Wallness climbing gym in Pontivy, France, have launched their own climbing club and school to make the sport more accessible to locals. The initiative marks an expansion of the gym's offering beyond standard facility access.",
+      "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/pontivy-a-desormais-son-club-descalade-7052732.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Télégramme",
+      "source_domain": "letelegramme.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 25,
+      "date": "2026-06-30",
+      "title": "Austrian Climbing Federation Takeover of Graz Hall Raises Concerns",
+      "summary": "The Austrian Alpine Club has voiced concerns that a planned takeover of Graz's only major climbing hall by the Austrian Climbing Federation could disadvantage recreational and grassroots climbers. Critics argue the city already lags behind in climbing infrastructure, and the change in ownership structure may worsen access for the broader public.",
+      "url": "https://www.kleinezeitung.at/artikel/25773014/graz-beim-seilklettern-abgehaengt",
+      "category": "M&A",
+      "region": "Austria",
+      "source": "Kleine Zeitung",
+      "source_domain": "kleinezeitung.at",
+      "lang": "de"
+    },
+    {
+      "id": 26,
+      "date": "2026-06-30",
+      "title": "DAV Nürnberg Updates Members on Climbing Factory Lease Talks",
+      "summary": "At its April 2026 members' meeting, DAV Nürnberg's section decided to enter negotiations with the landlord of its Climbing Factory facility. The update outlines the current status of discussions concerning the hall's future tenancy arrangements.",
+      "url": "https://dav-nuernberg.de/sachstand-kletterhalle-climbing-factory/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "DAV Nürnberg",
+      "source_domain": "dav-nuernberg.de",
+      "lang": "de"
+    },
+    {
+      "id": 27,
+      "date": "2026-06-30",
+      "title": "Climb World, Paris's Largest Bouldering Gym, Opens in Montparnasse",
+      "summary": "Climb World has opened at the Ateliers Gaîté development in Paris's 14th arrondissement, billed as the largest bouldering gym in the city at 2,800 square metres. The new facility adds significant capacity to the Paris climbing gym market.",
+      "url": "https://www.leparisien.fr/paris-75/climb-world-la-plus-grande-salle-de-bloc-de-paris-vient-douvrir-a-montparnasse-25-05-2026-4WGAARB3KBFVRP3JJ6YHLT4JC4.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Parisien",
+      "source_domain": "leparisien.fr",
+      "lang": "fr"
+    },
     {
       "id": 14,
       "date": "2026-06-30",
