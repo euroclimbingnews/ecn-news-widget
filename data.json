@@ -1,4 +1,43 @@
 {
-  "briefings": {},
-  "stories": []
+  "briefings": {
+    "2026-06-30": "Several new climbing gym openings are in the pipeline across continental Europe today. In France, father-son duo Bloc'Up has launched an innovative new climbing gym concept in Roquevaire. In Austria, Vienna's Brigittenau district welcomes 'das flash', a new community-focused climbing gym in a converted factory hall. Meanwhile in Germany, the Kaufbeuren sports association has voted to approve construction and operation of a new climbing hall as part of a planned facility expansion."
+  },
+  "stories": [
+    {
+      "id": 1,
+      "date": "2026-06-30",
+      "title": "Bloc'Up Aims to Reinvent the Climbing Gym Concept in Roquevaire",
+      "summary": "Bloc'Up, a new climbing gym in Roquevaire, France, opened on 12 June, launched by a father-son duo offering an innovative take on the climbing gym format. The gym presents a unique concept aimed at differentiating itself in the local climbing market.",
+      "url": "https://www.affiches-parisiennes.com/13360-roquevaire/bloc-up-veut-reinventer-le-concept-de-salle-d-escalade-a-roquevaire-333341.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Affiches Parisiennes",
+      "source_domain": "affiches-parisiennes.com",
+      "lang": "fr"
+    },
+    {
+      "id": 2,
+      "date": "2026-06-30",
+      "title": "Kaufbeuren Members' Assembly Approves Construction and Operation of New Climbing Hall",
+      "summary": "A general members' meeting in Kaufbeuren, Germany has voted to approve the construction and operation of a new climbing hall as part of a planned facility expansion. Chairman Ralf Trinkwalder presented the concept for the expansion at the assembly.",
+      "url": "https://www.wir-sind-kaufbeuren.de/2026/06/21/mitgliederversammlung-beschliesst-den-bau-und-betrieb-einer-kletterhalle/",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Wir sind Kaufbeuren",
+      "source_domain": "wir-sind-kaufbeuren.de",
+      "lang": "de"
+    },
+    {
+      "id": 3,
+      "date": "2026-06-30",
+      "title": "'Das Flash' - New Community Climbing Gym Opens in Vienna's Brigittenau District",
+      "summary": "A new community-oriented climbing gym called 'das flash' has opened in a converted factory hall in Vienna's Brigittenau district. The venue aims to bring new life and activity to the local neighbourhood.",
+      "url": "https://www.heute.at/i/in-fabrikhalle-das-flash-bringt-leben-ins-graetzl-120212074/doc-1jrkolt584",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Heute.at",
+      "source_domain": "heute.at",
+      "lang": "de"
+    }
+  ]
 }
