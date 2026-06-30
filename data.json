@@ -1,8 +1,116 @@
 {
   "briefings": {
-    "2026-06-30": "Today's European climbing gym news is light but spans several themes: a new climbing club has launched in Pontivy, Brittany, building on last year's opening of the Wallness gym, while in Switzerland the canton of Glarus is weighing further public funding for the long-running Näfels climbing hall, which has been expanded repeatedly since 2004. In Germany, a Mühlhausen development plan dispute highlights ongoing friction between planning regulations and proposals for new leisure facilities, including a climbing hall. Austrian gyms also made news with an 11-venue, 130-climber charity marathon organised by ClimbingZoo and Kletterhalle Kraftreich. Meanwhile, a French labor feature sheds light on the modest pay (€1,400/month) earned by climbing instructors and route-setters at large commercial gyms."
+    "2026-06-30": "Two French gym openings feature in today's roundup. In the Landes region, the XXL climbing facility Altissimo in Saint-Geours-de-Maremne was officially inaugurated in late April with local officials present, while in Paris, recruitment is underway for Climb World, billed as the city's largest bouldering gym, ahead of its opening in the 14th arrondissement. No other qualifying European gym industry stories were identified today amid a batch otherwise dominated by competition results, community events, and non-industry content."
   },
   "stories": [
+    {
+      "id": 42,
+      "date": "2026-06-30",
+      "title": "Climbing Club to Build New Gym in Jona, Open to Non-Members",
+      "summary": "The Boulderverein Rapperswil-Jona is building a new climbing gym and plans to make it accessible to non-members as well as club members. The facility marks an expansion of climbing access in the Swiss canton of St. Gallen.",
+      "url": "https://www.suedostschweiz.ch/leben-freizeit/neues-angebot-in-jona-verein-oeffnet-kletterhalle-fuer-alle-1077606",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "Südostschweiz",
+      "source_domain": "suedostschweiz.ch",
+      "lang": "de"
+    },
+    {
+      "id": 43,
+      "date": "2026-06-30",
+      "title": "Disused Churches in Bavaria Being Converted into Climbing Gyms",
+      "summary": "Several churches in Germany, including one in Würzburg, are being repurposed as climbing gyms as congregations shrink and buildings need new uses. A church in Saint-André could become the first in Bavaria converted into a climbing facility, reflecting a wider European trend of adaptive reuse for declining religious buildings.",
+      "url": "https://fr.news.yahoo.com/grimper-plut%C3%B4t-prier-%C3%A9glises-reconverties-060013131.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Yahoo Actualités France / Euronews",
+      "source_domain": "fr.news.yahoo.com",
+      "lang": "fr"
+    },
+    {
+      "id": 44,
+      "date": "2026-06-30",
+      "title": "New Bouldering Gym 'Upzone 360' Opens in Rodez City Centre",
+      "summary": "A new bouldering gym called Upzone 360 has opened in the centre of Rodez, France, offering an accessible and evolving climbing experience for local enthusiasts. The gym is open seven days a week.",
+      "url": "https://www.centrepresseaveyron.fr/2026/05/06/upzone-360-votre-salle-descalade-de-bloc-en-centre-ville-13358201.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Centre Presse Aveyron",
+      "source_domain": "centrepresseaveyron.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 45,
+      "date": "2026-06-30",
+      "title": "New Climbing Gym 'Bloc à Bleau' Planned Near Fontainebleau with Bar Concept",
+      "summary": "Three project leaders from Samoreau are set to open a new climbing gym called Bloc à Bleau near Fontainebleau, featuring an attached bar and a 'living space' concept. The founders will manage both the climbing facility and the bar themselves.",
+      "url": "https://actu.fr/ile-de-france/samoreau_77442/pres-de-fontainebleau-un-lieu-de-vie-la-future-salle-descalade-bloc-a-bleau-proposera-un-concept-inedit_64221515.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 46,
+      "date": "2026-06-30",
+      "title": "Old Boiler House to Become Modern Climbing Gym in Germany",
+      "summary": "A €6 million conversion project will transform a former boiler house (Kesselhaus) into a modern climbing gym, according to local officials. The redevelopment has already received planning approval as part of wider town development plans.",
+      "url": "https://www.frankenpost.de/inhalt.ortsentwicklung-aus-altem-kesselhaus-wird-eine-moderne-kletterhalle.c80e1191-b78c-47d9-9a6d-87c77f10c841.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Frankenpost",
+      "source_domain": "frankenpost.de",
+      "lang": "de"
+    },
+    {
+      "id": 47,
+      "date": "2026-06-30",
+      "title": "Vacant XXL Hall in Mühlhausen Could Become Climbing Gym, Petrol Station, or Other Use",
+      "summary": "Following an insolvency, the large XXL-Halle property in Mühlhausen, Thuringia is seeking a new tenant, with options including a climbing gym, paintball arena, mini-golf course, or a petrol station. No final decision has been made on the building's future use.",
+      "url": "https://www.thueringer-allgemeine.de/lokales/unstrut-hainich-kreis/article411898459/kletterhalle-oder-tankstelle-wer-traut-sich-an-die-xxl-halle-im-unstrut-hainich-kreis-mit-video.html",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Thüringer Allgemeine",
+      "source_domain": "thueringer-allgemeine.de",
+      "lang": "de"
+    },
+    {
+      "id": 48,
+      "date": "2026-06-30",
+      "title": "German Alpine Club Shelves New Climbing Gym Plans in Frankenthal, Opts for Renovation",
+      "summary": "The Deutscher Alpenverein's Frankenthal section has paused its plans to build a new climbing gym, citing frustration over stalled progress, and will instead focus on renovating its existing facility for now. The new-build project remains in limbo pending further resolution.",
+      "url": "https://www.rheinpfalz.de/lokal/frankenthal_artikel,-kletterhallen-projekt-stockt-alpenverein-setzt-vorerst-auf-sanierung-statt-neubau-_arid,5886553.html",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Rheinpfalz",
+      "source_domain": "rheinpfalz.de",
+      "lang": "de"
+    },
+    {
+      "id": 49,
+      "date": "2026-06-30",
+      "title": "XXL Climbing Gym Altissimo Inaugurated in Saint-Geours-de-Maremne",
+      "summary": "The XXL climbing gym Altissimo in Saint-Geours-de-Maremne, in the Landes region of France, was officially inaugurated on 25 April 2026 in the presence of local elected officials. Attendees described the facility as exceptionally large for the area.",
+      "url": "https://www.scoop.it/topic/landes-by-adacl-1/p/4171110431/2026/05/04/saint-geours-de-maremne-la-salle-d-escalade-xxl-altissimo-a-ete-inauguree",
+      "category": "Openings",
+      "region": "France",
+      "source": "scoop.it",
+      "source_domain": "scoop.it",
+      "lang": "fr"
+    },
+    {
+      "id": 50,
+      "date": "2026-06-30",
+      "title": "Paris's Largest Bouldering Gym 'Climb World' Hiring Ahead of Opening",
+      "summary": "A job listing for a full-time, multi-purpose front-of-house role in Paris's 14th arrondissement confirms the upcoming opening of Climb World, described as the largest bouldering gym in Paris. The recruitment drive signals the gym's launch is imminent.",
+      "url": "https://www.hellowork.com/fr-fr/emplois/78652255.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Hellowork",
+      "source_domain": "hellowork.com",
+      "lang": "fr"
+    },
     {
       "id": 28,
       "date": "2026-06-30",
