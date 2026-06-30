@@ -1,8 +1,68 @@
 {
   "briefings": {
-    "2026-06-30": "Several French projects highlight continued diversification of leisure complexes incorporating climbing alongside padel, trampoline and coworking facilities, with one new development in Lorient facing a legal delay. In Rennes, the climbing gym 'The Roof' has already opened as part of the redevelopment of historic civic sites. Meanwhile in Germany, a coastal town is exploring a climbing hall as a future tourism draw at the Heilig Kreuz site, and a major new climbing facility is reportedly under construction in northern Germany. In the Alps, French operators in Chambéry report indoor climbing and trampoline halls running at capacity during wet weather, underscoring strong demand for indoor leisure activities."
+    "2026-06-30": "Today's European climbing gym news centres on Germany, where church-to-climbing-gym conversions remain a recurring trend: entrepreneurs have transformed a former church into a modern bouldering hall, while a similar concept is being explored for a church in Leutesdorf, and Hannover Zoo's indoor climbing hall in its rotunda building continues to draw attention. In Belgium, plans are being floated to convert the Basilique de Cointe in Liège into a climbing venue as part of a wider rethink of the city's 500 churches. Meanwhile in Switzerland, the Bimano Boulderhalle in Solothurn has confirmed it is under significant financial pressure, raising questions about its future viability."
   },
   "stories": [
+    {
+      "id": 76,
+      "date": "2026-06-30",
+      "title": "Entrepreneurs Convert Church into Modern Climbing Gym",
+      "summary": "Two entrepreneurs, including Marc Ihl, have transformed a former church into a modern climbing and bouldering gym. The project reflects a wider trend of repurposing disused German churches for leisure and sport use.",
+      "url": "https://www.focus.de/panorama/unternehmer-bauen-kirche-in-kletterhalle-um_1ca1353e-b316-434d-b95a-0f6ee4fa94ae.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "FOCUS online",
+      "source_domain": "focus.de",
+      "lang": "de"
+    },
+    {
+      "id": 77,
+      "date": "2026-06-30",
+      "title": "Solothurn Bouldering Gym Bimano Under Financial Pressure",
+      "summary": "The Bimano Boulderhalle in Solothurn, Switzerland, founded by Jasmin Blaser along with Jano Böhlen and Wolfgang Antz, is reportedly facing significant financial difficulties. The report raises concerns about the gym's continued operation.",
+      "url": "https://www.solothurnerzeitung.ch/solothurn/stadt-solothurn/bimano-boulderhalle-solothurn-steht-finanziell-unter-druck-ld.4149167",
+      "category": "Industry",
+      "region": "Switzerland",
+      "source": "Solothurner Zeitung",
+      "source_domain": "solothurnerzeitung.ch",
+      "lang": "de"
+    },
+    {
+      "id": 78,
+      "date": "2026-06-30",
+      "title": "Hannover Zoo's Indoor Climbing Hall Faces Questions Over Viability",
+      "summary": "The Rotunde building at Hannover Zoo, which now houses an indoor climbing hall, previously hosted failed attractions including a 360-degree jungle panorama and photo exhibitions. The piece examines whether the climbing concept can succeed where prior uses struggled.",
+      "url": "https://www.neuepresse.de/lokales/hannover/die-rotunde-ein-kinderspiel-CUETO2SIRRCPFJPTJC3GM6ADCQ.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Neue Presse",
+      "source_domain": "neuepresse.de",
+      "lang": "de"
+    },
+    {
+      "id": 79,
+      "date": "2026-06-30",
+      "title": "Leutesdorf Church Considered for Climbing Hall Conversion",
+      "summary": "A regional association is exploring a new usage concept for the Wallfahrtskirche Heilig Kreuz in Leutesdorf, Germany, with conversion into a climbing hall among the options being discussed. The plan would form part of broader efforts to repurpose the pilgrimage church sustainably.",
+      "url": "https://www.facebook.com/blickaktuell/posts/kletterhalle-ein-neues-nutzungskonzept-der-leutesdorfer-kirche/1511256244180018/",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Blick Aktuell",
+      "source_domain": "facebook.com",
+      "lang": "de"
+    },
+    {
+      "id": 80,
+      "date": "2026-06-30",
+      "title": "Liège Basilica Among Sites Considered for Climbing Gym Conversion",
+      "summary": "As part of a wider initiative to find new uses for around 500 churches in Liège, Belgium, the Basilique de Cointe and adjoining memorial site have been proposed as a potential climbing gym conversion. Organiser Isabelle Rihon is running brainstorming sessions to generate ideas for repurposing the city's religious buildings.",
+      "url": "https://www.lavenir.net/actu/societe/2026/04/05/quels-futurs-pour-500-eglises-liegeoises-isabelle-rihon-organise-des-brainstormings-pour-imaginer-les-possibilites-pas-de-recette-toute-faite-HXHW2S2OXZAV5KACJCB5RG4NHE/",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "L'Avenir",
+      "source_domain": "lavenir.net",
+      "lang": "fr"
+    },
     {
       "id": 62,
       "date": "2026-06-30",
