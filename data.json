@@ -1,8 +1,21 @@
 {
   "briefings": {
-    "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers."
+    "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers.",
+    "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage."
   },
   "stories": [
+    {
+      "id": 148,
+      "date": "2026-07-03",
+      "title": "Good news for future Basilica Experience in Cointe: parking approved",
+      "summary": "The planned 'Basilique Expérience' project in Liège's Cointe neighbourhood, which will convert the former basilica into a climbing gym and panoramic restaurant, has secured approval for a parking solution. The project had previously faced local opposition, partly over parking concerns.",
+      "url": "https://www.sudinfo.be/id1167658/article/2026-07-02/bonne-nouvelle-pour-la-future-basilique-experience-cointe-elle-aura-droit-un",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
     {
       "id": 135,
       "date": "2026-06-30",
