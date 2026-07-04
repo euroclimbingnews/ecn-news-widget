@@ -1,9 +1,22 @@
 {
   "briefings": {
     "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers.",
-    "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage."
+    "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage.",
+    "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory."
   },
   "stories": [
+    {
+      "id": 149,
+      "date": "2026-07-04",
+      "title": "Closed bouldering hall in Werder (Havel) seeks activists for new 'Boulder-Werft' association",
+      "summary": "A bouldering gym in Werder (Havel), Germany, housed in the former Vulkan-Fiber factory, has closed, but its landlord is now seeking volunteers to help found a new association to give the venue a future. The initiative, dubbed 'Boulder-Werft', aims to reopen the space under community or member-led management.",
+      "url": "https://www.maz-online.de/lokales/potsdam-mittelmark/werder-havel/geschlossene-boulderhalle-in-werder-havel-aktivisten-fuer-boulder-werft-verein-gesucht-ZIPUM2BVKJFITOSOBOYQZHIRNY.html",
+      "category": "Closures",
+      "region": "Germany",
+      "source": "maz-online.de",
+      "source_domain": "maz-online.de",
+      "lang": "de"
+    },
     {
       "id": 148,
       "date": "2026-07-03",
