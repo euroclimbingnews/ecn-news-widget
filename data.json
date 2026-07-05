@@ -2,9 +2,22 @@
   "briefings": {
     "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers.",
     "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage.",
-    "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory."
+    "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory.",
+    "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed."
   },
   "stories": [
+    {
+      "id": 150,
+      "date": "2026-07-05",
+      "title": "Climber Seriously Injured After Fall onto Belayer at French Climbing Gym",
+      "summary": "Firefighters were called to a climbing gym in Pontault-Combault, Seine-et-Marne, after a climber fell and landed on their belayer. The man was seriously injured in the incident, which occurred around 10:20am.",
+      "url": "https://actu.fr/ile-de-france/pontault-combault_77373/accident-en-seine-et-marne-un-grimpeur-chute-sur-son-assureur-dans-une-salle-descalade-un-homme-grievement-blesse_64499045.html",
+      "category": "Industry",
+      "region": "France",
+      "source": "actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
     {
       "id": 149,
       "date": "2026-07-04",
