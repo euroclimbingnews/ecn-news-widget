@@ -3,9 +3,22 @@
     "2026-06-30": "A new family-friendly climbing gym, Vertical World, has opened in the Montparnasse district of Paris, featuring 33 auto-belay devices and interactive 'fun wall' attractions aimed at casual and family climbers.",
     "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage.",
     "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory.",
-    "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed."
+    "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed.",
+    "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today."
   },
   "stories": [
+    {
+      "id": 151,
+      "date": "2026-07-06",
+      "title": "Running, Fitness and Climbing: How Arkose Is Reinventing Sport with Hybrid Formats",
+      "summary": "French climbing gym chain Arkose is diversifying its business model by introducing hybrid formats that combine running, fitness, and climbing under one roof. The move aims to make climbing gyms feel less intimidating to newcomers and broaden their customer base beyond dedicated climbers.",
+      "url": "https://www.doctissimo.fr/forme/news-forme/running-fitness-et-escalade-decouvrez-comment-arkose-reinvente-le-sport-avec-ses-nouveaux-formats-hybrides-784632.htm",
+      "category": "Industry",
+      "region": "France",
+      "source": "Doctissimo",
+      "source_domain": "doctissimo.fr",
+      "lang": "fr"
+    },
     {
       "id": 150,
       "date": "2026-07-05",
