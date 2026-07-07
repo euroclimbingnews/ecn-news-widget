@@ -4,9 +4,34 @@
     "2026-07-03": "A modest news day for European climbing gym industry stories, with the standout item being a planning update from Belgium. The proposed 'Basilique Expérience' project in Liège's Cointe district — which will convert a former basilica into a climbing gym and panoramic restaurant — has received approval for a parking arrangement, addressing a key point of local opposition to the development. No other qualifying European gym industry news was found among today's incoming stories, several of which were German-language local club/community reports not relevant to industry coverage.",
     "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory.",
     "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed.",
-    "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today."
+    "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today.",
+    "2026-07-07": "Two European gym stories surfaced today: a new climbing wall opened in Normandy, France, while an Austrian gym marked a decade in business with an anniversary celebration. Both point to steady grassroots activity in the sector, with new openings continuing to serve underserved regional markets and established venues celebrating longevity."
   },
   "stories": [
+    {
+      "id": 152,
+      "date": "2026-07-07",
+      "title": "New climbing gym 'The Roof' opens in Cotentin, France",
+      "summary": "A new climbing gym called The Roof opened on 3 July 2026 in Martinvast, in the Cotentin peninsula of Normandy, France. It is described as a unique facility for the region, long awaited by local climbers.",
+      "url": "https://actu.fr/normandie/martinvast_50294/unique-dans-le-cotentin-une-salle-descalade-the-roof-vient-douvrir-ses-portes_64501789.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 153,
+      "date": "2026-07-07",
+      "title": "Austrian climbing gym celebrates 10th anniversary",
+      "summary": "The Bergstation climbing gym in Telfs, Austria, celebrated its 10th anniversary with an 'Almrausch' event featuring sporting challenges, a birthday-themed climbing programme, and a barbecue for members and visitors.",
+      "url": "https://www.rundschau.at/telfs/sport/bergstation-jubilaum",
+      "category": "Industry",
+      "region": "Austria",
+      "source": "Oberländer Wochenzeitung",
+      "source_domain": "rundschau.at",
+      "lang": "de"
+    },
     {
       "id": 151,
       "date": "2026-07-06",
