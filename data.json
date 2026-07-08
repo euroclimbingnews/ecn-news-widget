@@ -5,9 +5,22 @@
     "2026-07-04": "A quiet day for European climbing gym industry news, with one notable story from Germany: the landlord of a shuttered bouldering hall in Werder (Havel) is seeking volunteers to help relaunch the venue as a member-run association, offering a potential path back from closure for the facility housed in a former Vulkan-Fiber factory.",
     "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed.",
     "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today.",
-    "2026-07-07": "Two European gym stories surfaced today: a new climbing wall opened in Normandy, France, while an Austrian gym marked a decade in business with an anniversary celebration. Both point to steady grassroots activity in the sector, with new openings continuing to serve underserved regional markets and established venues celebrating longevity."
+    "2026-07-07": "Two European gym stories surfaced today: a new climbing wall opened in Normandy, France, while an Austrian gym marked a decade in business with an anniversary celebration. Both point to steady grassroots activity in the sector, with new openings continuing to serve underserved regional markets and established venues celebrating longevity.",
+    "2026-07-08": "A quiet news day for the European climbing gym sector, with the only notable item coming from Italy: outdoor gear manufacturer La Sportiva is expanding its headquarters in Ziano di Fiemme, adding new office space, additional parking, and a new indoor climbing wall by 2027."
   },
   "stories": [
+    {
+      "id": 154,
+      "date": "2026-07-08",
+      "title": "La Sportiva to Add Indoor Climbing Wall in Headquarters Expansion",
+      "summary": "Italian outdoor brand La Sportiva is expanding its headquarters in Ziano di Fiemme by 2027, adding new work areas, an indoor climbing gym, and additional parking space. The expansion is part of a broader push for new running concepts, stronger partnerships, and improved service.",
+      "url": "https://www.sazsport.de/news/free/neue-laufkonzepte-starke-partnerschaften-und-mehr-service/",
+      "category": "Industry",
+      "region": "Italy",
+      "source": "SAZsport",
+      "source_domain": "sazsport.de",
+      "lang": "de"
+    },
     {
       "id": 152,
       "date": "2026-07-07",
