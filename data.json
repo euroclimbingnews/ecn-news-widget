@@ -6,9 +6,34 @@
     "2026-07-05": "A climbing gym accident in Seine-et-Marne, France, is today's only story of note for the European climbing gym industry, highlighting ongoing safety considerations for indoor climbing facilities. No other qualifying openings, closures, M&A, or labor stories were identified from today's feed.",
     "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today.",
     "2026-07-07": "Two European gym stories surfaced today: a new climbing wall opened in Normandy, France, while an Austrian gym marked a decade in business with an anniversary celebration. Both point to steady grassroots activity in the sector, with new openings continuing to serve underserved regional markets and established venues celebrating longevity.",
-    "2026-07-08": "A quiet news day for the European climbing gym sector, with the only notable item coming from Italy: outdoor gear manufacturer La Sportiva is expanding its headquarters in Ziano di Fiemme, adding new office space, additional parking, and a new indoor climbing wall by 2027."
+    "2026-07-08": "A quiet news day for the European climbing gym sector, with the only notable item coming from Italy: outdoor gear manufacturer La Sportiva is expanding its headquarters in Ziano di Fiemme, adding new office space, additional parking, and a new indoor climbing wall by 2027.",
+    "2026-07-09": "Two notable stories from the European climbing gym industry today: in Switzerland, a long-running planning dispute over a new bouldering hall in Burgdorf has finally been resolved, clearing the way for construction to proceed after seven years of delays. Meanwhile in France, labour tensions have surfaced at Arkose's Paris climbing gyms, with employees reportedly expressing anger over working conditions, adding to the sector's ongoing scrutiny of staff welfare at fast-growing chains."
   },
   "stories": [
+    {
+      "id": 155,
+      "date": "2026-07-09",
+      "title": "Burgdorf Bouldering Hall: Planning Objection Resolved",
+      "summary": "After a seven-year process, the planning objection against a new bouldering/climbing hall in Burgdorf, Switzerland has been cleared. The project, first proposed by a local association in 2019, is now set to move forward with completion planned for summer 2026.",
+      "url": "https://www.neo1.ch/artikel/boulderhalle-burgdorf-die-einsprache-ist-aus-dem-weg-geraeumt",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "neo1.ch",
+      "source_domain": "neo1.ch",
+      "lang": "de"
+    },
+    {
+      "id": 156,
+      "date": "2026-07-09",
+      "title": "\"We're not going to wreck our health\": Anger among staff at Arkose climbing gyms",
+      "summary": "Employees at Arkose climbing gyms in Paris, including a new site at Parc de la Villette, have voiced anger over working conditions, according to a report by Reporterre. Staff reportedly raised concerns about pressure from management and health-related issues on the job.",
+      "url": "https://reporterre.net/Mon-directeur-m-a-dit-d-aller-acheter-des-Mr-Freeze-la-colere-de-salaries-de-salles-d",
+      "category": "Labor",
+      "region": "France",
+      "source": "Reporterre",
+      "source_domain": "reporterre.net",
+      "lang": "fr"
+    },
     {
       "id": 154,
       "date": "2026-07-08",
