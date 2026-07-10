@@ -7,9 +7,46 @@
     "2026-07-06": "A quiet day for European climbing gym industry news, with only one notable story. French chain Arkose is expanding its offering by blending climbing with running and fitness formats, aiming to diversify revenue streams and attract new demographics. No significant openings, closures, M&A, or labor stories were reported from other European markets today.",
     "2026-07-07": "Two European gym stories surfaced today: a new climbing wall opened in Normandy, France, while an Austrian gym marked a decade in business with an anniversary celebration. Both point to steady grassroots activity in the sector, with new openings continuing to serve underserved regional markets and established venues celebrating longevity.",
     "2026-07-08": "A quiet news day for the European climbing gym sector, with the only notable item coming from Italy: outdoor gear manufacturer La Sportiva is expanding its headquarters in Ziano di Fiemme, adding new office space, additional parking, and a new indoor climbing wall by 2027.",
-    "2026-07-09": "Two notable stories from the European climbing gym industry today: in Switzerland, a long-running planning dispute over a new bouldering hall in Burgdorf has finally been resolved, clearing the way for construction to proceed after seven years of delays. Meanwhile in France, labour tensions have surfaced at Arkose's Paris climbing gyms, with employees reportedly expressing anger over working conditions, adding to the sector's ongoing scrutiny of staff welfare at fast-growing chains."
+    "2026-07-09": "Two notable stories from the European climbing gym industry today: in Switzerland, a long-running planning dispute over a new bouldering hall in Burgdorf has finally been resolved, clearing the way for construction to proceed after seven years of delays. Meanwhile in France, labour tensions have surfaced at Arkose's Paris climbing gyms, with employees reportedly expressing anger over working conditions, adding to the sector's ongoing scrutiny of staff welfare at fast-growing chains.",
+    "2026-07-10": "A modest day for European climbing gym news, headlined by the opening of a new alpine and climbing centre in Schorndorf, Germany, developed by the German Alpine Club (DAV). In France, planning continues for the 2027 edition of the Salon de l'Escalade climbing trade show in Paris, a major industry gathering. Meanwhile, a commercial property listing in Kiel highlights continued market growth for bouldering and climbing gym space in Germany, as operators look to capitalise on rising demand."
   },
   "stories": [
+    {
+      "id": 157,
+      "date": "2026-07-10",
+      "title": "DAV Opens New Alpine Centre with Climbing Gym in Schorndorf",
+      "summary": "The German Alpine Club (DAV) Schorndorf section has opened a new Alpinzentrum featuring a modern climbing hall with walls up to 16 metres high. The centre is intended to become a new social and sporting hub for the local section, open to members and the public alike.",
+      "url": "https://www.stuttgarter-zeitung.de/lokales/rems-murr-kreis/alpinzentrum-schorndorf-bis-zu-16-meter-hoch-alpenverein-eroeffnet-moderne-kletterhalle-fuer-alle-79263647.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Stuttgarter Zeitung",
+      "source_domain": "stuttgarter-zeitung.de",
+      "lang": "de"
+    },
+    {
+      "id": 158,
+      "date": "2026-07-10",
+      "title": "Paris Climbing Trade Show Announced for 2027",
+      "summary": "Paris Expo Porte de Versailles will host the 2027 edition of the Salon de l'Escalade, a major French trade and consumer show dedicated to climbing. The event will showcase climbing disciplines, gear, and activities for enthusiasts and newcomers alike, serving as a key industry gathering point.",
+      "url": "https://www.sortiraparis.com/loisirs/salon/articles/319720-le-salon-de-l-escalade-2027-decouvertes-et-animations-de-grimpe-a-paris-expo-porte-de-versailles",
+      "category": "Industry",
+      "region": "France",
+      "source": "Sortir à Paris",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
+    {
+      "id": 159,
+      "date": "2026-07-10",
+      "title": "Commercial Space Advertised for Climbing/Bouldering Gym in Kiel",
+      "summary": "A commercial property at the Westufer Maritim-Park in Kiel is being marketed for lease as a potential site for a climbing or bouldering hall, citing rapid growth in the northern German individual and adventure sports market. The listing points to continued investor and operator interest in expanding climbing gym capacity in the region.",
+      "url": "https://westufer-kiel.de/vitalwerk/bouldern-klettern/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Westufer Kiel",
+      "source_domain": "westufer-kiel.de",
+      "lang": "de"
+    },
     {
       "id": 155,
       "date": "2026-07-09",
