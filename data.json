@@ -10,9 +10,22 @@
     "2026-07-09": "Two notable stories from the European climbing gym industry today: in Switzerland, a long-running planning dispute over a new bouldering hall in Burgdorf has finally been resolved, clearing the way for construction to proceed after seven years of delays. Meanwhile in France, labour tensions have surfaced at Arkose's Paris climbing gyms, with employees reportedly expressing anger over working conditions, adding to the sector's ongoing scrutiny of staff welfare at fast-growing chains.",
     "2026-07-10": "A modest day for European climbing gym news, headlined by the opening of a new alpine and climbing centre in Schorndorf, Germany, developed by the German Alpine Club (DAV). In France, planning continues for the 2027 edition of the Salon de l'Escalade climbing trade show in Paris, a major industry gathering. Meanwhile, a commercial property listing in Kiel highlights continued market growth for bouldering and climbing gym space in Germany, as operators look to capitalise on rising demand.",
     "2026-07-11": "Two new climbing gym openings were reported today across Europe. In Germany, the Baltic Rocks chain expanded its Schwerin-area location with a new 320-square-metre bouldering, ninja and climbing hall. Meanwhile in France, a new 400-square-metre bouldering gym called 'Le Lâcher prise' opened in Le Coteau, offering 60 routes for climbers of all levels.",
-    "2026-07-12": "A new bouldering and climbing gym has opened in Le Coteau, France, adding to the growing network of independent climbing facilities in the country. No other significant European or UK climbing gym industry stories were identified today."
+    "2026-07-12": "A new bouldering and climbing gym has opened in Le Coteau, France, adding to the growing network of independent climbing facilities in the country. No other significant European or UK climbing gym industry stories were identified today.",
+    "2026-07-13": "A modest day for European climbing gym news, with a single notable story from Germany. Baltic Rocks is expanding its facility with a new 320-square-metre bouldering hall, ninja parcours, and interactive climbing elements, reflecting continued investment in gym infrastructure in the German market. Other items in today's feed concerned promotional discounts, a competition event, and a community festival, none of which met the bar for B2B industry relevance."
   },
   "stories": [
+    {
+      "id": 162,
+      "date": "2026-07-13",
+      "title": "320 Square Metres of Adventure: New Bouldering, Ninja and Climbing Hall Opens",
+      "summary": "Baltic Rocks is expanding its facility in Klöresgang with a new 320-square-metre area featuring a bouldering hall, a ninja obstacle course, and new interactive climbing elements. The expansion adds significant new capacity and activity variety to the existing climbing gym.",
+      "url": "https://www.msn.com/de-de/reisen/nachrichten/320-quadratmeter-voller-abenteuer-die-neue-boulder-ninja-und-kletterhalle-%C3%B6ffnet-ihre-t%C3%BCren/ar-AA27Dd4e",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "msn.com",
+      "source_domain": "msn.com",
+      "lang": "de"
+    },
     {
       "id": 160,
       "date": "2026-07-11",
