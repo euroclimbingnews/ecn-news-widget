@@ -12,9 +12,22 @@
     "2026-07-11": "Two new climbing gym openings were reported today across Europe. In Germany, the Baltic Rocks chain expanded its Schwerin-area location with a new 320-square-metre bouldering, ninja and climbing hall. Meanwhile in France, a new 400-square-metre bouldering gym called 'Le Lâcher prise' opened in Le Coteau, offering 60 routes for climbers of all levels.",
     "2026-07-12": "A new bouldering and climbing gym has opened in Le Coteau, France, adding to the growing network of independent climbing facilities in the country. No other significant European or UK climbing gym industry stories were identified today.",
     "2026-07-13": "A modest day for European climbing gym news, with a single notable story from Germany. Baltic Rocks is expanding its facility with a new 320-square-metre bouldering hall, ninja parcours, and interactive climbing elements, reflecting continued investment in gym infrastructure in the German market. Other items in today's feed concerned promotional discounts, a competition event, and a community festival, none of which met the bar for B2B industry relevance.",
-    "2026-07-14": "Two European climbing gym stories today: a new large-scale opening in Paris and a facility completion celebration in Bavaria. Le Bonbon reports that Paris's largest climbing gym has just opened its doors, adding significant capacity to the French capital's bouldering and climbing scene. Meanwhile in Moosburg, Germany, the local Alpenverein branch celebrated the completion of its new climbing hall and clubhouse renovation with a well-attended festival."
+    "2026-07-14": "Two European climbing gym stories today: a new large-scale opening in Paris and a facility completion celebration in Bavaria. Le Bonbon reports that Paris's largest climbing gym has just opened its doors, adding significant capacity to the French capital's bouldering and climbing scene. Meanwhile in Moosburg, Germany, the local Alpenverein branch celebrated the completion of its new climbing hall and clubhouse renovation with a well-attended festival.",
+    "2026-07-17": "A quiet day for European climbing gym industry news, with just one confirmed opening to report. The new climbing facility \"The Roof\" has opened in Martinvast in France's Cotentin region, drawing strong early visitor numbers according to local reports. Several other stories from French and German outlets covered climbing-related content but did not meet the bar for gym industry business news (school outings, generic guides, gym directory listings, and speculative redevelopment proposals)."
   },
   "stories": [
+    {
+      "id": 165,
+      "date": "2026-07-17",
+      "title": "New Climbing Gym \"The Roof\" Opens in Cotentin, France",
+      "summary": "The Roof climbing gym opened in Martinvast on 3 July, becoming the only facility of its kind in the Cotentin region. Early reports indicate strong customer interest, with some visitors already returning up to ten times since the opening. The gym offers climbing walls and related facilities to the local community.",
+      "url": "https://www.tendanceouest.com/actualite-440998-cotentin-certains-sont-deja-venus-dix-fois-ouverte-debut-juillet-la-nouvelle-salle-d-escalade-the-roof-fait-le-plein",
+      "category": "Openings",
+      "region": "France",
+      "source": "Tendance Ouest",
+      "source_domain": "tendanceouest.com",
+      "lang": "fr"
+    },
     {
       "id": 163,
       "date": "2026-07-14",
