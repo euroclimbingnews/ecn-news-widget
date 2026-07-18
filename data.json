@@ -13,9 +13,34 @@
     "2026-07-12": "A new bouldering and climbing gym has opened in Le Coteau, France, adding to the growing network of independent climbing facilities in the country. No other significant European or UK climbing gym industry stories were identified today.",
     "2026-07-13": "A modest day for European climbing gym news, with a single notable story from Germany. Baltic Rocks is expanding its facility with a new 320-square-metre bouldering hall, ninja parcours, and interactive climbing elements, reflecting continued investment in gym infrastructure in the German market. Other items in today's feed concerned promotional discounts, a competition event, and a community festival, none of which met the bar for B2B industry relevance.",
     "2026-07-14": "Two European climbing gym stories today: a new large-scale opening in Paris and a facility completion celebration in Bavaria. Le Bonbon reports that Paris's largest climbing gym has just opened its doors, adding significant capacity to the French capital's bouldering and climbing scene. Meanwhile in Moosburg, Germany, the local Alpenverein branch celebrated the completion of its new climbing hall and clubhouse renovation with a well-attended festival.",
-    "2026-07-17": "A quiet day for European climbing gym industry news, with just one confirmed opening to report. The new climbing facility \"The Roof\" has opened in Martinvast in France's Cotentin region, drawing strong early visitor numbers according to local reports. Several other stories from French and German outlets covered climbing-related content but did not meet the bar for gym industry business news (school outings, generic guides, gym directory listings, and speculative redevelopment proposals)."
+    "2026-07-17": "A quiet day for European climbing gym industry news, with just one confirmed opening to report. The new climbing facility \"The Roof\" has opened in Martinvast in France's Cotentin region, drawing strong early visitor numbers according to local reports. Several other stories from French and German outlets covered climbing-related content but did not meet the bar for gym industry business news (school outings, generic guides, gym directory listings, and speculative redevelopment proposals).",
+    "2026-07-18": "A quiet day for European climbing gym industry news, with the standout story being the opening of Climb World's new 2,800m² bouldering facility in Paris's 14th arrondissement — now the city's largest climbing gym, featuring 33 sectors and the capital's only XL Kilter Board. Meanwhile, a community association near Caen highlights the ongoing challenge of keeping smaller, accessibility-focused climbing facilities operational, in this case for adults with intellectual disabilities."
   },
   "stories": [
+    {
+      "id": 166,
+      "date": "2026-07-18",
+      "title": "Climb World Opens Paris's Largest Climbing Gym in the 14th Arrondissement",
+      "summary": "Climb World has opened a new 2,800m² bouldering facility in Paris's 14th arrondissement, making it the largest climbing gym in the city. The venue features 33 climbing sectors, around 200 boulder problems, a bar, and the capital's only XL Kilter Board.",
+      "url": "https://www.parisselectbook.com/2026/07/17/climb-world-ouvre-la-plus-grande-salle-descalade-de-paris-dans-le-14e-avec-2-800-m%C2%B2-et-200-blocs/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Paris Select Book",
+      "source_domain": "parisselectbook.com",
+      "lang": "fr"
+    },
+    {
+      "id": 167,
+      "date": "2026-07-18",
+      "title": "Association Saves Climbing Gym Near Caen for Adults with Disabilities",
+      "summary": "A group of volunteers near Caen formed an association to keep a climbing gym running for adults with intellectual disabilities, offering them recreational access and autonomy. The initiative aims to prevent the facility from shutting down and continues to provide holiday and activity programmes for its members.",
+      "url": "https://actu.fr/normandie/herouville-saint-clair_14327/handicap-mental-les-adultes-aussi-ont-droit-a-des-vacances-pres-de-caen-grace-a-cette-association_64554516.html",
+      "category": "Industry",
+      "region": "France",
+      "source": "actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
     {
       "id": 165,
       "date": "2026-07-17",
