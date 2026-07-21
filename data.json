@@ -14,9 +14,46 @@
     "2026-07-13": "A modest day for European climbing gym news, with a single notable story from Germany. Baltic Rocks is expanding its facility with a new 320-square-metre bouldering hall, ninja parcours, and interactive climbing elements, reflecting continued investment in gym infrastructure in the German market. Other items in today's feed concerned promotional discounts, a competition event, and a community festival, none of which met the bar for B2B industry relevance.",
     "2026-07-14": "Two European climbing gym stories today: a new large-scale opening in Paris and a facility completion celebration in Bavaria. Le Bonbon reports that Paris's largest climbing gym has just opened its doors, adding significant capacity to the French capital's bouldering and climbing scene. Meanwhile in Moosburg, Germany, the local Alpenverein branch celebrated the completion of its new climbing hall and clubhouse renovation with a well-attended festival.",
     "2026-07-17": "A quiet day for European climbing gym industry news, with just one confirmed opening to report. The new climbing facility \"The Roof\" has opened in Martinvast in France's Cotentin region, drawing strong early visitor numbers according to local reports. Several other stories from French and German outlets covered climbing-related content but did not meet the bar for gym industry business news (school outings, generic guides, gym directory listings, and speculative redevelopment proposals).",
-    "2026-07-18": "A quiet day for European climbing gym industry news, with the standout story being the opening of Climb World's new 2,800m² bouldering facility in Paris's 14th arrondissement — now the city's largest climbing gym, featuring 33 sectors and the capital's only XL Kilter Board. Meanwhile, a community association near Caen highlights the ongoing challenge of keeping smaller, accessibility-focused climbing facilities operational, in this case for adults with intellectual disabilities."
+    "2026-07-18": "A quiet day for European climbing gym industry news, with the standout story being the opening of Climb World's new 2,800m² bouldering facility in Paris's 14th arrondissement — now the city's largest climbing gym, featuring 33 sectors and the capital's only XL Kilter Board. Meanwhile, a community association near Caen highlights the ongoing challenge of keeping smaller, accessibility-focused climbing facilities operational, in this case for adults with intellectual disabilities.",
+    "2026-07-21": "Today's European climbing gym news features a mix of routesetting professional development and unusual gym openings. In Austria, Kletterhalle Weinburg hosted a routesetting workshop with experts from Kletterhalle Wien to refresh its wall setting. Meanwhile in France, a decommissioned church in Châteauroux is being converted into a climbing wall, sparking some local debate, and French chain Arkose — now with 30 gyms nationwide — was highlighted as a partner of the Paris Plages summer event."
   },
   "stories": [
+    {
+      "id": 168,
+      "date": "2026-07-21",
+      "title": "Routesetting Workshop Brings New Ideas to Kletterhalle Weinburg",
+      "summary": "Kletterhalle Weinburg in Austria hosted a professional development session led by Dieter Schimanek, with routesetting experts Daniel Kamellor and Patrik Törnström from Kletterhalle Wien. The workshop focused on improving routesetting practices and sharing expertise between gyms.",
+      "url": "https://www.meinbezirk.at/pielachtal/c-lokales/neue-impulse-fuer-die-kletterhalle-weinburg_a8804619",
+      "category": "Industry",
+      "region": "Austria",
+      "source": "MeinBezirk.at",
+      "source_domain": "meinbezirk.at",
+      "lang": "de"
+    },
+    {
+      "id": 169,
+      "date": "2026-07-21",
+      "title": "Church in Châteauroux to Be Converted Into a Climbing Wall",
+      "summary": "The Saint-Joseph church in Châteauroux, France, is set to be transformed into a climbing wall, a repurposing that has raised questions locally given the site's religious symbolism. The project reflects a broader trend of adaptive reuse of disused buildings for climbing gym facilities in France.",
+      "url": "https://tribunechretienne.com/diocese-de-bourges-a-chateauroux-leglise-saint-joseph-bientot-transformee-en-mur-descalade-un-symbole-qui-interroge/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Tribune Chrétienne",
+      "source_domain": "tribunechretienne.com",
+      "lang": "fr"
+    },
+    {
+      "id": 170,
+      "date": "2026-07-21",
+      "title": "Arkose Highlighted as Partner of Paris Plages, Now Leader in French Indoor Climbing with 30 Gyms",
+      "summary": "French climbing chain Arkose, which opened its first gym in Montreuil in 2013, is listed as a partner of the Paris Plages summer event. The company is now described as the leader in indoor climbing in France with 30 locations nationwide.",
+      "url": "https://www.paris.fr/pages/les-partenaires-de-paris-en-seine-35798",
+      "category": "Industry",
+      "region": "France",
+      "source": "Paris.fr",
+      "source_domain": "paris.fr",
+      "lang": "fr"
+    },
     {
       "id": 166,
       "date": "2026-07-18",
