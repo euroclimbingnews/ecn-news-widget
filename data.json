@@ -16,9 +16,45 @@
     "2026-07-17": "A quiet day for European climbing gym industry news, with just one confirmed opening to report. The new climbing facility \"The Roof\" has opened in Martinvast in France's Cotentin region, drawing strong early visitor numbers according to local reports. Several other stories from French and German outlets covered climbing-related content but did not meet the bar for gym industry business news (school outings, generic guides, gym directory listings, and speculative redevelopment proposals).",
     "2026-07-18": "A quiet day for European climbing gym industry news, with the standout story being the opening of Climb World's new 2,800m² bouldering facility in Paris's 14th arrondissement — now the city's largest climbing gym, featuring 33 sectors and the capital's only XL Kilter Board. Meanwhile, a community association near Caen highlights the ongoing challenge of keeping smaller, accessibility-focused climbing facilities operational, in this case for adults with intellectual disabilities.",
     "2026-07-21": "Today's European climbing gym news features a mix of routesetting professional development and unusual gym openings. In Austria, Kletterhalle Weinburg hosted a routesetting workshop with experts from Kletterhalle Wien to refresh its wall setting. Meanwhile in France, a decommissioned church in Châteauroux is being converted into a climbing wall, sparking some local debate, and French chain Arkose — now with 30 gyms nationwide — was highlighted as a partner of the Paris Plages summer event.",
-    "2026-07-22": "The only industry-relevant story today is a new bouldering gym opening in Zurich, Switzerland, founded by a group of climbing friends under Ryu Sports AG. Other stories in today's feed concern outdoor ascents, mountaineering accidents, and competition results, which fall outside our gym-industry coverage scope."
+    "2026-07-22": "Today's European climbing gym news centres on Germany and Austria, with several openings and expansions. A gym near Bad Tölz in Bavaria is adding a new 15-metre hexagonal tower with 60 routes to cope with weekend crowds of up to 538 visitors, while Vienna gains a new bouldering venue, 'Edelweiss Floridsdorf', complete with a gastronomy area overlooking the walls. Meanwhile, Stuttgart is gearing up to host the Graviteo Festival on August 1st, expected to draw 15,000 visitors and underscoring the continued boom in climbing sport participation across Germany."
   },
   "stories": [
+    {
+      "id": 172,
+      "date": "2026-07-22",
+      "title": "Bavarian Climbing Gym Builds 15-Metre Tower with 60 New Routes",
+      "summary": "A climbing gym on the Flinthöhe near Bad Tölz, Bavaria, is expanding with a new hexagonal 15-metre tower featuring 60 additional climbing routes. The expansion comes as the venue regularly sees up to 538 paying guests on rainy weekends, highlighting strong demand for indoor climbing capacity in the region.",
+      "url": "https://www.merkur.de/lokales/bad-toelz/kletterhalle-in-oberbayern-baut-15-meter-turm-mit-60-neuen-routen-94408192.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Merkur.de",
+      "source_domain": "merkur.de",
+      "lang": "de"
+    },
+    {
+      "id": 173,
+      "date": "2026-07-22",
+      "title": "New Bouldering Gym 'Edelweiss Floridsdorf' Opens in Vienna",
+      "summary": "A new bouldering hall called 'Edelweiss Floridsdorf' has opened in Vienna's Floridsdorf district, adding to the city's climbing gym offerings. The facility includes a spacious gastronomy area with views over the climbing walls.",
+      "url": "https://www.heute.at/s/edelweiss-floridsdorf-neue-boulderhalle-eroeffnet-120226635",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Heute.at",
+      "source_domain": "heute.at",
+      "lang": "de"
+    },
+    {
+      "id": 174,
+      "date": "2026-07-22",
+      "title": "Climbing Sport Booms: 15,000 Visitors Expected at Graviteo Festival in Stuttgart",
+      "summary": "Stuttgart-Zuffenhausen will host the Graviteo Festival on August 1st, with organisers expecting around 15,000 visitors, reflecting continued growth in Germany's climbing sport scene. The event underscores the rising popularity of climbing halls and related industry activity in the region.",
+      "url": "https://www.ad-hoc-news.de/wissenschaft/klettersport-boomt-15-000-besucher-beim-graviteo-festival/69816577",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "lang": "de"
+    },
     {
       "id": 171,
       "date": "2026-07-22",
