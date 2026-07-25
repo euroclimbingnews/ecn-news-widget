@@ -17,9 +17,34 @@
     "2026-07-18": "A quiet day for European climbing gym industry news, with the standout story being the opening of Climb World's new 2,800m² bouldering facility in Paris's 14th arrondissement — now the city's largest climbing gym, featuring 33 sectors and the capital's only XL Kilter Board. Meanwhile, a community association near Caen highlights the ongoing challenge of keeping smaller, accessibility-focused climbing facilities operational, in this case for adults with intellectual disabilities.",
     "2026-07-21": "Today's European climbing gym news features a mix of routesetting professional development and unusual gym openings. In Austria, Kletterhalle Weinburg hosted a routesetting workshop with experts from Kletterhalle Wien to refresh its wall setting. Meanwhile in France, a decommissioned church in Châteauroux is being converted into a climbing wall, sparking some local debate, and French chain Arkose — now with 30 gyms nationwide — was highlighted as a partner of the Paris Plages summer event.",
     "2026-07-22": "Today's European climbing gym news centres on Germany and Austria, with several openings and expansions. A gym near Bad Tölz in Bavaria is adding a new 15-metre hexagonal tower with 60 routes to cope with weekend crowds of up to 538 visitors, while Vienna gains a new bouldering venue, 'Edelweiss Floridsdorf', complete with a gastronomy area overlooking the walls. Meanwhile, Stuttgart is gearing up to host the Graviteo Festival on August 1st, expected to draw 15,000 visitors and underscoring the continued boom in climbing sport participation across Germany.",
-    "2026-07-23": "A quiet day for European gym industry news, with the standout story being the opening of a new bouldering gym in Zurich, Switzerland. Founded by a tight-knit group of climbing friends under parent company Ryu Sports AG, Mitō Bouldering adds to Switzerland's growing bouldering gym scene."
+    "2026-07-23": "A quiet day for European gym industry news, with the standout story being the opening of a new bouldering gym in Zurich, Switzerland. Founded by a tight-knit group of climbing friends under parent company Ryu Sports AG, Mitō Bouldering adds to Switzerland's growing bouldering gym scene.",
+    "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities."
   },
   "stories": [
+    {
+      "id": 175,
+      "date": "2026-07-25",
+      "title": "Renovation begins on CAC climbing gym in Graz, Austria",
+      "summary": "The Austrian Climbing Federation has taken over the City Adventure Center (CAC) climbing gym in Graz and started renovation work. The facility will become a national youth training centre while continuing to serve recreational climbers.",
+      "url": "https://www.kleinezeitung.at/artikel/39149591/start-fuer-den-umbau-des-city-adventure-center-in-graz",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Kleine Zeitung",
+      "source_domain": "kleinezeitung.at",
+      "lang": "de"
+    },
+    {
+      "id": 176,
+      "date": "2026-07-25",
+      "title": "New multi-sport complex with climbing wall to open in Auxerre, France",
+      "summary": "A new sports complex combining padel courts, five-a-side football pitches and a climbing wall, along with a bar/snack area and sports shop, is planned to open in Auxerre by the end of 2026. The project reflects a growing trend of combined leisure complexes incorporating climbing facilities in France.",
+      "url": "https://www.lyonne.fr/auxerre-89000/economie/padel-foot-escalade-un-complexe-sportif-inedit-va-ouvrir-fin-2026-a-auxerre_15024357/",
+      "category": "Openings",
+      "region": "France",
+      "source": "L'Yonne Républicaine",
+      "source_domain": "lyonne.fr",
+      "lang": "fr"
+    },
     {
       "id": 172,
       "date": "2026-07-22",
