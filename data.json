@@ -18,9 +18,22 @@
     "2026-07-21": "Today's European climbing gym news features a mix of routesetting professional development and unusual gym openings. In Austria, Kletterhalle Weinburg hosted a routesetting workshop with experts from Kletterhalle Wien to refresh its wall setting. Meanwhile in France, a decommissioned church in Châteauroux is being converted into a climbing wall, sparking some local debate, and French chain Arkose — now with 30 gyms nationwide — was highlighted as a partner of the Paris Plages summer event.",
     "2026-07-22": "Today's European climbing gym news centres on Germany and Austria, with several openings and expansions. A gym near Bad Tölz in Bavaria is adding a new 15-metre hexagonal tower with 60 routes to cope with weekend crowds of up to 538 visitors, while Vienna gains a new bouldering venue, 'Edelweiss Floridsdorf', complete with a gastronomy area overlooking the walls. Meanwhile, Stuttgart is gearing up to host the Graviteo Festival on August 1st, expected to draw 15,000 visitors and underscoring the continued boom in climbing sport participation across Germany.",
     "2026-07-23": "A quiet day for European gym industry news, with the standout story being the opening of a new bouldering gym in Zurich, Switzerland. Founded by a tight-knit group of climbing friends under parent company Ryu Sports AG, Mitō Bouldering adds to Switzerland's growing bouldering gym scene.",
-    "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities."
+    "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities.",
+    "2026-07-26": "A notable conversion story comes out of France today, where the deconsecrated Saint-Joseph church in Châteauroux is being repurposed into a climbing hall, taking advantage of the building's high ceilings. This adds to a growing trend across Europe of using disused religious and industrial buildings for climbing gym development."
   },
   "stories": [
+    {
+      "id": 177,
+      "date": "2026-07-26",
+      "title": "Deconsecrated Church in Châteauroux to Become Climbing Gym",
+      "summary": "The Saint-Joseph church in Châteauroux, France, has been formally deconsecrated and will be converted into a climbing hall. Local priest Father Stéphane Maritaud noted the building's height makes it well-suited for climbing walls.",
+      "url": "https://www.lanouvellerepublique.fr/chateauroux/on-continue-a-s-elever-l-eglise-saint-joseph-de-chateauroux-desacralisee-1784987605",
+      "category": "Openings",
+      "region": "France",
+      "source": "La Nouvelle République",
+      "source_domain": "lanouvellerepublique.fr",
+      "lang": "fr"
+    },
     {
       "id": 175,
       "date": "2026-07-25",
