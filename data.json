@@ -21,9 +21,69 @@
     "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities.",
     "2026-07-26": "A notable conversion story comes out of France today, where the deconsecrated Saint-Joseph church in Châteauroux is being repurposed into a climbing hall, taking advantage of the building's high ceilings. This adds to a growing trend across Europe of using disused religious and industrial buildings for climbing gym development.",
     "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe.",
-    "2026-08-05": "A notable legal development in France concerns climbing gym liability standards following a court ruling on an auto-belay device accident, with implications for how gyms are expected to configure mixed-use equipment. No other qualifying European or UK climbing gym industry stories were identified today."
+    "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved."
   },
   "stories": [
+    {
+      "id": 180,
+      "date": "2026-08-05",
+      "title": "Vacant Hall Near Gefrees Could Become Climbing Gym",
+      "summary": "A long-empty building in Streitau, near Gefrees, Germany, is being considered for redevelopment as a climbing hall as the town tackles a vacancy eyesore. The local council reviewed the plan alongside the 2025 annual accounts.",
+      "url": "https://www.kurier.de/inhalt.leere-halle-bei-gefrees-streitauer-schandfleck-soll-beseitigt-werden.26822c15-880c-41a0-9671-810d20f5945d.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Kurier",
+      "source_domain": "kurier.de",
+      "lang": "de"
+    },
+    {
+      "id": 181,
+      "date": "2026-08-05",
+      "title": "Church in Châteauroux Set to Become a Climbing Gym",
+      "summary": "A former church in Châteauroux, France, is being converted into a climbing gym, with the property's covenant reportedly ruling out uses such as a nightclub. The unusual reuse of a religious building highlights ongoing conversions of underused urban space into climbing venues.",
+      "url": "https://www.ledauphine.com/insolite/2026/08/02/cette-eglise-va-devenir-une-salle-d-escalade-elle-ne-peut-pas-devenir-une-discotheque-ou-un-boui-boui",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Dauphiné Libéré",
+      "source_domain": "ledauphine.com",
+      "lang": "fr"
+    },
+    {
+      "id": 182,
+      "date": "2026-08-05",
+      "title": "IBA'27 Schorndorf: New DAV Alpine Centre is the Only Completed Project So Far",
+      "summary": "The newly opened DAV Alpine Centre, including a climbing hall, is the first fully completed project as part of the IBA'27 building exhibition in Schorndorf, Germany. Despite the opening, funding approval for the project came through only after construction was finished, according to the local DAV section chair.",
+      "url": "https://www.zvw.de/lokales/schorndorf/iba27-in-schorndorf-nur-das-neu-aufgenommene-dav-alpinzentum-ist-fertig-gebaut_arid-1093015",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "ZVW",
+      "source_domain": "zvw.de",
+      "lang": "de"
+    },
+    {
+      "id": 183,
+      "date": "2026-08-05",
+      "title": "Court Splits Liability Between Arkose and Climber After 8-Metre Auto-Belay Fall",
+      "summary": "A French court has ruled that climbing gym chain Arkose bears partial responsibility for a climber's 8-metre fall on an auto-belay device, despite contributory fault on the part of the victim. The ruling underscores growing legal scrutiny of auto-belay safety practices at French climbing gyms.",
+      "url": "https://planetgrimpe.com/chute-de-8-metres-sur-auto-enrouleur-la-responsabilite-darkose-engagee-malgre-la-faute-de-la-grimpeuse/",
+      "category": "Industry",
+      "region": "France",
+      "source": "PlanetGrimpe",
+      "source_domain": "planetgrimpe.com",
+      "lang": "fr"
+    },
+    {
+      "id": 184,
+      "date": "2026-08-05",
+      "title": "Climb Up's Largest French Gym Placed Into Receivership",
+      "summary": "The company operating Climb Up Aubervilliers, near Paris and the largest climbing gym in France, has been placed into court-supervised receivership (redressement judiciaire) due to financial difficulties. The proceedings signal significant financial distress at one of France's best-known climbing gym operators.",
+      "url": "https://actu.fr/ile-de-france/aubervilliers_93001/climb-up-en-difficulte-pres-de-paris-la-plus-grande-salle-d-escalade-de-france-placee-en_64606820.html",
+      "category": "M&A",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
     {
       "id": 179,
       "date": "2026-08-05",
