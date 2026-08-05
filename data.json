@@ -20,9 +20,22 @@
     "2026-07-23": "A quiet day for European gym industry news, with the standout story being the opening of a new bouldering gym in Zurich, Switzerland. Founded by a tight-knit group of climbing friends under parent company Ryu Sports AG, Mitō Bouldering adds to Switzerland's growing bouldering gym scene.",
     "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities.",
     "2026-07-26": "A notable conversion story comes out of France today, where the deconsecrated Saint-Joseph church in Châteauroux is being repurposed into a climbing hall, taking advantage of the building's high ceilings. This adds to a growing trend across Europe of using disused religious and industrial buildings for climbing gym development.",
-    "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe."
+    "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe.",
+    "2026-08-05": "A notable legal development in France concerns climbing gym liability standards following a court ruling on an auto-belay device accident, with implications for how gyms are expected to configure mixed-use equipment. No other qualifying European or UK climbing gym industry stories were identified today."
   },
   "stories": [
+    {
+      "id": 179,
+      "date": "2026-08-05",
+      "title": "After the Auto-Belay Accident: A Lawyer Analyses the Ruling's Lessons for Climbing Gyms",
+      "summary": "A French lawyer breaks down a recent court judgment concerning an accident involving an auto-belay device at a climbing gym, examining what the ruling means for gym operators. The analysis focuses on how the court weighed 'mixed use' of equipment as evidence of an operational choice by the gym, with implications for liability and safety practice standards.",
+      "url": "https://planetgrimpe.com/apres-laccident-sur-auto-enrouleur-un-avocat-analyse-les-enseignements-du-jugement-pour-les-salles-descalade/",
+      "category": "Industry",
+      "region": "France",
+      "source": "PlanetGrimpe",
+      "source_domain": "planetgrimpe.com",
+      "lang": "fr"
+    },
     {
       "id": 178,
       "date": "2026-07-28",
