@@ -21,9 +21,34 @@
     "2026-07-25": "Two European climbing facility stories today: in Austria, the Austrian Climbing Federation has taken over Graz's City Adventure Center (CAC) climbing gym, beginning renovations to convert it into a national youth training centre while also serving recreational climbers. In France, a new multi-sport complex combining padel, five-a-side football and a climbing wall is set to open in Auxerre by the end of 2026, reflecting continued diversification of leisure/sports real estate projects incorporating climbing facilities.",
     "2026-07-26": "A notable conversion story comes out of France today, where the deconsecrated Saint-Joseph church in Châteauroux is being repurposed into a climbing hall, taking advantage of the building's high ceilings. This adds to a growing trend across Europe of using disused religious and industrial buildings for climbing gym development.",
     "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe.",
-    "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved."
+    "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved.",
+    "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene."
   },
   "stories": [
+    {
+      "id": 185,
+      "date": "2026-08-06",
+      "title": "DAV Expands Outdoor Climbing Area in Bad Tölz to Ease Overcrowding",
+      "summary": "The German Alpine Club (DAV) is building a new outdoor climbing tower in Bad Tölz after its indoor climbing hall regularly reached capacity limits, especially on weekends and during holidays. The expansion will add more climbing space in the outdoor area to accommodate demand.",
+      "url": "https://alpenwelle.de/neuer-kletterturm-fuer-bad-toelz-dav-erweitert-outdoorbereich",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Radio Alpenwelle",
+      "source_domain": "alpenwelle.de",
+      "lang": "de"
+    },
+    {
+      "id": 186,
+      "date": "2026-08-06",
+      "title": "Man Who Lost Sight and a Hand in Workplace Accident Opens Bouldering Gym in Wallonia",
+      "summary": "Eleven years after a workplace accident left him blind and without a hand, Raphaël Kergen is opening a new bouldering gym in Wallonia, Belgium. The story highlights his personal journey and entry into the regional climbing gym business.",
+      "url": "https://www.facebook.com/lavenir.net/videos/-il-a-perdu-la-vue-et-une-main-dans-un-accident-de-travail-11-ans-plus-tard-raph/1738024133928232/",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "L'Avenir",
+      "source_domain": "facebook.com",
+      "lang": "fr"
+    },
     {
       "id": 180,
       "date": "2026-08-05",
