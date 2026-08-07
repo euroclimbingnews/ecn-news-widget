@@ -22,9 +22,46 @@
     "2026-07-26": "A notable conversion story comes out of France today, where the deconsecrated Saint-Joseph church in Châteauroux is being repurposed into a climbing hall, taking advantage of the building's high ceilings. This adds to a growing trend across Europe of using disused religious and industrial buildings for climbing gym development.",
     "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe.",
     "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved.",
-    "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene."
+    "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene.",
+    "2026-08-07": "Two connected stories from Austria highlight the precarious future of Kletterhalle Wörgl, where the youth competition programme faces closure after the Austrian Alpine Club (Alpenverein) pulled out of talks to find a new operator for the facility. Meanwhile in France, a report on Climb Up signals a broader slowdown in the country's indoor climbing sector after years of rapid expansion, suggesting the golden era of new openings may be cooling. Both stories point to growing financial and operational pressures facing climbing gym operators across Europe."
   },
   "stories": [
+    {
+      "id": 187,
+      "date": "2026-08-07",
+      "title": "Kletterhalle Wörgl: Youth Competition Group Faces End Without New Operator",
+      "summary": "The 'Skyclimbers', the children's and youth competition group of the Wörgl Alpine Club section, face dissolution if the local climbing gym does not reopen under a new operator. The facility's future remains uncertain as talks continue over its management.",
+      "url": "https://www.tt.com/artikel/30939665/kletterhalle-woergl-ohne-neuen-betreiber-muss-jugend-wettkampf-gruppe-aufhoeren",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Tiroler Tageszeitung",
+      "source_domain": "tt.com",
+      "lang": "de"
+    },
+    {
+      "id": 188,
+      "date": "2026-08-07",
+      "title": "Austrian Alpine Club Withdraws from Talks to Save Wörgl Climbing Gym",
+      "summary": "The Austrian Alpine Club (Alpenverein) has withdrawn from discussions aimed at rescuing the Kletterhalle Wörgl, dimming hopes for the facility's survival. No new operator has yet been secured for the gym.",
+      "url": "https://www.meinbezirk.at/kufstein/c-lokales/alpenverein-zieht-sich-aus-gespraechen-rund-um-kletterhalle-woergl-zurueck_a8835382?ref=curate",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "MeinBezirk",
+      "source_domain": "meinbezirk.at",
+      "lang": "de"
+    },
+    {
+      "id": 189,
+      "date": "2026-08-07",
+      "title": "French Indoor Climbing Sector Cools as Climb Up Pulls Back Expansion",
+      "summary": "A slowdown at French climbing chain Climb Up signals the end of a boom period for indoor climbing gyms in France, following years of rapid growth in new facilities. The article analyses the shift from an era of aggressive expansion to a more cautious market outlook for operators.",
+      "url": "https://patrickbayeux.com/actualites/escalade-indoor-le-coup-de-frein-de-climb-up-marque-la-fin-de-lage-dor/",
+      "category": "Industry",
+      "region": "France",
+      "source": "Patrick Bayeux",
+      "source_domain": "patrickbayeux.com",
+      "lang": "fr"
+    },
     {
       "id": 185,
       "date": "2026-08-06",
