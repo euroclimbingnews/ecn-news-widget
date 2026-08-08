@@ -23,9 +23,58 @@
     "2026-07-28": "A disused Catholic church in Würzburg, Germany is being converted into a climbing gym following its deconsecration, marking another example of adaptive reuse of religious buildings for the climbing industry in Europe.",
     "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved.",
     "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene.",
-    "2026-08-07": "Two connected stories from Austria highlight the precarious future of Kletterhalle Wörgl, where the youth competition programme faces closure after the Austrian Alpine Club (Alpenverein) pulled out of talks to find a new operator for the facility. Meanwhile in France, a report on Climb Up signals a broader slowdown in the country's indoor climbing sector after years of rapid expansion, suggesting the golden era of new openings may be cooling. Both stories point to growing financial and operational pressures facing climbing gym operators across Europe."
+    "2026-08-07": "Two connected stories from Austria highlight the precarious future of Kletterhalle Wörgl, where the youth competition programme faces closure after the Austrian Alpine Club (Alpenverein) pulled out of talks to find a new operator for the facility. Meanwhile in France, a report on Climb Up signals a broader slowdown in the country's indoor climbing sector after years of rapid expansion, suggesting the golden era of new openings may be cooling. Both stories point to growing financial and operational pressures facing climbing gym operators across Europe.",
+    "2026-08-08": "European gym industry news today centres on Austria and France. In Tirol, the future of the currently closed Wörgl climbing hall remains uncertain as regional funding is tied to a full renovation, and the Austrian Alpine Club (ÖAV) has now withdrawn from further talks about its future. In Lyon, staff at a climbing gym in the 8th arrondissement are struggling with extreme indoor heat exceeding 40°C, highlighting labour and working-condition concerns tied to this summer's heatwave. Meanwhile in Paris, a new municipal sports hall by Atelier Ramdam includes a dedicated climbing hall, adding to the city's public sport infrastructure."
   },
   "stories": [
+    {
+      "id": 190,
+      "date": "2026-08-08",
+      "title": "New Paris Sports Hall by Atelier Ramdam Includes Climbing Facility",
+      "summary": "The Rebecca Cheptegei sports hall in Paris, designed by Atelier Ramdam (based in Saint-Denis and Saint-Rémy-la-Varenne), includes a dedicated climbing hall among its facilities. The building is part of a wider municipal sports infrastructure project.",
+      "url": "https://www.baunetz.de/meldungen/Meldungen-Sporthalle_in_Paris_von_Atelier_Ramdam_10384946.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "BauNetz",
+      "source_domain": "baunetz.de",
+      "lang": "de"
+    },
+    {
+      "id": 191,
+      "date": "2026-08-08",
+      "title": "Wörgl Climbing Hall: Tyrol Funding Conditional on Full Renovation",
+      "summary": "The currently closed Wörgl climbing hall in Tyrol, Austria, could only receive regional government funding if a complete renovation is undertaken, raising questions about its future. Local officials are weighing options amid financial uncertainty.",
+      "url": "https://www.meinbezirk.at/kufstein/c-lokales/foerderung-durch-land-tirol-mit-fragezeichen_a8801934",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "MeinBezirk",
+      "source_domain": "meinbezirk.at",
+      "lang": "de"
+    },
+    {
+      "id": 192,
+      "date": "2026-08-08",
+      "title": "Austrian Alpine Club Withdraws from Wörgl Climbing Hall Talks",
+      "summary": "The Wörgl-Wildschönau section of the Austrian Alpine Club (ÖAV) has announced it will no longer participate in further discussions regarding the future of the closed Wörgl climbing hall. The move adds further uncertainty to the facility's fate.",
+      "url": "https://vero-online.info/kletterhalle-woergl-alpenverein-steigt-aus/",
+      "category": "Industry",
+      "region": "Austria",
+      "source": "Vero Online",
+      "source_domain": "vero-online.info",
+      "lang": "de"
+    },
+    {
+      "id": 193,
+      "date": "2026-08-08",
+      "title": "Lyon Climbing Gym Staff Endure Extreme Heat During Heatwave",
+      "summary": "Employees at a climbing gym in Lyon's 8th arrondissement (Laënnec) are working in indoor temperatures exceeding 40°C amid a severe heatwave. The report highlights growing labour and workplace safety concerns for gym staff during extreme weather.",
+      "url": "https://www.leprogres.fr/environnement/2026/08/06/les-dernieres-heures-c-est-difficile-dans-cette-salle-d-escalade-du-8e-la-temperature-atteint-des-sommets",
+      "category": "Labor",
+      "region": "France",
+      "source": "Le Progrès",
+      "source_domain": "leprogres.fr",
+      "lang": "fr"
+    },
     {
       "id": 187,
       "date": "2026-08-07",
