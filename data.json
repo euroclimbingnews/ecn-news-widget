@@ -24,9 +24,34 @@
     "2026-08-05": "French climbing gym news dominates today's roundup, with two significant legal rulings clarifying liability for auto-belay accidents at gyms, including one case directly implicating chain operator Arkose. Meanwhile, Climb Up's Aubervilliers site — the largest climbing gym in France — has been placed into court-supervised receivership, signalling financial distress at a major operator. On the openings side, Germany continues to see reuse of vacant buildings for climbing purposes, with a former church in Châteauroux (France) and a vacant hall near Gefrees both being considered as future climbing venues, while Schorndorf's new DAV Alpine Centre has become the first completed project of the IBA'27 building exhibition, though its funding remains unresolved.",
     "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene.",
     "2026-08-07": "Two connected stories from Austria highlight the precarious future of Kletterhalle Wörgl, where the youth competition programme faces closure after the Austrian Alpine Club (Alpenverein) pulled out of talks to find a new operator for the facility. Meanwhile in France, a report on Climb Up signals a broader slowdown in the country's indoor climbing sector after years of rapid expansion, suggesting the golden era of new openings may be cooling. Both stories point to growing financial and operational pressures facing climbing gym operators across Europe.",
-    "2026-08-08": "European gym industry news today centres on Austria and France. In Tirol, the future of the currently closed Wörgl climbing hall remains uncertain as regional funding is tied to a full renovation, and the Austrian Alpine Club (ÖAV) has now withdrawn from further talks about its future. In Lyon, staff at a climbing gym in the 8th arrondissement are struggling with extreme indoor heat exceeding 40°C, highlighting labour and working-condition concerns tied to this summer's heatwave. Meanwhile in Paris, a new municipal sports hall by Atelier Ramdam includes a dedicated climbing hall, adding to the city's public sport infrastructure."
+    "2026-08-08": "European gym industry news today centres on Austria and France. In Tirol, the future of the currently closed Wörgl climbing hall remains uncertain as regional funding is tied to a full renovation, and the Austrian Alpine Club (ÖAV) has now withdrawn from further talks about its future. In Lyon, staff at a climbing gym in the 8th arrondissement are struggling with extreme indoor heat exceeding 40°C, highlighting labour and working-condition concerns tied to this summer's heatwave. Meanwhile in Paris, a new municipal sports hall by Atelier Ramdam includes a dedicated climbing hall, adding to the city's public sport infrastructure.",
+    "2026-08-09": "Limited European climbing gym industry news today, with two modest stories filtering through the noise. In Liechtenstein, construction is progressing on a new climbing hall in Vaduz's Mühleholz district, set to feature numerous walls and routes. Meanwhile in France, a petition is circulating calling for climbing gyms to hire qualified professional staff, pointing to ongoing staffing concerns within the sector."
   },
   "stories": [
+    {
+      "id": 194,
+      "date": "2026-08-09",
+      "title": "New Climbing Hall Takes Shape in Vaduz's Mühleholz District",
+      "summary": "A new climbing hall under construction in the Mühleholz area of Vaduz, Liechtenstein is progressing, with reports indicating it will feature numerous walls and routes. The facility is being closely followed by local media as it nears completion.",
+      "url": "https://www.facebook.com/1FL.LI/posts/die-neue-kletterhalle-im-m%C3%BChleholz-mit-vielen-w%C3%A4nden-und-routen-nimmt-formen-an/1694300692698724/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "1FLTV",
+      "source_domain": "facebook.com",
+      "lang": "de"
+    },
+    {
+      "id": 195,
+      "date": "2026-08-09",
+      "title": "Petition Calls for Climbing Gyms to Hire Professional Staff",
+      "summary": "A petition circulating in France urges climbing gym members and communities to support the hiring of qualified professionals at their local climbing facilities. The campaign highlights concerns about staffing levels and professional oversight within French climbing gyms.",
+      "url": "https://www.mypetition.org/petition/sports/soutenez-l-embauche-d-professionnel-salle/285559",
+      "category": "Labor",
+      "region": "France",
+      "source": "MyPetition.org",
+      "source_domain": "mypetition.org",
+      "lang": "fr"
+    },
     {
       "id": 190,
       "date": "2026-08-08",
