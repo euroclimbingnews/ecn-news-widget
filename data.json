@@ -25,9 +25,22 @@
     "2026-08-06": "Two notable stories today highlight facility expansion and new gym openings in the DACH and Benelux regions. In Germany, the German Alpine Club (DAV) is expanding outdoor climbing capacity in Bad Tölz to relieve pressure on its overcrowded indoor climbing hall. In Belgium, an inspiring entrepreneur who lost his sight and a hand in a workplace accident is opening a new bouldering gym in Wallonia, marking a fresh addition to the region's climbing gym scene.",
     "2026-08-07": "Two connected stories from Austria highlight the precarious future of Kletterhalle Wörgl, where the youth competition programme faces closure after the Austrian Alpine Club (Alpenverein) pulled out of talks to find a new operator for the facility. Meanwhile in France, a report on Climb Up signals a broader slowdown in the country's indoor climbing sector after years of rapid expansion, suggesting the golden era of new openings may be cooling. Both stories point to growing financial and operational pressures facing climbing gym operators across Europe.",
     "2026-08-08": "European gym industry news today centres on Austria and France. In Tirol, the future of the currently closed Wörgl climbing hall remains uncertain as regional funding is tied to a full renovation, and the Austrian Alpine Club (ÖAV) has now withdrawn from further talks about its future. In Lyon, staff at a climbing gym in the 8th arrondissement are struggling with extreme indoor heat exceeding 40°C, highlighting labour and working-condition concerns tied to this summer's heatwave. Meanwhile in Paris, a new municipal sports hall by Atelier Ramdam includes a dedicated climbing hall, adding to the city's public sport infrastructure.",
-    "2026-08-09": "Limited European climbing gym industry news today, with two modest stories filtering through the noise. In Liechtenstein, construction is progressing on a new climbing hall in Vaduz's Mühleholz district, set to feature numerous walls and routes. Meanwhile in France, a petition is circulating calling for climbing gyms to hire qualified professional staff, pointing to ongoing staffing concerns within the sector."
+    "2026-08-09": "Limited European climbing gym industry news today, with two modest stories filtering through the noise. In Liechtenstein, construction is progressing on a new climbing hall in Vaduz's Mühleholz district, set to feature numerous walls and routes. Meanwhile in France, a petition is circulating calling for climbing gyms to hire qualified professional staff, pointing to ongoing staffing concerns within the sector.",
+    "2026-08-10": "The only notable European climbing gym industry story today concerns Europe's largest climbing gym, reportedly undergoing financial restructuring ('redressement') in the Paris region, as reported by Le Parisien. No other gym openings, closures, labor, or M&A news from the UK or Europe met our relevance criteria today — the remaining wire stories were local event listings for climbing courses and seasonal halls in Germany and Austria rather than business-relevant industry news."
   },
   "stories": [
+    {
+      "id": 196,
+      "date": "2026-08-10",
+      "title": "Why Europe's Largest Climbing Gym Is Facing Financial Restructuring",
+      "summary": "Le Parisien reports that the largest climbing gym in Europe, located in the Seine-Saint-Denis area near Paris, is undergoing a financial restructuring process ('redressement'). The piece explores the gym's untapped potential despite its current financial difficulties.",
+      "url": "https://x.com/leparisien_93/status/2086436203625140256",
+      "category": "Closures",
+      "region": "France",
+      "source": "Le Parisien",
+      "source_domain": "leparisien.fr",
+      "lang": "fr"
+    },
     {
       "id": 194,
       "date": "2026-08-09",
