@@ -28,9 +28,44 @@
     "2026-08-09": "Limited European climbing gym industry news today, with two modest stories filtering through the noise. In Liechtenstein, construction is progressing on a new climbing hall in Vaduz's Mühleholz district, set to feature numerous walls and routes. Meanwhile in France, a petition is circulating calling for climbing gyms to hire qualified professional staff, pointing to ongoing staffing concerns within the sector.",
     "2026-08-10": "The only notable European climbing gym industry story today concerns Europe's largest climbing gym, reportedly undergoing financial restructuring ('redressement') in the Paris region, as reported by Le Parisien. No other gym openings, closures, labor, or M&A news from the UK or Europe met our relevance criteria today — the remaining wire stories were local event listings for climbing courses and seasonal halls in Germany and Austria rather than business-relevant industry news.",
     "2026-08-11": "Two European climbing gym industry stories today highlight financial and operational challenges facing operators. In France, the largest climbing gym in Europe, based in Aubervilliers (Seine-Saint-Denis), has entered judicial receivership despite strong perceived potential, raising questions about the future of its network of five halls. Meanwhile in Austria, the local section of the Austrian Alpine Club (Alpenverein) in Wörgl-Wildschönau is stepping back from its involvement with the Wörgl climbing hall, signalling a change in the facility's operating structure.",
-    "2026-08-12": "The only industry-relevant story today involves gym management software: Redpoint HQ has added French-language support across its platform, a move aimed at serving climbing gyms in France and other Francophone European markets. No other European or UK climbing gym openings, closures, M&A, or labor stories were reported today."
+    "2026-08-12": "French climbing chain Climb Up is facing financial difficulties, with its Maxéville site near Nancy caught up in receivership proceedings affecting the group. Elsewhere in France, plans for a new multisport hall featuring a climbing wall in Villefranche-de-Lauragais (Haute-Garonne) have been revised, with the climbing area reduced in size from earlier designs. In the UK, a Labour-led local council redevelopment of a shopping centre is set to include a new climbing wall among other leisure facilities, part of broader public investment in local amenities."
   },
   "stories": [
+    {
+      "id": 200,
+      "date": "2026-08-12",
+      "title": "Climb Up in receivership: is the Maxéville climbing gym affected?",
+      "summary": "French climbing gym chain Climb Up has entered redressement judiciaire (court-ordered receivership), raising questions about the future of its Maxéville site near Nancy. The article examines whether this particular gym, part of the wider Grand Nancy area, will be impacted by the chain's financial restructuring.",
+      "url": "https://www.estrepublicain.fr/economie/2026/08/11/climb-up-en-redressement-judiciaire-la-salle-d-escalade-de-maxeville-est-elle-concernee",
+      "category": "Closures",
+      "region": "France",
+      "source": "L'Est Républicain",
+      "source_domain": "estrepublicain.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 201,
+      "date": "2026-08-12",
+      "title": "Haute-Garonne: what the planned multisport hall with climbing wall in Villefranche-de-Lauragais will look like",
+      "summary": "A new multisport facility including a climbing wall is being planned for Villefranche-de-Lauragais in Haute-Garonne, France. The climbing wall's floor area has been reduced by 27 square metres compared to the initial design sketch presented earlier.",
+      "url": "https://actu.fr/occitanie/villefranche-de-lauragais_31582/haute-garonne-a-quoi-ressemblera-la-salle-multisport-avec-mur-descalade-en-projet-a-villefranche-de-lauragais_64598835.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 202,
+      "date": "2026-08-12",
+      "title": "UK council-led shopping centre redevelopment to include new climbing wall",
+      "summary": "A Labour-led local council in the UK is progressing a shopping centre redevelopment that will include a climbing wall and indoor adventure play area among its new leisure facilities. Construction is now underway as part of broader local government investment initiatives.",
+      "url": "https://labourlist.org/2026/08/good-news-in-labour-local-government-11-08-2026/",
+      "category": "Openings",
+      "region": "UK",
+      "source": "LabourList",
+      "source_domain": "labourlist.org"
+    },
     {
       "id": 199,
       "date": "2026-08-12",
