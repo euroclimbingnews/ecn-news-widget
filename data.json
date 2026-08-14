@@ -30,9 +30,33 @@
     "2026-08-11": "Two European climbing gym industry stories today highlight financial and operational challenges facing operators. In France, the largest climbing gym in Europe, based in Aubervilliers (Seine-Saint-Denis), has entered judicial receivership despite strong perceived potential, raising questions about the future of its network of five halls. Meanwhile in Austria, the local section of the Austrian Alpine Club (Alpenverein) in Wörgl-Wildschönau is stepping back from its involvement with the Wörgl climbing hall, signalling a change in the facility's operating structure.",
     "2026-08-12": "French climbing chain Climb Up is facing financial difficulties, with its Maxéville site near Nancy caught up in receivership proceedings affecting the group. Elsewhere in France, plans for a new multisport hall featuring a climbing wall in Villefranche-de-Lauragais (Haute-Garonne) have been revised, with the climbing area reduced in size from earlier designs. In the UK, a Labour-led local council redevelopment of a shopping centre is set to include a new climbing wall among other leisure facilities, part of broader public investment in local amenities.",
     "2026-08-13": "French climbing gym news dominates today's coverage, with Climb Up chain reportedly entering judicial receivership (redressement judiciaire) in France, raising questions about the future of its Maxéville (Nancy) location. Separately, planning details have emerged for a new multisport facility including a climbing wall in Villefranche-de-Lauragais (Haute-Garonne), though the climbing wall's footprint has been reduced from initial plans.",
-    "2026-08-14": "A quiet news day for the European climbing gym industry, with just one notable story: French collective The Roof has expanded its network to ten facilities with a new bouldering gym opening in Martinvast, Northern France. Most other wire content today concerned outdoor ascents and expeditions in the US and South America, or US-based job listings, which fall outside our coverage scope."
+    "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback."
   },
   "stories": [
+    {
+      "id": 204,
+      "date": "2026-08-14",
+      "title": "David Good designs 150 climbing routes for new Rhiblok gym in Vaduz",
+      "summary": "The new Rhiblok climbing gym in Vaduz, Liechtenstein, is set to open on 26 September 2026. Local route-setter David Good and his team are designing around 150 routes catering to climbers from beginner to advanced level.",
+      "url": "https://www.rheintaler.ch/artikel/david-good-baut-150-kletterrouten-fuer-die-neue-rhiblok-halle-in-vaduz/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Der Rheintaler",
+      "source_domain": "rheintaler.ch",
+      "lang": "de"
+    },
+    {
+      "id": 205,
+      "date": "2026-08-14",
+      "title": "Former hospital chapel in Foix, France, could become a bouldering gym",
+      "summary": "The Saint-Jacques chapel in Foix (Ariège), closed for 25 years since the departure of the hospital, could be repurposed into a bouldering wall or food hall. The plan has sparked local opposition, with some residents strongly against the idea of converting the historic chapel into a climbing facility.",
+      "url": "https://www.ladepeche.fr/2026/08/13/si-cest-pour-faire-un-mur-descalade-surement-pas-fermee-depuis-25-ans-en-ariege-la-chapelle-saint-jacques-sapprete-a-changer-de-destin-13504797.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "La Dépêche",
+      "source_domain": "ladepeche.fr",
+      "lang": "fr"
+    },
     {
       "id": 203,
       "date": "2026-08-13",
