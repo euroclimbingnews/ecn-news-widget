@@ -30,9 +30,22 @@
     "2026-08-11": "Two European climbing gym industry stories today highlight financial and operational challenges facing operators. In France, the largest climbing gym in Europe, based in Aubervilliers (Seine-Saint-Denis), has entered judicial receivership despite strong perceived potential, raising questions about the future of its network of five halls. Meanwhile in Austria, the local section of the Austrian Alpine Club (Alpenverein) in Wörgl-Wildschönau is stepping back from its involvement with the Wörgl climbing hall, signalling a change in the facility's operating structure.",
     "2026-08-12": "French climbing chain Climb Up is facing financial difficulties, with its Maxéville site near Nancy caught up in receivership proceedings affecting the group. Elsewhere in France, plans for a new multisport hall featuring a climbing wall in Villefranche-de-Lauragais (Haute-Garonne) have been revised, with the climbing area reduced in size from earlier designs. In the UK, a Labour-led local council redevelopment of a shopping centre is set to include a new climbing wall among other leisure facilities, part of broader public investment in local amenities.",
     "2026-08-13": "French climbing gym news dominates today's coverage, with Climb Up chain reportedly entering judicial receivership (redressement judiciaire) in France, raising questions about the future of its Maxéville (Nancy) location. Separately, planning details have emerged for a new multisport facility including a climbing wall in Villefranche-de-Lauragais (Haute-Garonne), though the climbing wall's footprint has been reduced from initial plans.",
-    "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback."
+    "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback.",
+    "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region."
   },
   "stories": [
+    {
+      "id": 206,
+      "date": "2026-08-15",
+      "title": "Brest climbing gym is the only one in Finistère equipped with 'vertical footing' device",
+      "summary": "Climb Up, located at the Ateliers des Capucins in Brest, is the sole climbing gym in the Finistère department to offer 'footing vertical' (vertical footing) equipment. The feature is being promoted as a unique selling point for the facility in its local market.",
+      "url": "https://www.letelegramme.fr/finistere/brest-29200/a-brest-cette-salle-descalade-est-la-seule-du-finistere-a-etre-equipee-du-dispositif-de-footing-vertical-7099925.php",
+      "category": "Industry",
+      "region": "France",
+      "source": "Le Télégramme",
+      "source_domain": "letelegramme.fr",
+      "lang": "fr"
+    },
     {
       "id": 204,
       "date": "2026-08-14",
