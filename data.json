@@ -31,9 +31,22 @@
     "2026-08-12": "French climbing chain Climb Up is facing financial difficulties, with its Maxéville site near Nancy caught up in receivership proceedings affecting the group. Elsewhere in France, plans for a new multisport hall featuring a climbing wall in Villefranche-de-Lauragais (Haute-Garonne) have been revised, with the climbing area reduced in size from earlier designs. In the UK, a Labour-led local council redevelopment of a shopping centre is set to include a new climbing wall among other leisure facilities, part of broader public investment in local amenities.",
     "2026-08-13": "French climbing gym news dominates today's coverage, with Climb Up chain reportedly entering judicial receivership (redressement judiciaire) in France, raising questions about the future of its Maxéville (Nancy) location. Separately, planning details have emerged for a new multisport facility including a climbing wall in Villefranche-de-Lauragais (Haute-Garonne), though the climbing wall's footprint has been reduced from initial plans.",
     "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback.",
-    "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region."
+    "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region.",
+    "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news."
   },
   "stories": [
+    {
+      "id": 207,
+      "date": "2026-08-16",
+      "title": "Largest Bouldering Gym in the Greater Region Opens in Esch, Luxembourg",
+      "summary": "A new bouldering facility described as the largest in the Greater Region (Luxembourg, and border areas of France, Germany and Belgium) has opened in Esch-sur-Alzette. The article, framed around gym staff member Dimitri Cardone, touches on safety supervision and the multilingual skills required to manage climbers at the facility.",
+      "url": "https://www.virgule.lu/luxembourg/dimitri-cardone-quand-la-peur-prend-le-dessus-je-dois-faire-descendre-la-personne-du-parcours/159640971.html",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Virgule.lu",
+      "source_domain": "virgule.lu",
+      "lang": "fr"
+    },
     {
       "id": 206,
       "date": "2026-08-15",
