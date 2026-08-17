@@ -32,9 +32,22 @@
     "2026-08-13": "French climbing gym news dominates today's coverage, with Climb Up chain reportedly entering judicial receivership (redressement judiciaire) in France, raising questions about the future of its Maxéville (Nancy) location. Separately, planning details have emerged for a new multisport facility including a climbing wall in Villefranche-de-Lauragais (Haute-Garonne), though the climbing wall's footprint has been reduced from initial plans.",
     "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback.",
     "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region.",
-    "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news."
+    "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news.",
+    "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability."
   },
   "stories": [
+    {
+      "id": 208,
+      "date": "2026-08-17",
+      "title": "Bankruptcy, Closures, Losses: Behind the Success of Climbing Gyms Lies a Fragile Business Model",
+      "summary": "A French business report reveals the financial struggles facing many climbing gym operators despite the sport's growing popularity, citing cases of judicial receivership, closures, and mounting losses. The piece notes that opening a bouldering gym requires a substantial initial investment of between €500,000 and €900,000, making the business model highly fragile for operators.",
+      "url": "https://www.challenges.fr/entreprise/sports/redressement-judiciaire-fermetures-pertes-dans-lombre-du-succes-des-salles-descalade-un-modele-economique-tres-fragile_645237",
+      "category": "Industry",
+      "region": "France",
+      "source": "Challenges",
+      "source_domain": "challenges.fr",
+      "lang": "fr"
+    },
     {
       "id": 207,
       "date": "2026-08-16",
