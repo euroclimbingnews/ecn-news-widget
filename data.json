@@ -33,9 +33,22 @@
     "2026-08-14": "Limited industry activity today, with one notable opening story from Liechtenstein and a contentious property conversion in France. The Rhiblok climbing gym in Vaduz is set to open on 26 September, with local route-setter David Good designing around 150 routes for climbers of all levels. Meanwhile in Ariège, France, a long-disused hospital chapel is being considered for conversion into a bouldering gym, though the proposal faces local pushback.",
     "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region.",
     "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news.",
-    "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability."
+    "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability.",
+    "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region."
   },
   "stories": [
+    {
+      "id": 209,
+      "date": "2026-08-18",
+      "title": "New Opening: DAV Alpine Centre Schorndorf",
+      "summary": "The German Alpine Club (DAV) has opened a new Alpinzentrum in Schorndorf featuring a barrier-free climbing hall. The facility includes 510 square metres of indoor climbing space and 460 square metres of outdoor climbing area, alongside additional sports facilities.",
+      "url": "https://www.alpenverein.de/artikel/neueroeffnung-dav-alpinzentrum-schorndorf_994b9298-c9fc-4a72-99d5-8faeaacc08cf",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "alpenverein.de",
+      "source_domain": "alpenverein.de",
+      "lang": "de"
+    },
     {
       "id": 208,
       "date": "2026-08-17",
