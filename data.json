@@ -34,9 +34,34 @@
     "2026-08-15": "A quiet day for European climbing gym industry news, with only one notable story: a French gym in Brest highlighting its investment in specialised 'vertical footing' training equipment, positioning itself as unique in the Finistère region.",
     "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news.",
     "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability.",
-    "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region."
+    "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region.",
+    "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation."
   },
   "stories": [
+    {
+      "id": 210,
+      "date": "2026-08-19",
+      "title": "Marburg: New Climbing Wall for the Alpine Club",
+      "summary": "The outdoor climbing wall at the Volksbank climbing hall in Marburg, operated by the German Alpine Club (Alpenverein), has reopened after renovation work that kept outdoor climbers waiting for more than five months. The refurbished wall is now back in service for members.",
+      "url": "https://www.op-marburg.de/lokales/marburg-biedenkopf/marburg/marburg-eine-neue-kletterwand-fuer-den-alpenverein-LVJ5MWZOU5FCNDXZP3HNX2ON24.html?outputType=valid_amp",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "OP Marburg",
+      "source_domain": "op-marburg.de",
+      "lang": "de"
+    },
+    {
+      "id": 211,
+      "date": "2026-08-19",
+      "title": "Wittenheim: Climb Up Climbing Gym in Judicial Receivership Hopes to Recover",
+      "summary": "The Climb Up climbing gym in Wittenheim, France, has entered judicial receivership (redressement judiciaire) amid difficult trading conditions affecting climbing venues in the area. Management remains hopeful of turning the business around despite the financial distress.",
+      "url": "https://www.lalsace.fr/culture-loisirs/2026/08/18/l-escalade-dans-l-agglo-stop-ou-encore-climb-up-en-redressement-judiciaire-espere-remonter-la-pente",
+      "category": "Closures",
+      "region": "France",
+      "source": "L'Alsace",
+      "source_domain": "lalsace.fr",
+      "lang": "fr"
+    },
     {
       "id": 209,
       "date": "2026-08-18",
