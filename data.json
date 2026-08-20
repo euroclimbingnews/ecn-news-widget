@@ -35,9 +35,22 @@
     "2026-08-16": "A notable opening in the Benelux region: the largest bouldering gym in the Greater Region (covering Luxembourg and surrounding areas) has opened in Esch, Luxembourg, as reported by local outlet Virgule.lu. Other items in today's feed were low-value social media posts and directory listings without substantive industry news.",
     "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability.",
     "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region.",
-    "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation."
+    "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation.",
+    "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming."
   },
   "stories": [
+    {
+      "id": 212,
+      "date": "2026-08-20",
+      "title": "Metz: A Huge Climbing Gym Opens Its Doors",
+      "summary": "A large new climbing gym has opened in Metz, France, designed to serve both experienced climbers and newcomers, including children. The facility adds to the growing indoor climbing offering in the Lorraine region.",
+      "url": "https://www.lasemaine.fr/metz-une-immense-salle-descalade-ouvre-ses-portes/",
+      "category": "Openings",
+      "region": "France",
+      "source": "La Semaine",
+      "source_domain": "lasemaine.fr",
+      "lang": "fr"
+    },
     {
       "id": 210,
       "date": "2026-08-19",
