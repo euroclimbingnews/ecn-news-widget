@@ -36,9 +36,22 @@
     "2026-08-17": "French business press highlights the fragile economics behind the climbing gym boom, with reports of judicial receiverships, closures, and losses despite the sector's apparent success. The piece underscores the high upfront investment required to open bouldering gyms (€500,000-900,000) and the operational challenges many operators face in sustaining profitability.",
     "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region.",
     "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation.",
-    "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming."
+    "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming.",
+    "2026-08-21": "The only industry-relevant story today comes from France, where L'Humanité reports on the struggling business model of private climbing gyms, with employees noting that ancillary revenue streams like on-site restaurants are outperforming climbing admission income. The piece highlights broader financial pressures facing the sector after a period of rapid expansion. No other European or UK climbing gym industry stories were identified among today's feeds, with the remaining items being consumer-facing local guides to climbing venues in Germany."
   },
   "stories": [
+    {
+      "id": 213,
+      "date": "2026-08-21",
+      "title": "After Their Meteoric Rise, the Long Fall of Private Climbing Gyms",
+      "summary": "An investigation into the financial struggles facing France's private climbing gym sector after years of rapid growth. Employees report that ancillary revenue, such as on-site restaurants, is now outperforming income from climbing admissions, pointing to a shift in the viability of the traditional gym-only business model.",
+      "url": "https://www.humanite.fr/social-et-economie/escalade/apres-leur-ascension-fulgurante-la-longue-chute-des-salles-descalade-privees",
+      "category": "Industry",
+      "region": "France",
+      "source": "L'Humanité",
+      "source_domain": "humanite.fr",
+      "lang": "fr"
+    },
     {
       "id": 212,
       "date": "2026-08-20",
