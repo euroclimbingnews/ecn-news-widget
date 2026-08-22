@@ -37,9 +37,22 @@
     "2026-08-18": "A single relevant story today: the German Alpine Club (DAV) has opened a new alpine centre with an inclusive climbing hall in Schorndorf, Germany, adding significant indoor and outdoor climbing capacity to the region.",
     "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation.",
     "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming.",
-    "2026-08-21": "The only industry-relevant story today comes from France, where L'Humanité reports on the struggling business model of private climbing gyms, with employees noting that ancillary revenue streams like on-site restaurants are outperforming climbing admission income. The piece highlights broader financial pressures facing the sector after a period of rapid expansion. No other European or UK climbing gym industry stories were identified among today's feeds, with the remaining items being consumer-facing local guides to climbing venues in Germany."
+    "2026-08-21": "The only industry-relevant story today comes from France, where L'Humanité reports on the struggling business model of private climbing gyms, with employees noting that ancillary revenue streams like on-site restaurants are outperforming climbing admission income. The piece highlights broader financial pressures facing the sector after a period of rapid expansion. No other European or UK climbing gym industry stories were identified among today's feeds, with the remaining items being consumer-facing local guides to climbing venues in Germany.",
+    "2026-08-22": "A quiet news day for the European climbing gym industry, with only one minor refurbishment story surfacing from Germany. No M&A, labor, or major openings/closures were reported across European or UK gyms today."
   },
   "stories": [
+    {
+      "id": 214,
+      "date": "2026-08-22",
+      "title": "Renovated Climbing Wall in Marburg Draws Climbers",
+      "summary": "The climbing wall in Marburg, housed in a former university riding hall, has reopened following renovations and is attracting increased numbers of climbers. The facility is operated by the local section of the German Alpine Club (DAV), which was founded in 1892.",
+      "url": "https://www.mittelhessen.de/lokales/kreis-marburg-biedenkopf/marburg/erneuerte-kletterwand-in-marburg-zieht-sportler-an-6090883",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Mittelhessen",
+      "source_domain": "mittelhessen.de",
+      "lang": "de"
+    },
     {
       "id": 213,
       "date": "2026-08-21",
