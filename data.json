@@ -38,9 +38,34 @@
     "2026-08-19": "Two stories today highlight contrasting fortunes for European climbing gyms. In France, the Climb Up gym in Wittenheim is under judicial receivership as part of wider financial struggles facing indoor climbing venues in the region, though operators remain hopeful of recovery. Meanwhile in Germany, the Alpenverein's Volksbank climbing hall in Marburg has reopened its outdoor wall after a five-month renovation.",
     "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming.",
     "2026-08-21": "The only industry-relevant story today comes from France, where L'Humanité reports on the struggling business model of private climbing gyms, with employees noting that ancillary revenue streams like on-site restaurants are outperforming climbing admission income. The piece highlights broader financial pressures facing the sector after a period of rapid expansion. No other European or UK climbing gym industry stories were identified among today's feeds, with the remaining items being consumer-facing local guides to climbing venues in Germany.",
-    "2026-08-22": "A quiet news day for the European climbing gym industry, with only one minor refurbishment story surfacing from Germany. No M&A, labor, or major openings/closures were reported across European or UK gyms today."
+    "2026-08-22": "A quiet news day for the European climbing gym industry, with only one minor refurbishment story surfacing from Germany. No M&A, labor, or major openings/closures were reported across European or UK gyms today.",
+    "2026-08-24": "Two French climbing gym stories highlight the sector's evolution: a new gym is set to open in a small Ardennes village aiming to become a community hub, while established chain Climb Up in Saint-Étienne is diversifying its offering with food service, meeting rooms, and a sauna to attract new members amid a plateau in participation growth. These stories reflect a broader trend of French operators seeking to expand revenue streams and community engagement as core climbing participation numbers stabilise after a decade of growth."
   },
   "stories": [
+    {
+      "id": 215,
+      "date": "2026-08-24",
+      "title": "New Climbing Gym to Open in Ardennes Village, Aiming to Become a 'Community Hub'",
+      "summary": "A new climbing gym will open in September on Rue de la Fontaine in Belval, a village in the Ardennes. Organisers hope the facility will become a gathering place and social hub for the local community.",
+      "url": "https://www.lardennais.fr/id823746/article/2026-08-23/espere-creer-un-lieu-de-vie-une-salle-descalade-va-ouvrir-dans-un-village-des",
+      "category": "Openings",
+      "region": "France",
+      "source": "L'Ardennais",
+      "source_domain": "lardennais.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 216,
+      "date": "2026-08-24",
+      "title": "Saint-Étienne: Climb Up Diversifies Offering with Restaurant, Meeting Room and Sauna",
+      "summary": "As the number of climbers has plateaued following a decade of growth, Climb Up's Saint-Étienne location is expanding its amenities to attract new customers. The gym is adding food service, a meeting room, and a sauna to broaden its appeal beyond core climbing activities.",
+      "url": "https://www.leprogres.fr/sport/2026/08/23/restauration-salle-de-reunion-sauna-climb-up-diversifie-son-offre-pour-attirer",
+      "category": "Industry",
+      "region": "France",
+      "source": "Le Progrès",
+      "source_domain": "leprogres.fr",
+      "lang": "fr"
+    },
     {
       "id": 214,
       "date": "2026-08-22",
