@@ -39,9 +39,22 @@
     "2026-08-20": "A new large-format climbing gym has opened in Metz, France, catering to climbers of all levels from beginners to experts, including children's programming.",
     "2026-08-21": "The only industry-relevant story today comes from France, where L'Humanité reports on the struggling business model of private climbing gyms, with employees noting that ancillary revenue streams like on-site restaurants are outperforming climbing admission income. The piece highlights broader financial pressures facing the sector after a period of rapid expansion. No other European or UK climbing gym industry stories were identified among today's feeds, with the remaining items being consumer-facing local guides to climbing venues in Germany.",
     "2026-08-22": "A quiet news day for the European climbing gym industry, with only one minor refurbishment story surfacing from Germany. No M&A, labor, or major openings/closures were reported across European or UK gyms today.",
-    "2026-08-24": "Two French climbing gym stories highlight the sector's evolution: a new gym is set to open in a small Ardennes village aiming to become a community hub, while established chain Climb Up in Saint-Étienne is diversifying its offering with food service, meeting rooms, and a sauna to attract new members amid a plateau in participation growth. These stories reflect a broader trend of French operators seeking to expand revenue streams and community engagement as core climbing participation numbers stabilise after a decade of growth."
+    "2026-08-24": "Two French climbing gym stories highlight the sector's evolution: a new gym is set to open in a small Ardennes village aiming to become a community hub, while established chain Climb Up in Saint-Étienne is diversifying its offering with food service, meeting rooms, and a sauna to attract new members amid a plateau in participation growth. These stories reflect a broader trend of French operators seeking to expand revenue streams and community engagement as core climbing participation numbers stabilise after a decade of growth.",
+    "2026-08-25": "A quiet news day for the European climbing gym sector, headlined by Liechtenstein's LLB bank announcing its sponsorship of Rhiblok, a new climbing hall opening in the principality. No other qualifying European or UK industry stories were found among today's feeds."
   },
   "stories": [
+    {
+      "id": 217,
+      "date": "2026-08-25",
+      "title": "LLB Bank Sponsors New Climbing Gym in Liechtenstein",
+      "summary": "Liechtensteinische Landesbank (LLB) has announced it will sponsor a new climbing gym called Rhiblok, set to open in Liechtenstein. The bank frames the sponsorship as part of its community engagement, supporting the creation of a new sport and recreation venue in the country.",
+      "url": "https://www.eqs-news.com/de/news/corporate/llb-unterstuetzt-die-neue-kletterhalle-in-liechtenstein/b2ccdac3-378e-495d-a135-d8e16c81bb79_de",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "EQS News",
+      "source_domain": "eqs-news.com",
+      "lang": "de"
+    },
     {
       "id": 215,
       "date": "2026-08-24",
