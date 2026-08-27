@@ -41,9 +41,21 @@
     "2026-08-22": "A quiet news day for the European climbing gym industry, with only one minor refurbishment story surfacing from Germany. No M&A, labor, or major openings/closures were reported across European or UK gyms today.",
     "2026-08-24": "Two French climbing gym stories highlight the sector's evolution: a new gym is set to open in a small Ardennes village aiming to become a community hub, while established chain Climb Up in Saint-Étienne is diversifying its offering with food service, meeting rooms, and a sauna to attract new members amid a plateau in participation growth. These stories reflect a broader trend of French operators seeking to expand revenue streams and community engagement as core climbing participation numbers stabilise after a decade of growth.",
     "2026-08-25": "A quiet news day for the European climbing gym sector, headlined by Liechtenstein's LLB bank announcing its sponsorship of Rhiblok, a new climbing hall opening in the principality. No other qualifying European or UK industry stories were found among today's feeds.",
-    "2026-08-26": "Two notable European gym stories emerged today: in France, Climb Up's flagship 2,300m² climbing complex in central Lille continues to position itself as a lifestyle destination combining bouldering, roped climbing, food and coworking space. Meanwhile in Germany, the operator of Trainspotting Amberg boulder gym has announced plans for an expansion, according to local reporting. No other qualifying European or UK gym industry news was found among today's incoming stories."
+    "2026-08-26": "Two notable European gym stories emerged today: in France, Climb Up's flagship 2,300m² climbing complex in central Lille continues to position itself as a lifestyle destination combining bouldering, roped climbing, food and coworking space. Meanwhile in Germany, the operator of Trainspotting Amberg boulder gym has announced plans for an expansion, according to local reporting. No other qualifying European or UK gym industry news was found among today's incoming stories.",
+    "2026-08-27": "A new bouldering gym is set to open in Oslo, Norway, bringing a distinctive lifestyle-focused concept to the Nordic climbing market. Brak Buldring will combine climbing facilities with wellness and social amenities including a cold plunge pool, café, and even backyard chickens, reflecting a broader trend of gyms diversifying beyond pure training facilities to become community hubs. No other European or UK gym industry stories were reported today."
   },
   "stories": [
+    {
+      "id": 220,
+      "date": "2026-08-27",
+      "title": "Bouldering Hub Opening in Oslo With Cold Plunge, Café, and Backyard Chickens",
+      "summary": "Brak Buldring, a new bouldering gym, is set to open in the coming months in Oslo, Norway, founded by Emma Norli Ivarsson, Julian Vargas, Oliver Sunde, Oda Sunde and Lars Andreassen. The gym aims to be a destination people visit even on non-climbing days, featuring amenities such as a cold plunge pool, café, and backyard chickens alongside climbing facilities.",
+      "url": "https://climbingbusinessjournal.com/bouldering-hub-opening-in-oslo-with-cold-plunge-cafe-and-backyard-chickens/",
+      "category": "Openings",
+      "region": "Nordics",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 218,
       "date": "2026-08-26",
