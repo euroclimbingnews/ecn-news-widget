@@ -43,9 +43,45 @@
     "2026-08-25": "A quiet news day for the European climbing gym sector, headlined by Liechtenstein's LLB bank announcing its sponsorship of Rhiblok, a new climbing hall opening in the principality. No other qualifying European or UK industry stories were found among today's feeds.",
     "2026-08-26": "Two notable European gym stories emerged today: in France, Climb Up's flagship 2,300m² climbing complex in central Lille continues to position itself as a lifestyle destination combining bouldering, roped climbing, food and coworking space. Meanwhile in Germany, the operator of Trainspotting Amberg boulder gym has announced plans for an expansion, according to local reporting. No other qualifying European or UK gym industry news was found among today's incoming stories.",
     "2026-08-27": "Two German climbing gym stories stand out today. In Bad Orb, the unique 'Boulder Church' — a former church converted into a climbing hall — won first prize in the Hessian Demography Award, receiving €8,000 in recognition of its community impact. Meanwhile, in Werder (Brandenburg), the Boulderwerft climbing gym is returning after insolvency, this time restructured as a non-profit association (Verein) rather than a commercial venture, reflecting a broader trend of community-driven rescues of failed climbing facilities.",
-    "2026-08-28": "A new bouldering gym is set to open in Oslo, Norway, adding a unique amenity mix of cold plunge facilities, a café, and even backyard chickens to differentiate itself in the growing Nordic climbing market. Founded by a five-person team, the gym reflects the trend of climbing facilities becoming lifestyle destinations rather than pure training spaces. No other European gym industry news was reported today."
+    "2026-08-28": "Today's European climbing gym news includes two new gym openings and one industry safety update. In Liechtenstein, Liechtensteinische Landesbank (LLB) is expanding its sponsorship activities to back the new Rhiblok climbing gym, set to open on 26 September 2026. In France, a new climbing gym called B'Wall is set to open in Quimper (Sud Finistère) by the end of September 2026, addressing a gap in local climbing facilities. Separately, a German industry account highlighted the release of the 2025 climbing gym accident statistics, prompting discussion on lessons learned for gym safety practices."
   },
   "stories": [
+    {
+      "id": 223,
+      "date": "2026-08-28",
+      "title": "LLB Bank Expands Sponsorship: New Climbing Gym Rhiblok to Open in September",
+      "summary": "Liechtensteinische Landesbank (LLB) is increasing its sponsorship engagement, backing the new Rhiblok climbing gym set to officially open on 26 September 2026. The facility aims to be accessible to people of all backgrounds and abilities.",
+      "url": "https://www.wallstreet-online.de/nachricht/21294079-llb-baut-engagement-aus-kletterhalle-lihga-fokus",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "wallstreetONLINE",
+      "source_domain": "wallstreet-online.de",
+      "lang": "de"
+    },
+    {
+      "id": 224,
+      "date": "2026-08-28",
+      "title": "New Climbing Gym B'Wall to Fill Gap in South Finistère, France",
+      "summary": "A new climbing gym, B'Wall, is highly anticipated by residents of Quimper and the South Finistère region in Brittany, France. The facility is expected to open at the end of September 2026, addressing a lack of local climbing venues.",
+      "url": "https://actu.fr/bretagne/quimper_29232/cette-nouvelle-salle-descalade-vient-combler-un-manque-dans-le-sud-finistere_64714717.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 225,
+      "date": "2026-08-28",
+      "title": "German Climbing Gym Accident Statistics 2025 Released",
+      "summary": "A German climbing industry account has published its 2025 climbing gym accident statistics, aiming to draw lessons for improving safety practices. The report is intended to help gym operators and staff better understand and prevent common incidents.",
+      "url": "https://www.instagram.com/p/Dcgs2Mdljd8/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Instagram",
+      "source_domain": "instagram.com",
+      "lang": "de"
+    },
     {
       "id": 221,
       "date": "2026-08-27",
