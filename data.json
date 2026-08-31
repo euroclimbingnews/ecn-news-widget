@@ -43,9 +43,22 @@
     "2026-08-25": "A quiet news day for the European climbing gym sector, headlined by Liechtenstein's LLB bank announcing its sponsorship of Rhiblok, a new climbing hall opening in the principality. No other qualifying European or UK industry stories were found among today's feeds.",
     "2026-08-26": "Two notable European gym stories emerged today: in France, Climb Up's flagship 2,300m² climbing complex in central Lille continues to position itself as a lifestyle destination combining bouldering, roped climbing, food and coworking space. Meanwhile in Germany, the operator of Trainspotting Amberg boulder gym has announced plans for an expansion, according to local reporting. No other qualifying European or UK gym industry news was found among today's incoming stories.",
     "2026-08-27": "Two German climbing gym stories stand out today. In Bad Orb, the unique 'Boulder Church' — a former church converted into a climbing hall — won first prize in the Hessian Demography Award, receiving €8,000 in recognition of its community impact. Meanwhile, in Werder (Brandenburg), the Boulderwerft climbing gym is returning after insolvency, this time restructured as a non-profit association (Verein) rather than a commercial venture, reflecting a broader trend of community-driven rescues of failed climbing facilities.",
-    "2026-08-28": "Today's European climbing gym news includes two new gym openings and one industry safety update. In Liechtenstein, Liechtensteinische Landesbank (LLB) is expanding its sponsorship activities to back the new Rhiblok climbing gym, set to open on 26 September 2026. In France, a new climbing gym called B'Wall is set to open in Quimper (Sud Finistère) by the end of September 2026, addressing a gap in local climbing facilities. Separately, a German industry account highlighted the release of the 2025 climbing gym accident statistics, prompting discussion on lessons learned for gym safety practices."
+    "2026-08-28": "Today's European climbing gym news includes two new gym openings and one industry safety update. In Liechtenstein, Liechtensteinische Landesbank (LLB) is expanding its sponsorship activities to back the new Rhiblok climbing gym, set to open on 26 September 2026. In France, a new climbing gym called B'Wall is set to open in Quimper (Sud Finistère) by the end of September 2026, addressing a gap in local climbing facilities. Separately, a German industry account highlighted the release of the 2025 climbing gym accident statistics, prompting discussion on lessons learned for gym safety practices.",
+    "2026-08-31": "A brief industry update today: Belgian gym Face Nord in Mons is launching a new free-to-try, dedicated kids' climbing space, reflecting a broader trend among European climbing gyms to diversify offerings for younger and family audiences."
   },
   "stories": [
+    {
+      "id": 226,
+      "date": "2026-08-31",
+      "title": "Mons Climbing Gym Launches Free Kids' Climbing Concept",
+      "summary": "The 'Face Nord' climbing gym in Mons, Belgium, is introducing a new colourful, fun-themed climbing space designed specifically for children. The concept will be available for free trial sessions, aiming to attract younger climbers and families to the sport.",
+      "url": "https://www.sudinfo.be/id1187067/article/2026-08-30/mons-petits-et-grands-pourront-tester-gratuitement-lescalade",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
     {
       "id": 223,
       "date": "2026-08-28",
