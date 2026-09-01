@@ -44,9 +44,22 @@
     "2026-08-26": "Two notable European gym stories emerged today: in France, Climb Up's flagship 2,300m² climbing complex in central Lille continues to position itself as a lifestyle destination combining bouldering, roped climbing, food and coworking space. Meanwhile in Germany, the operator of Trainspotting Amberg boulder gym has announced plans for an expansion, according to local reporting. No other qualifying European or UK gym industry news was found among today's incoming stories.",
     "2026-08-27": "Two German climbing gym stories stand out today. In Bad Orb, the unique 'Boulder Church' — a former church converted into a climbing hall — won first prize in the Hessian Demography Award, receiving €8,000 in recognition of its community impact. Meanwhile, in Werder (Brandenburg), the Boulderwerft climbing gym is returning after insolvency, this time restructured as a non-profit association (Verein) rather than a commercial venture, reflecting a broader trend of community-driven rescues of failed climbing facilities.",
     "2026-08-28": "Today's European climbing gym news includes two new gym openings and one industry safety update. In Liechtenstein, Liechtensteinische Landesbank (LLB) is expanding its sponsorship activities to back the new Rhiblok climbing gym, set to open on 26 September 2026. In France, a new climbing gym called B'Wall is set to open in Quimper (Sud Finistère) by the end of September 2026, addressing a gap in local climbing facilities. Separately, a German industry account highlighted the release of the 2025 climbing gym accident statistics, prompting discussion on lessons learned for gym safety practices.",
-    "2026-08-31": "A brief industry update today: Belgian gym Face Nord in Mons is launching a new free-to-try, dedicated kids' climbing space, reflecting a broader trend among European climbing gyms to diversify offerings for younger and family audiences."
+    "2026-08-31": "A brief industry update today: Belgian gym Face Nord in Mons is launching a new free-to-try, dedicated kids' climbing space, reflecting a broader trend among European climbing gyms to diversify offerings for younger and family audiences.",
+    "2026-09-01": "A modest news day for European climbing gyms. The main story of note comes from France, where the Club Alpin Français in Auch (Gers) is struggling to recruit an instructor to run its youth climbing courses, forcing the club to reopen its wall this September without children's classes — a small but telling sign of staffing pressures facing volunteer-run and associative climbing facilities."
   },
   "stories": [
+    {
+      "id": 227,
+      "date": "2026-09-01",
+      "title": "French climbing club in Auch cannot find instructor for youth courses",
+      "summary": "The climbing wall run by Club Alpin Français Auch Gers is reopening in early September, but for the first time will not offer children's climbing courses due to an inability to recruit a qualified instructor. The club describes the situation as unprecedented, highlighting staffing difficulties for associative climbing facilities in France.",
+      "url": "https://www.ladepeche.fr/2026/08/31/cest-la-premiere-annee-que-cela-nous-arrive-le-club-alpin-auch-gers-cherche-desesperement-un-professeur-pour-encadrer-ses-jeunes-grimpeurs-des-la-13525122.php",
+      "category": "Labor",
+      "region": "France",
+      "source": "La Dépêche",
+      "source_domain": "ladepeche.fr",
+      "lang": "fr"
+    },
     {
       "id": 226,
       "date": "2026-08-31",
