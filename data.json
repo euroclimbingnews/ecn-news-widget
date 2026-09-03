@@ -46,9 +46,21 @@
     "2026-08-28": "Today's European climbing gym news includes two new gym openings and one industry safety update. In Liechtenstein, Liechtensteinische Landesbank (LLB) is expanding its sponsorship activities to back the new Rhiblok climbing gym, set to open on 26 September 2026. In France, a new climbing gym called B'Wall is set to open in Quimper (Sud Finistère) by the end of September 2026, addressing a gap in local climbing facilities. Separately, a German industry account highlighted the release of the 2025 climbing gym accident statistics, prompting discussion on lessons learned for gym safety practices.",
     "2026-08-31": "A brief industry update today: Belgian gym Face Nord in Mons is launching a new free-to-try, dedicated kids' climbing space, reflecting a broader trend among European climbing gyms to diversify offerings for younger and family audiences.",
     "2026-09-01": "A modest news day for European climbing gyms. The main story of note comes from France, where the Club Alpin Français in Auch (Gers) is struggling to recruit an instructor to run its youth climbing courses, forcing the club to reopen its wall this September without children's classes — a small but telling sign of staffing pressures facing volunteer-run and associative climbing facilities.",
-    "2026-09-02": "A single Swiss story stands out today: Pilatus Indoor in Root marks its 20th anniversary, with founder Andrea Lerch reflecting on how the gym helped shape climbing's rise from niche subculture to mainstream sport in Switzerland. No other genuinely newsworthy European climbing gym industry stories were identified in today's feed; the remaining items were either tourism listings or local consumer event notices without B2B industry relevance."
+    "2026-09-02": "A single Swiss story stands out today: Pilatus Indoor in Root marks its 20th anniversary, with founder Andrea Lerch reflecting on how the gym helped shape climbing's rise from niche subculture to mainstream sport in Switzerland. No other genuinely newsworthy European climbing gym industry stories were identified in today's feed; the remaining items were either tourism listings or local consumer event notices without B2B industry relevance.",
+    "2026-09-03": "A new bouldering gym has opened south of Paris, founded by two former World Cup climbers, marking a notable independent gym launch in the French market. No other European or UK climbing gym industry news was reported today, with the remainder of the day's coverage focused on outdoor ascents and athlete profiles outside our geographic scope."
   },
   "stories": [
+    {
+      "id": 229,
+      "date": "2026-09-03",
+      "title": "Former World Cup Climbers Open Bouldering Gym South of Paris",
+      "summary": "Boulder Factory, a new bouldering gym in Le Plessis-Pâté (south of Paris), opened on May 20th. It was founded by former World Cup climbers Mélanie Sandoz and Guillaume Glairon Mondet, who had been planning to open their own gym together for nearly 15 years.",
+      "url": "https://climbingbusinessjournal.com/former-world-cup-climbers-open-bouldering-gym-south-of-paris/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 228,
       "date": "2026-09-02",
