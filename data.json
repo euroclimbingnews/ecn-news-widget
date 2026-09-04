@@ -48,9 +48,21 @@
     "2026-09-01": "A modest news day for European climbing gyms. The main story of note comes from France, where the Club Alpin Français in Auch (Gers) is struggling to recruit an instructor to run its youth climbing courses, forcing the club to reopen its wall this September without children's classes — a small but telling sign of staffing pressures facing volunteer-run and associative climbing facilities.",
     "2026-09-02": "A single Swiss story stands out today: Pilatus Indoor in Root marks its 20th anniversary, with founder Andrea Lerch reflecting on how the gym helped shape climbing's rise from niche subculture to mainstream sport in Switzerland. No other genuinely newsworthy European climbing gym industry stories were identified in today's feed; the remaining items were either tourism listings or local consumer event notices without B2B industry relevance.",
     "2026-09-03": "A single relevant story emerged from Germany today: plans to convert a vacant Berlin church (Kamillus-Kirche at Klausenerplatz) into a neighbourhood centre including a climbing hall have collapsed for the second time, this time due to heritage protection restrictions. No other qualifying European or UK climbing gym industry news was identified in today's feed.",
-    "2026-09-04": "A new bouldering gym has opened south of Paris, founded by two former World Cup climbers, adding to France's growing indoor climbing scene. No other European or UK climbing gym industry stories were reported today."
+    "2026-09-04": "A single relevant story today: Belgian climbing gym BeBloc in Jambes has secured planning permission to expand after an initial permit refusal, adding new rope-climbing infrastructure. No other qualifying European or UK climbing gym industry news was found in today's feed."
   },
   "stories": [
+    {
+      "id": 231,
+      "date": "2026-09-04",
+      "title": "After Initial Permit Refusal, BeBloc Climbing Gym Can Finally Expand in Jambes",
+      "summary": "Climbing gym BeBloc in Jambes, Belgium, will expand with new infrastructure dedicated to rope climbing after initially having its permit application refused. The expansion has now been approved, allowing the gym to grow its facilities.",
+      "url": "https://www.sudinfo.be/id1188820/article/2026-09-03/apres-un-permis-refuse-bebloc-peut-finalement-sagrandir-jambes-va-devenir-la",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
     {
       "id": 230,
       "date": "2026-09-03",
