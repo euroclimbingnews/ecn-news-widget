@@ -48,9 +48,22 @@
     "2026-09-01": "A modest news day for European climbing gyms. The main story of note comes from France, where the Club Alpin Français in Auch (Gers) is struggling to recruit an instructor to run its youth climbing courses, forcing the club to reopen its wall this September without children's classes — a small but telling sign of staffing pressures facing volunteer-run and associative climbing facilities.",
     "2026-09-02": "A single Swiss story stands out today: Pilatus Indoor in Root marks its 20th anniversary, with founder Andrea Lerch reflecting on how the gym helped shape climbing's rise from niche subculture to mainstream sport in Switzerland. No other genuinely newsworthy European climbing gym industry stories were identified in today's feed; the remaining items were either tourism listings or local consumer event notices without B2B industry relevance.",
     "2026-09-03": "A single relevant story emerged from Germany today: plans to convert a vacant Berlin church (Kamillus-Kirche at Klausenerplatz) into a neighbourhood centre including a climbing hall have collapsed for the second time, this time due to heritage protection restrictions. No other qualifying European or UK climbing gym industry news was identified in today's feed.",
-    "2026-09-04": "A single relevant story today: Belgian climbing gym BeBloc in Jambes has secured planning permission to expand after an initial permit refusal, adding new rope-climbing infrastructure. No other qualifying European or UK climbing gym industry news was found in today's feed."
+    "2026-09-04": "A single relevant story today: Belgian climbing gym BeBloc in Jambes has secured planning permission to expand after an initial permit refusal, adding new rope-climbing infrastructure. No other qualifying European or UK climbing gym industry news was found in today's feed.",
+    "2026-09-05": "A quiet day for European climbing gym industry news. The only notable item is a French gym hosting an open house event in Nîmes, while the remaining stories were personal climbing partner classifieds rather than industry developments."
   },
   "stories": [
+    {
+      "id": 232,
+      "date": "2026-09-05",
+      "title": "Climb Up Nîmes to Hold Open House Weekend",
+      "summary": "The Climb Up climbing gym near Nîmes train station is organising an open house event on Saturday 5 and Sunday 6 September, inviting the public to try the facility. The event is aimed at attracting new members ahead of the autumn season.",
+      "url": "https://www.lagazettedenimes.fr/sport/2026-09-04-nimes-escalade-la-salle-climb-up-organise-des-portes-ouvertes/",
+      "category": "Industry",
+      "region": "France",
+      "source": "La Gazette de Nîmes",
+      "source_domain": "lagazettedenimes.fr",
+      "lang": "fr"
+    },
     {
       "id": 231,
       "date": "2026-09-04",
