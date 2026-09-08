@@ -50,9 +50,46 @@
     "2026-09-03": "A single relevant story emerged from Germany today: plans to convert a vacant Berlin church (Kamillus-Kirche at Klausenerplatz) into a neighbourhood centre including a climbing hall have collapsed for the second time, this time due to heritage protection restrictions. No other qualifying European or UK climbing gym industry news was identified in today's feed.",
     "2026-09-04": "A single relevant story today: Belgian climbing gym BeBloc in Jambes has secured planning permission to expand after an initial permit refusal, adding new rope-climbing infrastructure. No other qualifying European or UK climbing gym industry news was found in today's feed.",
     "2026-09-05": "A quiet day for European climbing gym industry news. The only notable item is a French gym hosting an open house event in Nîmes, while the remaining stories were personal climbing partner classifieds rather than industry developments.",
-    "2026-09-06": "A brief note buried in French sports coverage today references France's largest climbing gym, based in Aubervilliers, entering judicial receivership (redressement judiciaire) — a significant financial distress signal for the French climbing gym market. Details are limited as the information appeared only as a link teaser within an unrelated MMA article. No other qualifying European or UK climbing gym industry stories were found in today's feed; the remaining items were local event listings and social media posts without industry relevance."
+    "2026-09-06": "A brief note buried in French sports coverage today references France's largest climbing gym, based in Aubervilliers, entering judicial receivership (redressement judiciaire) — a significant financial distress signal for the French climbing gym market. Details are limited as the information appeared only as a link teaser within an unrelated MMA article. No other qualifying European or UK climbing gym industry stories were found in today's feed; the remaining items were local event listings and social media posts without industry relevance.",
+    "2026-09-08": "Today's stories highlight ongoing climbing gym development activity in Austria and Belgium. In Austria, Osttirol continues to lack a climbing gym despite years of community demand, with funding remaining the key obstacle, while Vienna's USI is putting the finishing touches on a new climbing hall at Auf der Schmelz. Meanwhile, the Belgian city of Huy has issued a call for private partners to construct a new climbing facility on Avenue de la Croix-Rouge, signalling continued public-private investment interest in gym infrastructure across the region."
   },
   "stories": [
+    {
+      "id": 234,
+      "date": "2026-09-08",
+      "title": "Finally a Climbing Gym for East Tyrol? The Desire Is There, But Funding Is Missing",
+      "summary": "Mountain sports enthusiasts and clubs in East Tyrol, Austria have hoped for years for a dedicated climbing gym, with several proposed projects ultimately cancelled. The primary barrier remains a lack of financing to bring any project to fruition.",
+      "url": "https://www.tt.com/artikel/30941744/endlich-eine-kletterhalle-fuer-osttirol-der-wunsch-ist-da-doch-die-kohle-fehlt",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Tiroler Tageszeitung",
+      "source_domain": "tt.com",
+      "lang": "de"
+    },
+    {
+      "id": 235,
+      "date": "2026-09-08",
+      "title": "New Hall, New Climbing Joy: USI Vienna's Climbing Gym Nears Completion",
+      "summary": "The University Sports Institute (USI) Wien is putting the final touches on its climbing gym at the Auf der Schmelz sports complex. The renovated facility is expected to open soon, generating excitement among the university's climbing community.",
+      "url": "https://www.facebook.com/usi.wien/posts/neue-halle-neues-klettergl%C3%BCckauf-der-schmelz-bekommt-unsere-kletterhalle-gerade-/1683544707112061/",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Facebook (USI Wien)",
+      "source_domain": "facebook.com",
+      "lang": "de"
+    },
+    {
+      "id": 236,
+      "date": "2026-09-08",
+      "title": "City of Huy Seeks Private Partner to Build Climbing Gym",
+      "summary": "The Belgian city of Huy has launched a call for expressions of interest from private companies to construct a climbing gym on Avenue de la Croix-Rouge. The initiative represents a public-private partnership approach to expanding climbing infrastructure in the Wallonia region.",
+      "url": "https://www.sudinfo.be/id1190674/article/2026-09-07/la-ville-de-huy-lance-un-appel-vers-le-prive-pour-construire-une-salle-descalade",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
     {
       "id": 233,
       "date": "2026-09-06",
