@@ -53,9 +53,22 @@
     "2026-09-06": "A brief note buried in French sports coverage today references France's largest climbing gym, based in Aubervilliers, entering judicial receivership (redressement judiciaire) — a significant financial distress signal for the French climbing gym market. Details are limited as the information appeared only as a link teaser within an unrelated MMA article. No other qualifying European or UK climbing gym industry stories were found in today's feed; the remaining items were local event listings and social media posts without industry relevance.",
     "2026-09-08": "Today's stories highlight ongoing climbing gym development activity in Austria and Belgium. In Austria, Osttirol continues to lack a climbing gym despite years of community demand, with funding remaining the key obstacle, while Vienna's USI is putting the finishing touches on a new climbing hall at Auf der Schmelz. Meanwhile, the Belgian city of Huy has issued a call for private partners to construct a new climbing facility on Avenue de la Croix-Rouge, signalling continued public-private investment interest in gym infrastructure across the region.",
     "2026-09-10": "Two notable European climbing gym business stories surfaced today. In Hamburg, the Nordwandhalle climbing gym reflects on nearly 15 years since its founders won the city's entrepreneur award, detailing the challenges they've navigated since. Meanwhile in France, the Hapik chain of playful/family-oriented climbing gyms marks a decade of success with its Clichy location, highlighting a durable business model in the sector.",
-    "2026-09-11": "A new bouldering gym has opened in Chinon, France, giving the town its first dedicated climbing facility for both beginners and regular practitioners."
+    "2026-09-11": "A new bouldering gym has opened in Chinon, France, giving the town its first dedicated climbing facility for both beginners and regular practitioners.",
+    "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy."
   },
   "stories": [
+    {
+      "id": 241,
+      "date": "2026-09-13",
+      "title": "Chartres à Bloc climbing gym shortlisted for Eure-et-Loir Business Awards 2026",
+      "summary": "Chartres à Bloc, the only private climbing gym in the Eure-et-Loir department of France, has been nominated in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym was founded in 2024 by Eugénie and Didier Bardet, both trained statistical engineers.",
+      "url": "https://www.lechorepublicain.fr/chartres-28000/economie/trophees-des-entreprises-d-eure-et-loir-2026-chartres-a-bloc-les-chevres-de-bailleau-et-la-ferme-du-colombier-dans-la-categorie-dynamisme-local-i_15045135/",
+      "category": "Industry",
+      "region": "France",
+      "source": "L'Echo Républicain",
+      "source_domain": "lechorepublicain.fr",
+      "lang": "fr"
+    },
     {
       "id": 240,
       "date": "2026-09-11",
