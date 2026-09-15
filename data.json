@@ -54,9 +54,22 @@
     "2026-09-08": "Today's stories highlight ongoing climbing gym development activity in Austria and Belgium. In Austria, Osttirol continues to lack a climbing gym despite years of community demand, with funding remaining the key obstacle, while Vienna's USI is putting the finishing touches on a new climbing hall at Auf der Schmelz. Meanwhile, the Belgian city of Huy has issued a call for private partners to construct a new climbing facility on Avenue de la Croix-Rouge, signalling continued public-private investment interest in gym infrastructure across the region.",
     "2026-09-10": "Two notable European climbing gym business stories surfaced today. In Hamburg, the Nordwandhalle climbing gym reflects on nearly 15 years since its founders won the city's entrepreneur award, detailing the challenges they've navigated since. Meanwhile in France, the Hapik chain of playful/family-oriented climbing gyms marks a decade of success with its Clichy location, highlighting a durable business model in the sector.",
     "2026-09-11": "A new bouldering gym has opened in Chinon, France, giving the town its first dedicated climbing facility for both beginners and regular practitioners.",
-    "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy."
+    "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy.",
+    "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories."
   },
   "stories": [
+    {
+      "id": 242,
+      "date": "2026-09-15",
+      "title": "Climb Up: Three Gyms Welcome Climbers in Bordeaux",
+      "summary": "French climbing gym chain Climb Up operates three facilities in the Bordeaux area, including a 1,500 m² location in Villenave d'Ornon known for its specialized coaching. The article outlines the offerings across the chain's Bordeaux locations for local climbers.",
+      "url": "https://www.witfm.fr/climb-up-trois-salles-vous-accueillent-a-bordeaux",
+      "category": "Openings",
+      "region": "France",
+      "source": "WIT FM",
+      "source_domain": "witfm.fr",
+      "lang": "fr"
+    },
     {
       "id": 241,
       "date": "2026-09-13",
