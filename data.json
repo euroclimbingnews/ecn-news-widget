@@ -55,9 +55,34 @@
     "2026-09-10": "Two notable European climbing gym business stories surfaced today. In Hamburg, the Nordwandhalle climbing gym reflects on nearly 15 years since its founders won the city's entrepreneur award, detailing the challenges they've navigated since. Meanwhile in France, the Hapik chain of playful/family-oriented climbing gyms marks a decade of success with its Clichy location, highlighting a durable business model in the sector.",
     "2026-09-11": "A new bouldering gym has opened in Chinon, France, giving the town its first dedicated climbing facility for both beginners and regular practitioners.",
     "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy.",
-    "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories."
+    "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories.",
+    "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football."
   },
   "stories": [
+    {
+      "id": 243,
+      "date": "2026-09-16",
+      "title": "Millau's Alice Milliat Climbing Gym to Reopen After Technical Incident",
+      "summary": "The climbing hall within the Alice Milliat sports complex in Millau, France, is reopening this Wednesday after a six-week closure caused by a technical incident. The reopening restores full access to the facility for local climbers.",
+      "url": "https://millavois.com/2026/09/15/millau-la-salle-descalade-dalice-milliat-va-rouvrir-ses-portes",
+      "category": "Closures",
+      "region": "France",
+      "source": "Millavois.com",
+      "source_domain": "millavois.com",
+      "lang": "fr"
+    },
+    {
+      "id": 244,
+      "date": "2026-09-16",
+      "title": "Liechtenstein's Major New Climbing Venue 'Rhiblok' Set to Open",
+      "summary": "Rhiblok, described as one of the largest sports projects in Liechtenstein outside football, is nearing completion with a climbing hall featuring 180 routes. Local broadcaster 1FLTV plans an in-depth feature on the project, including interviews with key figures behind it.",
+      "url": "https://www.facebook.com/1FL.LI/posts/eines-der-gr%C3%B6ssten-projekte-im-sportbereich-abgesehen-von-fussballprojekten-steh/1731779005617559/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "1FL.LI (Facebook)",
+      "source_domain": "facebook.com",
+      "lang": "de"
+    },
     {
       "id": 242,
       "date": "2026-09-15",
