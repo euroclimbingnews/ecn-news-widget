@@ -57,9 +57,33 @@
     "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy.",
     "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories.",
     "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football.",
-    "2026-09-17": "The only notable European gym industry story today comes from Spain, where MOVE Climbing has opened its second facility in Seville, two years after launching its first gym. The remaining wire stories concern US chain openings and acquisitions (Houston, Minnesota/Illinois) or outdoor climbing achievements, none of which fall within ECN's European gym industry scope."
+    "2026-09-17": "Two European gym development stories lead today's briefing: a new climbing centre planned for Wernigerode in Germany's Harz region has cleared a planning hurdle, while in Belgium, the BeBloc climbing gym in Jambes has received official approval to expand its facility. Both stories reflect ongoing physical growth in the European climbing gym sector, though further permitting and construction stages remain ahead for the German project."
   },
   "stories": [
+    {
+      "id": 246,
+      "date": "2026-09-17",
+      "title": "New Climbing Centre in the Harz Clears Next Hurdle: Opening Date Timeline",
+      "summary": "A new climbing centre planned for Wernigerode in Germany's Harz region has passed another planning stage. Before the climbing hall itself is built, an outdoor bouldering block is set to be constructed on the site at Gießerweg.",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/neues-kletterzentrum-im-harz-nimmt-nachste-hurde-wann-die-halle-eroffnen-soll-4320735",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Volksstimme",
+      "source_domain": "volksstimme.de",
+      "lang": "de"
+    },
+    {
+      "id": 247,
+      "date": "2026-09-17",
+      "title": "Green Light for Expansion of BeBloc Climbing Gym in Jambes",
+      "summary": "The Walloon Region has granted a permit for the expansion of the BeBloc climbing gym in Jambes, Belgium. The approval allows the facility to move forward with plans to enlarge its climbing space.",
+      "url": "https://www.sudinfo.be/id1194398/article/2026-09-16/feu-vert-pour-lagrandissement-de-la-salle-descalade-bebloc-jambes",
+      "category": "Openings",
+      "region": "Benelux",
+      "source": "Sudinfo",
+      "source_domain": "sudinfo.be",
+      "lang": "fr"
+    },
     {
       "id": 245,
       "date": "2026-09-17",
