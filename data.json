@@ -56,9 +56,21 @@
     "2026-09-11": "A new bouldering gym has opened in Chinon, France, giving the town its first dedicated climbing facility for both beginners and regular practitioners.",
     "2026-09-13": "A single relevant story surfaced today: French climbing gym Chartres à Bloc, the only private climbing wall in the Eure-et-Loir department, has been shortlisted in the 'Local Dynamism' category of the 2026 Eure-et-Loir Business Awards. The gym, founded in 2024 by statistician-engineers Eugénie and Didier Bardet, is being recognised alongside other local businesses for its contribution to the regional economy.",
     "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories.",
-    "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football."
+    "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football.",
+    "2026-09-17": "The only notable European gym industry story today comes from Spain, where MOVE Climbing has opened its second facility in Seville, two years after launching its first gym. The remaining wire stories concern US chain openings and acquisitions (Houston, Minnesota/Illinois) or outdoor climbing achievements, none of which fall within ECN's European gym industry scope."
   },
   "stories": [
+    {
+      "id": 245,
+      "date": "2026-09-17",
+      "title": "Spanish Gym Opens Second Facility Two Years After First",
+      "summary": "MOVE Climbing, founded by Juan García Chicano, Javier Gamero Dalí, Christian González Iriarte and Joaquín Bilbao Vera, has opened its second location, MOVE Climbing Hytasa, in Seville, Spain. The expansion comes two years after the founding team opened their original facility.",
+      "url": "https://climbingbusinessjournal.com/spanish-gym-opens-second-facility-two-years-after-first/",
+      "category": "Openings",
+      "region": "Spain",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 243,
       "date": "2026-09-16",
