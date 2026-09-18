@@ -58,9 +58,33 @@
     "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories.",
     "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football.",
     "2026-09-17": "Two European gym development stories lead today's briefing: a new climbing centre planned for Wernigerode in Germany's Harz region has cleared a planning hurdle, while in Belgium, the BeBloc climbing gym in Jambes has received official approval to expand its facility. Both stories reflect ongoing physical growth in the European climbing gym sector, though further permitting and construction stages remain ahead for the German project.",
-    "2026-09-18": "One relevant European story today: Spanish gym operator MOVE Climbing has opened its second facility in Seville, two years after launching its first location, signaling continued growth in Spain's climbing gym market. No other qualifying European or UK gym industry news was found in today's feed, which was dominated by US gym openings and outdoor climbing/expedition content outside our coverage scope."
+    "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany."
   },
   "stories": [
+    {
+      "id": 248,
+      "date": "2026-09-18",
+      "title": "New Bouldering Hall Under Construction in Kiefersfelden, Bavaria",
+      "summary": "A new bouldering gym is being built in Kiefersfelden, in Bavaria's Inn Valley region, according to local reports. The facility is part of ongoing construction activity in the town.",
+      "url": "https://www.rosenheim24.de/rosenheim/inntal/kiefersfelden-ort44715/noch-eine-baustelle-hier-entsteht-die-neue-boulderhalle-in-kiefersfelden-94496953.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "rosenheim24.de",
+      "source_domain": "rosenheim24.de",
+      "lang": "de"
+    },
+    {
+      "id": 249,
+      "date": "2026-09-18",
+      "title": "Bouldering Gym in Saarland Closes Permanently",
+      "summary": "The 'Dada Boulders' bouldering gym in Wadgassen, Saarland, has announced it will close permanently. The operators confirmed the closure on Wednesday evening, September 16, 2026.",
+      "url": "https://www.sol.de/saarland/boulderhalle-im-saarland-bleibt-dauerhaft-geschlossen,768354.html",
+      "category": "Closures",
+      "region": "Germany",
+      "source": "SOL.DE",
+      "source_domain": "sol.de",
+      "lang": "de"
+    },
     {
       "id": 246,
       "date": "2026-09-17",
