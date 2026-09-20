@@ -58,9 +58,46 @@
     "2026-09-15": "One relevant story today: French chain Climb Up highlighted for operating three climbing gyms across Bordeaux, France. No other qualifying European or UK climbing gym industry news was found among today's stories.",
     "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football.",
     "2026-09-17": "Two European gym development stories lead today's briefing: a new climbing centre planned for Wernigerode in Germany's Harz region has cleared a planning hurdle, while in Belgium, the BeBloc climbing gym in Jambes has received official approval to expand its facility. Both stories reflect ongoing physical growth in the European climbing gym sector, though further permitting and construction stages remain ahead for the German project.",
-    "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany."
+    "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany.",
+    "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels."
   },
   "stories": [
+    {
+      "id": 250,
+      "date": "2026-09-20",
+      "title": "\"Finally, the Climbing Gym Is Coming\" — Liechtenstein Gets Its First Climbing Hall",
+      "summary": "After 12 years of planning and 14,800 holds installed, Liechtenstein's first climbing gym, \"Rhiblok\", opens on 26 September in Vaduz. The facility marks a milestone for the small country, which previously had no dedicated indoor climbing venue.",
+      "url": "https://www.vaterland.li/liechtenstein/gesellschaft/endlich-kommt-die-kletterhalle-art-760160",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Vaterland",
+      "source_domain": "vaterland.li",
+      "lang": "de"
+    },
+    {
+      "id": 251,
+      "date": "2026-09-20",
+      "title": "Climbing Gym Finally Set to Launch in Vaduz",
+      "summary": "Liechtenstein's first climbing gym, Rhiblok, is entering its final preparation phase ahead of its 26 September opening in Vaduz. The facility spans three floors and covers 3,000 square metres.",
+      "url": "https://brudiland.li/die-kletterhalle-ist-endlich-am-start/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Brudiland",
+      "source_domain": "brudiland.li",
+      "lang": "de"
+    },
+    {
+      "id": 252,
+      "date": "2026-09-20",
+      "title": "Bloc Session Bouldering Gym Opens in Lagny-sur-Marne, Open to All 7 Days a Week",
+      "summary": "A new bouldering gym, Bloc Session, has opened in Lagny-sur-Marne, France, offering climbing accessible to all skill levels, including children. The gym operates seven days a week, expanding indoor climbing access in the Île-de-France region.",
+      "url": "https://actu.fr/ile-de-france/lagny-sur-marne_77243/une-salle-descalade-accessible-a-tous-7-jours-sur-7-bloc-session-ouvre-a-lagny-sur-marne_64810714.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "Actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
     {
       "id": 248,
       "date": "2026-09-18",
