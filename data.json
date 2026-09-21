@@ -59,9 +59,34 @@
     "2026-09-16": "Two European gym stories today: in France, Millau's Alice Milliat climbing hall reopens after a six-week closure caused by a technical incident, while in Liechtenstein a major new climbing venue, Rhiblok, is nearing launch with 180 routes as part of one of the country's largest sports projects outside football.",
     "2026-09-17": "Two European gym development stories lead today's briefing: a new climbing centre planned for Wernigerode in Germany's Harz region has cleared a planning hurdle, while in Belgium, the BeBloc climbing gym in Jambes has received official approval to expand its facility. Both stories reflect ongoing physical growth in the European climbing gym sector, though further permitting and construction stages remain ahead for the German project.",
     "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany.",
-    "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels."
+    "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels.",
+    "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children."
   },
   "stories": [
+    {
+      "id": 253,
+      "date": "2026-09-21",
+      "title": "'At Last, the Climbing Gym is Coming' — Liechtenstein Gets Its First Climbing Gym",
+      "summary": "After 12 years of planning and installation of 14,800 holds, Liechtenstein will open its first-ever climbing gym, 'Rhiblok', on September 26. This marks a significant milestone for the country, which previously had no dedicated indoor climbing facility.",
+      "url": "https://www.pressreader.com/liechtenstein/liechtensteiner-vaterland/20260919/281573772600011",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Liechtensteiner Vaterland",
+      "source_domain": "pressreader.com",
+      "lang": "de"
+    },
+    {
+      "id": 254,
+      "date": "2026-09-21",
+      "title": "New Bouldering Gym 'Bloc Session' Opens in Lagny-sur-Marne, France",
+      "summary": "Bloc Session, a brand new bouldering gym, has opened in Lagny-sur-Marne near Paris. The facility offers climbing accessible to all skill levels, including children.",
+      "url": "https://www.facebook.com/journallarmarne/posts/bloc-session-cest-la-toute-nouvelle-salle-descalade-de-bloc-de-lagny-sur-marne-u/1620036999489941/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Journal de la Marne",
+      "source_domain": "facebook.com",
+      "lang": "fr"
+    },
     {
       "id": 250,
       "date": "2026-09-20",
