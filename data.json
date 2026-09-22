@@ -60,9 +60,34 @@
     "2026-09-17": "Two European gym development stories lead today's briefing: a new climbing centre planned for Wernigerode in Germany's Harz region has cleared a planning hurdle, while in Belgium, the BeBloc climbing gym in Jambes has received official approval to expand its facility. Both stories reflect ongoing physical growth in the European climbing gym sector, though further permitting and construction stages remain ahead for the German project.",
     "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany.",
     "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels.",
-    "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children."
+    "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children.",
+    "2026-09-22": "Two European climbing gym stories stand out today. In Germany, the Boulderwerft climbing gym in Werder is set for a comeback, reopening on 1 October 2026 after closing in summer 2025, thanks to a new operating initiative. Meanwhile, in France, an in-depth piece from Vertige Media profiles Fontainebleau Boulder and its owner Simon Senet, examining how the independent gym is navigating competition in a market increasingly dominated by larger chains."
   },
   "stories": [
+    {
+      "id": 255,
+      "date": "2026-09-22",
+      "title": "New Hope for Boulderwerft: Back to the Wall Together",
+      "summary": "The Boulderwerft climbing gym in Werder, Germany, which closed in summer 2025, is set to reopen on 1 October 2026 following a community-backed effort to save it. Local supporters and operators have worked together to give the popular bouldering venue a fresh start.",
+      "url": "https://wirsindwerder.de/neue-hoffnung-fuer-die-boulderwerft-gemeinsam-zurueck-an-die-wand/",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "wirsindwerder.de",
+      "source_domain": "wirsindwerder.de",
+      "lang": "de"
+    },
+    {
+      "id": 256,
+      "date": "2026-09-22",
+      "title": "Fontainebleau Boulder: The Man Behind the Blocks",
+      "summary": "A feature profiles Simon Senet and Fontainebleau Boulder, an independent French climbing gym, exploring how it manages to stay competitive amid growing competition from larger climbing chains. The piece frames the gym's story as an economic case study in independent gym survival.",
+      "url": "https://www.vertigemedia.fr/fontainebleau-boulder-simon-senet-histoire-blocs",
+      "category": "Industry",
+      "region": "France",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 253,
       "date": "2026-09-21",
