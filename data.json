@@ -61,9 +61,46 @@
     "2026-09-18": "Two German gym stories highlight contrasting fortunes in the DACH bouldering market this week. In Bavaria, construction has begun on a new bouldering hall in Kiefersfelden, adding to the region's growing indoor climbing infrastructure. Meanwhile, in the Saarland, the Dada Boulders facility in Wadgassen has confirmed its permanent closure, underscoring ongoing pressures facing independent bouldering gyms in Germany.",
     "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels.",
     "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children.",
-    "2026-09-22": "Two European climbing gym stories stand out today. In Germany, the Boulderwerft climbing gym in Werder is set for a comeback, reopening on 1 October 2026 after closing in summer 2025, thanks to a new operating initiative. Meanwhile, in France, an in-depth piece from Vertige Media profiles Fontainebleau Boulder and its owner Simon Senet, examining how the independent gym is navigating competition in a market increasingly dominated by larger chains."
+    "2026-09-22": "Two European climbing gym stories stand out today. In Germany, the Boulderwerft climbing gym in Werder is set for a comeback, reopening on 1 October 2026 after closing in summer 2025, thanks to a new operating initiative. Meanwhile, in France, an in-depth piece from Vertige Media profiles Fontainebleau Boulder and its owner Simon Senet, examining how the independent gym is navigating competition in a market increasingly dominated by larger chains.",
+    "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene."
   },
   "stories": [
+    {
+      "id": 257,
+      "date": "2026-09-23",
+      "title": "Climbing with the finest panoramic view of the Drei Schwestern massif",
+      "summary": "A construction report on the new Kletterhalle Rhiblok climbing gym in Vaduz, Liechtenstein, highlights its dramatic setting with panoramic views of the Drei Schwestern mountain massif. The piece notes that building a climbing gym is a rare undertaking, underscoring the scale of the project.",
+      "url": "https://www.vaterland.li/marktnews/marktkonsum/klettern-mit-schoenstem-panoramablick-auf-das-drei-schwestern-massiv-art-761112",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Vaterland",
+      "source_domain": "vaterland.li",
+      "lang": "de"
+    },
+    {
+      "id": 258,
+      "date": "2026-09-23",
+      "title": "From the first sketch to the opening: Building the Rhiblok climbing gym",
+      "summary": "This feature traces the construction process of the Kletterhalle Rhiblok, a climbing gym in Vaduz, Liechtenstein, described as an unusual architectural build using a steel structure with a steel facade. The article details the engineering demands of the steel framework as the project moves toward its opening.",
+      "url": "https://www.vaterland.li/marktnews/marktkonsum/vom-ersten-strich-bis-zur-eroeffnung-art-761119",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Vaterland",
+      "source_domain": "vaterland.li",
+      "lang": "de"
+    },
+    {
+      "id": 259,
+      "date": "2026-09-23",
+      "title": "\"The Roof\": After ten years, Bayonne's climbing gym has become an institution in the Basque Country",
+      "summary": "Ten years after opening at Le Forum in Bayonne, the climbing gym The Roof has firmly established itself in the Basque climbing scene. The report frames the gym as more than just a sports facility, highlighting its long-term role in the local community.",
+      "url": "https://www.ici.fr/emissions/l-eco-d-ici-au-pays-basque/the-roof-en-dix-ans-la-salle-d-escalade-bayonnaise-est-devenue-une-institution-au-pays-basque-6338189",
+      "category": "Industry",
+      "region": "France",
+      "source": "ici.fr",
+      "source_domain": "ici.fr",
+      "lang": "fr"
+    },
     {
       "id": 255,
       "date": "2026-09-22",
