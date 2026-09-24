@@ -62,9 +62,22 @@
     "2026-09-20": "Liechtenstein is set to open its first-ever climbing gym on 26 September, ending a 12-year development process, according to two local outlets. Meanwhile in France, a new bouldering gym has opened in Lagny-sur-Marne, offering seven-day access to climbers of all levels.",
     "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children.",
     "2026-09-22": "Two European climbing gym stories stand out today. In Germany, the Boulderwerft climbing gym in Werder is set for a comeback, reopening on 1 October 2026 after closing in summer 2025, thanks to a new operating initiative. Meanwhile, in France, an in-depth piece from Vertige Media profiles Fontainebleau Boulder and its owner Simon Senet, examining how the independent gym is navigating competition in a market increasingly dominated by larger chains.",
-    "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene."
+    "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene.",
+    "2026-09-24": "A quiet news day for the European climbing gym sector, with just one notable story: a private entrepreneur in Issoire, France is investing in the city's first privately-run climbing gym, discussed at a recent municipal council meeting. Other stories in today's feed were unrelated community events or promotional lectures held at climbing facilities rather than genuine industry news."
   },
   "stories": [
+    {
+      "id": 260,
+      "date": "2026-09-24",
+      "title": "Issoire: Entrepreneur invests in private climbing gym, a first for the city",
+      "summary": "A local entrepreneur is investing in a new privately-owned climbing gym in Issoire, France — the first such facility in the city. The project was discussed during the municipal council meeting on 22 September.",
+      "url": "https://www.lamontagne.fr/issoire-63500/actualites/issoire-un-entrepreneur-investit-dans-une-salle-d-escalade-privee-une-premiere-dans-la-ville_15051562/",
+      "category": "Openings",
+      "region": "France",
+      "source": "La Montagne",
+      "source_domain": "lamontagne.fr",
+      "lang": "fr"
+    },
     {
       "id": 257,
       "date": "2026-09-23",
