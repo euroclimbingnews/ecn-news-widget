@@ -63,9 +63,21 @@
     "2026-09-21": "Two new climbing gym openings are in focus today. Liechtenstein is set to get its first-ever climbing gym, 'Rhiblok', opening September 26 after 12 years of development. Meanwhile, in France, a new bouldering gym called Bloc Session has opened in Lagny-sur-Marne, east of Paris, offering climbing for all levels including children.",
     "2026-09-22": "Two European climbing gym stories stand out today. In Germany, the Boulderwerft climbing gym in Werder is set for a comeback, reopening on 1 October 2026 after closing in summer 2025, thanks to a new operating initiative. Meanwhile, in France, an in-depth piece from Vertige Media profiles Fontainebleau Boulder and its owner Simon Senet, examining how the independent gym is navigating competition in a market increasingly dominated by larger chains.",
     "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene.",
-    "2026-09-24": "A quiet news day for the European climbing gym sector, with just one notable story: a private entrepreneur in Issoire, France is investing in the city's first privately-run climbing gym, discussed at a recent municipal council meeting. Other stories in today's feed were unrelated community events or promotional lectures held at climbing facilities rather than genuine industry news."
+    "2026-09-24": "A quiet news day for the European climbing gym sector, with just one notable story: a private entrepreneur in Issoire, France is investing in the city's first privately-run climbing gym, discussed at a recent municipal council meeting. Other stories in today's feed were unrelated community events or promotional lectures held at climbing facilities rather than genuine industry news.",
+    "2026-09-25": "The European climbing gym trade show calendar is heating up, with industry professionals having just gathered in the UK for the ABC Conference. Attention now turns to Germany, where Vertical Pro / Halls & Walls will convene in seven weeks, followed by Salon d'Escalade in Paris after the holidays. No other European or UK gym industry stories were reported today."
   },
   "stories": [
+    {
+      "id": 261,
+      "date": "2026-09-25",
+      "title": "Trade Show Season Kicks Off Across Europe",
+      "summary": "European climbing industry trade show season is underway, with professionals recently gathering in the UK for the ABC Conference. Upcoming events include Vertical Pro / Halls & Walls in Germany in seven weeks, and Salon d'Escalade in Paris after the holidays.",
+      "url": "https://climbingbusinessjournal.com/climb-insider-trade-show-season/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 260,
       "date": "2026-09-24",
