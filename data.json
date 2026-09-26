@@ -65,9 +65,21 @@
     "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene.",
     "2026-09-24": "A quiet news day for the European climbing gym sector, with just one notable story: a private entrepreneur in Issoire, France is investing in the city's first privately-run climbing gym, discussed at a recent municipal council meeting. Other stories in today's feed were unrelated community events or promotional lectures held at climbing facilities rather than genuine industry news.",
     "2026-09-25": "Today's European climbing gym news is light, with two minor items surfacing. In Austria, Vienna's Naturfreunde-Kletterhalle is marking its 20th anniversary with a public family festival, highlighting continued community engagement at the long-running facility. Meanwhile, in France, local entrepreneurs in Redon (Ille-et-Vilaine, Brittany) are exploring plans to open a new bouldering gym, inspired by a similar venue they visited elsewhere in the country.",
-    "2026-09-26": "The main industry story today centres on the European trade show calendar, with Climbing Business Journal noting that industry professionals gathered in the UK last week for the ABC Conference, followed by upcoming events in Germany (Vertical Pro / Halls & Walls) and Paris (Salon d'Escalade) in the coming months. No other European or UK climbing gym business stories were identified today; the remaining wire content covered outdoor ascents, competition climbing, and US-focused product guides, which fall outside our coverage scope."
+    "2026-09-26": "One notable European story today: French real estate outlets report on a growing trend of converting former churches into climbing gyms, as thousands of chapels across France face abandonment or sale. A €1.7 million conversion project highlights how climbing operators are tapping into repurposed religious buildings for new gym space. No other significant European gym industry stories were identified today."
   },
   "stories": [
+    {
+      "id": 264,
+      "date": "2026-09-26",
+      "title": "€1.7 Million to Transform a Church Into a Climbing Gym: The Surprising Second Life of France's Places of Worship",
+      "summary": "An investment of €1.7 million is being used to convert a former church into a climbing gym, part of a broader trend in France where 2,000 to 5,000 chapels and churches are expected to be abandoned or sold. The article explores how climbing gym operators are increasingly repurposing disused religious buildings for new commercial use.",
+      "url": "https://www.challenges.fr/immobilier/17-million-deuros-pour-transformer-une-eglise-en-salle-descalade-letonnante-seconde-vie-des-lieux-de-culte-en-france_645917",
+      "category": "Openings",
+      "region": "France",
+      "source": "Challenges",
+      "source_domain": "challenges.fr",
+      "lang": "fr"
+    },
     {
       "id": 262,
       "date": "2026-09-25",
