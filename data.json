@@ -65,9 +65,22 @@
     "2026-09-23": "Today's European climbing gym news centres on continental openings and milestones. In Liechtenstein, the new Kletterhalle Rhiblok in Vaduz is nearing completion, with two features detailing its steel-frame construction and panoramic setting near the Drei Schwestern massif. Meanwhile in France, Bayonne's climbing gym The Roof marks its tenth anniversary, having established itself as a fixture of the Basque Country climbing scene.",
     "2026-09-24": "A quiet news day for the European climbing gym sector, with just one notable story: a private entrepreneur in Issoire, France is investing in the city's first privately-run climbing gym, discussed at a recent municipal council meeting. Other stories in today's feed were unrelated community events or promotional lectures held at climbing facilities rather than genuine industry news.",
     "2026-09-25": "Today's European climbing gym news is light, with two minor items surfacing. In Austria, Vienna's Naturfreunde-Kletterhalle is marking its 20th anniversary with a public family festival, highlighting continued community engagement at the long-running facility. Meanwhile, in France, local entrepreneurs in Redon (Ille-et-Vilaine, Brittany) are exploring plans to open a new bouldering gym, inspired by a similar venue they visited elsewhere in the country.",
-    "2026-09-26": "One notable European story today: French real estate outlets report on a growing trend of converting former churches into climbing gyms, as thousands of chapels across France face abandonment or sale. A €1.7 million conversion project highlights how climbing operators are tapping into repurposed religious buildings for new gym space. No other significant European gym industry stories were identified today."
+    "2026-09-26": "One notable European story today: French real estate outlets report on a growing trend of converting former churches into climbing gyms, as thousands of chapels across France face abandonment or sale. A €1.7 million conversion project highlights how climbing operators are tapping into repurposed religious buildings for new gym space. No other significant European gym industry stories were identified today.",
+    "2026-09-27": "A quiet day for European climbing gym news, with the main story being the long-awaited opening of Liechtenstein's first climbing gym in Vaduz. Other items in today's feed were minor operational notices or off-topic content not meeting our industry relevance threshold."
   },
   "stories": [
+    {
+      "id": 265,
+      "date": "2026-09-27",
+      "title": "After 13 Years of Planning: Rhiblok Climbing Gym Opens in Vaduz",
+      "summary": "Liechtenstein's first climbing gym, Rhiblok, has officially opened in Vaduz after 13 years of planning. The facility is operated by the Liechtenstein Alpine Club (LAV), marking a milestone for the country's climbing community.",
+      "url": "https://landesspiegel.li/2026/09/nach-13-jahren-planung-kletterhalle-rhiblok-in-vaduz-eroeffnet/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Landesspiegel",
+      "source_domain": "landesspiegel.li",
+      "lang": "de"
+    },
     {
       "id": 264,
       "date": "2026-09-26",
