@@ -67,9 +67,22 @@
     "2026-09-25": "Today's European climbing gym news is light, with two minor items surfacing. In Austria, Vienna's Naturfreunde-Kletterhalle is marking its 20th anniversary with a public family festival, highlighting continued community engagement at the long-running facility. Meanwhile, in France, local entrepreneurs in Redon (Ille-et-Vilaine, Brittany) are exploring plans to open a new bouldering gym, inspired by a similar venue they visited elsewhere in the country.",
     "2026-09-26": "One notable European story today: French real estate outlets report on a growing trend of converting former churches into climbing gyms, as thousands of chapels across France face abandonment or sale. A €1.7 million conversion project highlights how climbing operators are tapping into repurposed religious buildings for new gym space. No other significant European gym industry stories were identified today.",
     "2026-09-27": "A quiet day for European climbing gym news, with the main story being the long-awaited opening of Liechtenstein's first climbing gym in Vaduz. Other items in today's feed were minor operational notices or off-topic content not meeting our industry relevance threshold.",
-    "2026-09-28": "A new climbing gym, Kletterhalle Rhiblock, celebrated its official opening in Schaan, Liechtenstein over the weekend, marking a modest addition to the Alpine region's indoor climbing infrastructure. The opening featured a varied program of festivities. No other qualifying European gym industry stories were identified today."
+    "2026-09-28": "A new climbing gym, Kletterhalle Rhiblock, celebrated its official opening in Schaan, Liechtenstein over the weekend, marking a modest addition to the Alpine region's indoor climbing infrastructure. The opening featured a varied program of festivities. No other qualifying European gym industry stories were identified today.",
+    "2026-09-29": "A single French-language trade piece today explores the rise of 'connected' climbing gyms, framing route quality and digital tools as key competitive differentiators for operators. No other qualifying openings, closures, M&A, or labor stories from Europe or the UK were found in today's feed; the remaining items were either lifestyle/inclusion features, TV content, or partner-finder listings with no direct industry relevance."
   },
   "stories": [
+    {
+      "id": 267,
+      "date": "2026-09-29",
+      "title": "The Era of Connected Climbing Gyms",
+      "summary": "An industry piece examines how climbing gyms are increasingly leveraging technology and digital tools to differentiate themselves competitively. The article argues that route-setting quality remains the core value driver, but connected features are becoming an important complement for operators seeking to attract members.",
+      "url": "https://www.grimper.com/news-ere-salles-connectees",
+      "category": "Industry",
+      "region": "France",
+      "source": "Grimper.com",
+      "source_domain": "grimper.com",
+      "lang": "fr"
+    },
     {
       "id": 266,
       "date": "2026-09-28",
