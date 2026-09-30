@@ -68,9 +68,22 @@
     "2026-09-26": "One notable European story today: French real estate outlets report on a growing trend of converting former churches into climbing gyms, as thousands of chapels across France face abandonment or sale. A €1.7 million conversion project highlights how climbing operators are tapping into repurposed religious buildings for new gym space. No other significant European gym industry stories were identified today.",
     "2026-09-27": "A quiet day for European climbing gym news, with the main story being the long-awaited opening of Liechtenstein's first climbing gym in Vaduz. Other items in today's feed were minor operational notices or off-topic content not meeting our industry relevance threshold.",
     "2026-09-28": "A new climbing gym, Kletterhalle Rhiblock, celebrated its official opening in Schaan, Liechtenstein over the weekend, marking a modest addition to the Alpine region's indoor climbing infrastructure. The opening featured a varied program of festivities. No other qualifying European gym industry stories were identified today.",
-    "2026-09-29": "A single French-language trade piece today explores the rise of 'connected' climbing gyms, framing route quality and digital tools as key competitive differentiators for operators. No other qualifying openings, closures, M&A, or labor stories from Europe or the UK were found in today's feed; the remaining items were either lifestyle/inclusion features, TV content, or partner-finder listings with no direct industry relevance."
+    "2026-09-29": "A single French-language trade piece today explores the rise of 'connected' climbing gyms, framing route quality and digital tools as key competitive differentiators for operators. No other qualifying openings, closures, M&A, or labor stories from Europe or the UK were found in today's feed; the remaining items were either lifestyle/inclusion features, TV content, or partner-finder listings with no direct industry relevance.",
+    "2026-09-30": "A quieter day for European climbing gym industry news, with one notable story out of Switzerland: Geneva's alternative bouldering venue Pan Structure faces an uncertain future after its planned reopening was delayed, threatening the space's continuity. No other qualifying openings, M&A, labor, or industry stories were identified in today's feed, with the remaining items limited to club events and mountaineering history unrelated to the gym business."
   },
   "stories": [
+    {
+      "id": 268,
+      "date": "2026-09-30",
+      "title": "Alternative climbing gym in Geneva under threat",
+      "summary": "Pan Structure, a bouldering venue in Geneva popular with the alternative climbing community, has seen its planned mid-August reopening postponed, raising concerns among local climbers about the space's future. The delay has left users uncertain about when, or if, the gym will resume operations.",
+      "url": "https://lecourrier.ch/2026/09/29/salle-de-grimpe-alternative-menacee-2/",
+      "category": "Closures",
+      "region": "Switzerland",
+      "source": "Le Courrier",
+      "source_domain": "lecourrier.ch",
+      "lang": "fr"
+    },
     {
       "id": 267,
       "date": "2026-09-29",
