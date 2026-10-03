@@ -71,9 +71,21 @@
     "2026-09-29": "A single French-language trade piece today explores the rise of 'connected' climbing gyms, framing route quality and digital tools as key competitive differentiators for operators. No other qualifying openings, closures, M&A, or labor stories from Europe or the UK were found in today's feed; the remaining items were either lifestyle/inclusion features, TV content, or partner-finder listings with no direct industry relevance.",
     "2026-09-30": "A quieter day for European climbing gym industry news, with one notable story out of Switzerland: Geneva's alternative bouldering venue Pan Structure faces an uncertain future after its planned reopening was delayed, threatening the space's continuity. No other qualifying openings, M&A, labor, or industry stories were identified in today's feed, with the remaining items limited to club events and mountaineering history unrelated to the gym business.",
     "2026-10-01": "A single European story leads today's roundup: Italian hold and hangboard manufacturer Goatzilla has expanded into gym operation with a new mixed-discipline facility in Lombardy. The remaining wire stories concern outdoor ascents, athlete news, and US/international competition scheduling, none of which fall within our industry coverage scope.",
-    "2026-10-02": "A quiet day for European gym industry news, with just one notable story: Italian climbing brand Goatzilla has opened a new mixed-discipline gym in Berbenno di Valtellina, marking its evolution from a holds and hangboard manufacturer into gym operations. Most other wire stories today covered US-based gym business podcasts and job listings, outdoor climbing ascents, and competition news — none of which meet our European gym industry criteria."
+    "2026-10-02": "A quiet day for European gym industry news, with just one notable story: Italian climbing brand Goatzilla has opened a new mixed-discipline gym in Berbenno di Valtellina, marking its evolution from a holds and hangboard manufacturer into gym operations. Most other wire stories today covered US-based gym business podcasts and job listings, outdoor climbing ascents, and competition news — none of which meet our European gym industry criteria.",
+    "2026-10-03": "A quiet day for European climbing gym industry news, with only one notable story: VERTICAL PRO 2026, a trade show for climbing business professionals, will take place in Friedrichshafen, Germany in November, offering operators, routesetters, and manufacturers a chance to network and view equipment in person. Most other wire stories today focused on US gym business podcasts, outdoor ascents, and non-European competition news, which fall outside our coverage scope."
   },
   "stories": [
+    {
+      "id": 270,
+      "date": "2026-10-03",
+      "title": "VERTICAL PRO 2026 Trade Show to Bring Climbing Industry Together in Germany",
+      "summary": "VERTICAL PRO 2026, a trade event for climbing gym operators, routesetters, and manufacturers, will take place November 13–14 at Messe Friedrichshafen in Germany. The show is positioned as a venue for industry professionals to see equipment firsthand and network with peers facing similar business challenges.",
+      "url": "https://climbingbusinessjournal.com/where-climbing-business-meets-why-vertical-pro-2026-is-bringing-the-industry-closer-together/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 269,
       "date": "2026-10-01",
