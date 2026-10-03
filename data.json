@@ -72,9 +72,45 @@
     "2026-09-30": "A quieter day for European climbing gym industry news, with one notable story out of Switzerland: Geneva's alternative bouldering venue Pan Structure faces an uncertain future after its planned reopening was delayed, threatening the space's continuity. No other qualifying openings, M&A, labor, or industry stories were identified in today's feed, with the remaining items limited to club events and mountaineering history unrelated to the gym business.",
     "2026-10-01": "A single European story leads today's roundup: Italian hold and hangboard manufacturer Goatzilla has expanded into gym operation with a new mixed-discipline facility in Lombardy. The remaining wire stories concern outdoor ascents, athlete news, and US/international competition scheduling, none of which fall within our industry coverage scope.",
     "2026-10-02": "A quiet day for European gym industry news, with just one notable story: Italian climbing brand Goatzilla has opened a new mixed-discipline gym in Berbenno di Valtellina, marking its evolution from a holds and hangboard manufacturer into gym operations. Most other wire stories today covered US-based gym business podcasts and job listings, outdoor climbing ascents, and competition news — none of which meet our European gym industry criteria.",
-    "2026-10-03": "A quiet day for European climbing gym industry news, with only one notable story: VERTICAL PRO 2026, a trade show for climbing business professionals, will take place in Friedrichshafen, Germany in November, offering operators, routesetters, and manufacturers a chance to network and view equipment in person. Most other wire stories today focused on US gym business podcasts, outdoor ascents, and non-European competition news, which fall outside our coverage scope."
+    "2026-10-03": "Today's European climbing gym news is light but touches on milestones, openings, and ownership changes across the continent. In Germany, the Zuckerturm climbing gym in Dessau marks its 20th anniversary, having transformed a historic industrial sugar factory tower into a modern facility. In France, the B'Wall chain continues its regional expansion with a third location opening in Quimper, following earlier gyms in Lorient and Vannes. Meanwhile in Italy, Blockland L'Aquila kicks off its new season under a change of management, with a celebratory reopening event."
   },
   "stories": [
+    {
+      "id": 271,
+      "date": "2026-10-03",
+      "title": "20 Years of Zuckerturm: How an Old Dessau Industrial Building Became a Modern Climbing Gym",
+      "summary": "The Zuckerturm climbing gym in Dessau, Germany, is celebrating its 20th anniversary this year. The facility was originally a sugar factory tower, which architect Dieter Bankert proposed converting into a climbing venue, and it has since become a well-established modern gym in the region.",
+      "url": "https://www.mz.de/lokal/dessau-rosslau/20-jahre-zuckerturm-wie-aus-einem-alten-dessauer-industriebau-eine-moderne-kletterhalle-wurde-4330155",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Mitteldeutsche Zeitung",
+      "source_domain": "mz.de",
+      "lang": "de"
+    },
+    {
+      "id": 272,
+      "date": "2026-10-03",
+      "title": "Highly Anticipated New Climbing Gym Opens in Quimper with Olympic-Style Boulders and Interactive Wall",
+      "summary": "B'Wall, the climbing gym chain founded by Aurélien Desclavelières and Rémi Lestang, has opened its third location in Quimper, France, following previous openings in Lorient (2022) and Vannes (2025). The new facility features Olympic-style bouldering areas and an interactive climbing wall.",
+      "url": "https://www.letelegramme.fr/finistere/quimper-29000/une-nouvelle-salle-descalade-tres-attendu-a-quimper-avec-blocs-olympiques-et-mur-interactif-7128537.php",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Télégramme",
+      "source_domain": "letelegramme.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 273,
+      "date": "2026-10-03",
+      "title": "Blockland L'Aquila Reopens Under New Management for 2026/27 Season",
+      "summary": "Blockland L'Aquila, an indoor climbing gym and regional reference point in L'Aquila, Italy, is restarting its 2026/27 season under a change of management. The gym held an official season-opening celebration on October 3, 2026.",
+      "url": "https://www.abruzzoweb.it/arrampicata-indoor-blockland-laquila-riparte-il-3-ottobre-festa-di-inaugurazione-della-stagione-2026-27/?pdf=3971956",
+      "category": "M&A",
+      "region": "Italy",
+      "source": "Abruzzo Web",
+      "source_domain": "abruzzoweb.it",
+      "lang": "it"
+    },
     {
       "id": 270,
       "date": "2026-10-03",
