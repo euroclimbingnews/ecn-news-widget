@@ -73,9 +73,22 @@
     "2026-10-01": "A single European story leads today's roundup: Italian hold and hangboard manufacturer Goatzilla has expanded into gym operation with a new mixed-discipline facility in Lombardy. The remaining wire stories concern outdoor ascents, athlete news, and US/international competition scheduling, none of which fall within our industry coverage scope.",
     "2026-10-02": "A quiet day for European gym industry news, with just one notable story: Italian climbing brand Goatzilla has opened a new mixed-discipline gym in Berbenno di Valtellina, marking its evolution from a holds and hangboard manufacturer into gym operations. Most other wire stories today covered US-based gym business podcasts and job listings, outdoor climbing ascents, and competition news — none of which meet our European gym industry criteria.",
     "2026-10-03": "Today's European climbing gym news is light but touches on milestones, openings, and ownership changes across the continent. In Germany, the Zuckerturm climbing gym in Dessau marks its 20th anniversary, having transformed a historic industrial sugar factory tower into a modern facility. In France, the B'Wall chain continues its regional expansion with a third location opening in Quimper, following earlier gyms in Lorient and Vannes. Meanwhile in Italy, Blockland L'Aquila kicks off its new season under a change of management, with a celebratory reopening event.",
-    "2026-10-04": "A quiet day for European climbing gym news, with the main development coming from Italy. Blockland L'Aquila, a long-standing indoor climbing gym in Abruzzo, has reopened for the 2026/27 season under new management, marking a change of ownership/operation for the facility."
+    "2026-10-04": "A quiet day for European climbing gym news, with the main development coming from Italy. Blockland L'Aquila, a long-standing indoor climbing gym in Abruzzo, has reopened for the 2026/27 season under new management, marking a change of ownership/operation for the facility.",
+    "2026-10-05": "A notable story from France today highlights an unconventional approach to climbing gym expansion, with operator Climbing District converting abandoned churches in Paris and Châteauroux into climbing walls. This reflects a growing trend among French climbing gym operators of repurposing disused religious buildings for sport facilities. No other qualifying European gym industry stories were identified in today's feed."
   },
   "stories": [
+    {
+      "id": 274,
+      "date": "2026-10-05",
+      "title": "A Climbing Wall Where the Altar Once Stood: Climbers Give Abandoned Churches a Second Life in Paris and Châteauroux",
+      "summary": "In France, disused churches in Paris and Châteauroux are being converted into climbing gyms, with one venue in Paris operated by Climbing District. The trend reflects an innovative reuse of abandoned religious buildings for sport and leisure purposes.",
+      "url": "https://www.larep.fr/paris-75000/actualites/un-mur-d-escalade-a-la-place-de-l-autel-a-paris-et-chateauroux-des-grimpeurs-offrent-une-seconde-vie-aux-eglises-abandonnees_15057078/",
+      "category": "Openings",
+      "region": "France",
+      "source": "La République du Centre",
+      "source_domain": "larep.fr",
+      "lang": "fr"
+    },
     {
       "id": 271,
       "date": "2026-10-03",
