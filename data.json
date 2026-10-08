@@ -76,9 +76,21 @@
     "2026-10-04": "A quiet day for European climbing gym news, with the main development coming from Italy. Blockland L'Aquila, a long-standing indoor climbing gym in Abruzzo, has reopened for the 2026/27 season under new management, marking a change of ownership/operation for the facility.",
     "2026-10-05": "A notable story from France today highlights an unconventional approach to climbing gym expansion, with operator Climbing District converting abandoned churches in Paris and Châteauroux into climbing walls. This reflects a growing trend among French climbing gym operators of repurposing disused religious buildings for sport facilities. No other qualifying European gym industry stories were identified in today's feed.",
     "2026-10-06": "Several new climbing gym projects are progressing across Europe today. In Austria, construction has broken ground on the new KI-West climbing hall in Völs, a roughly €10 million investment. Meanwhile in Germany, the German Alpine Club (DAV) branch in Wernigerode celebrated its autumn festival while giving an outlook on a new climbing hall and national performance centre slated for 2027. In France, a new climbing gym, B'Wall, has opened in Quimper, Brittany, catering to climbers of all levels.",
-    "2026-10-07": "A French news feature highlights a growing trend of deconsecrated churches and chapels being converted into alternative venues, including climbing gyms, as municipalities seek new uses for disused religious buildings. Notably, the Chapelle Notre-Dame de l'Immaculée Conception in Paris was transformed into a climbing gym after its deconsecration, illustrating how adaptive reuse of historic properties is creating new opportunities for climbing gym operators in France."
+    "2026-10-07": "A French news feature highlights a growing trend of deconsecrated churches and chapels being converted into alternative venues, including climbing gyms, as municipalities seek new uses for disused religious buildings. Notably, the Chapelle Notre-Dame de l'Immaculée Conception in Paris was transformed into a climbing gym after its deconsecration, illustrating how adaptive reuse of historic properties is creating new opportunities for climbing gym operators in France.",
+    "2026-10-08": "A family-owned bouldering gym, Bloc'UP Roquevaire, opened in southern France in June, launched by a father-son duo whose passion for climbing began in childhood. This marks a modest but notable addition to France's growing network of independent bouldering facilities."
   },
   "stories": [
+    {
+      "id": 279,
+      "date": "2026-10-08",
+      "title": "Father-Son Duo Open Bouldering Gym in Southern France",
+      "summary": "Bloc'UP Roquevaire opened on June 12th in Roquevaire, France, as a family-owned bouldering facility. It was founded by Thiebald Thomas and his father Pascal Thomas, growing out of Thiebald's lifelong passion for climbing since age four.",
+      "url": "https://climbingbusinessjournal.com/son-and-father-duo-open-bouldering-gym-in-southern-france/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 278,
       "date": "2026-10-07",
