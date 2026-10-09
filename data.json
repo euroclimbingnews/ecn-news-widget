@@ -78,9 +78,21 @@
     "2026-10-06": "Several new climbing gym projects are progressing across Europe today. In Austria, construction has broken ground on the new KI-West climbing hall in Völs, a roughly €10 million investment. Meanwhile in Germany, the German Alpine Club (DAV) branch in Wernigerode celebrated its autumn festival while giving an outlook on a new climbing hall and national performance centre slated for 2027. In France, a new climbing gym, B'Wall, has opened in Quimper, Brittany, catering to climbers of all levels.",
     "2026-10-07": "A French news feature highlights a growing trend of deconsecrated churches and chapels being converted into alternative venues, including climbing gyms, as municipalities seek new uses for disused religious buildings. Notably, the Chapelle Notre-Dame de l'Immaculée Conception in Paris was transformed into a climbing gym after its deconsecration, illustrating how adaptive reuse of historic properties is creating new opportunities for climbing gym operators in France.",
     "2026-10-08": "A new bouldering gym, BoulderBurg, has opened in Burgdorf, Switzerland, the result of a multi-year effort by a local climbing hall interest group. This marks a notable addition to the Swiss indoor climbing market, expanding access to climbing facilities in the Emmental region.",
-    "2026-10-09": "A quiet news day for the European climbing gym industry, with just one notable item: a new family-run bouldering gym opening in southern France. Most other wire stories today focused on US gym listings and job postings, or outdoor ascents and climbing profiles unrelated to the gym business."
+    "2026-10-09": "A Swiss climbing gym construction project is the only notable industry story today, with planning permission for a major 100-tonne timber expansion at the Kraftreaktor climbing hall proceeding without objections. No other newsworthy gym openings, M&A, labor, or regulatory stories were identified in today's European coverage."
   },
   "stories": [
+    {
+      "id": 281,
+      "date": "2026-10-09",
+      "title": "100 Tonnes of Timber: Expansion Underway at Kraftreaktor Climbing Hall",
+      "summary": "A major construction project using 100 tonnes of wood is progressing at the Kraftreaktor climbing gym after the building application received no objections. The large-scale expansion continues the facility's long history of ongoing development and activity.",
+      "url": "https://lba.chmedia.ch/aktuell/haputartikel/artikelseite-hauptartikel/100-tonnen-holz-am-kraftreaktor-tut-sich-etwas",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "lba.chmedia.ch",
+      "source_domain": "lba.chmedia.ch",
+      "lang": "de"
+    },
     {
       "id": 280,
       "date": "2026-10-08",
