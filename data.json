@@ -79,9 +79,34 @@
     "2026-10-07": "A French news feature highlights a growing trend of deconsecrated churches and chapels being converted into alternative venues, including climbing gyms, as municipalities seek new uses for disused religious buildings. Notably, the Chapelle Notre-Dame de l'Immaculée Conception in Paris was transformed into a climbing gym after its deconsecration, illustrating how adaptive reuse of historic properties is creating new opportunities for climbing gym operators in France.",
     "2026-10-08": "A new bouldering gym, BoulderBurg, has opened in Burgdorf, Switzerland, the result of a multi-year effort by a local climbing hall interest group. This marks a notable addition to the Swiss indoor climbing market, expanding access to climbing facilities in the Emmental region.",
     "2026-10-09": "A Swiss climbing gym construction project is the only notable industry story today, with planning permission for a major 100-tonne timber expansion at the Kraftreaktor climbing hall proceeding without objections. No other newsworthy gym openings, M&A, labor, or regulatory stories were identified in today's European coverage.",
-    "2026-10-10": "Two small-scale European climbing facility stories surfaced today. In Germany, a disused carpentry workshop in Ettenkofen is being converted into a new climbing hall, welcomed by local families. In Belgium, construction of a multi-sport complex in Beauraing that includes a dedicated climbing room continues to face delays, with completion now pushed to January."
+    "2026-10-10": "Two small-scale European climbing facility stories surfaced today. In Germany, a disused carpentry workshop in Ettenkofen is being converted into a new climbing hall, welcomed by local families. In Belgium, construction of a multi-sport complex in Beauraing that includes a dedicated climbing room continues to face delays, with completion now pushed to January.",
+    "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend."
   },
   "stories": [
+    {
+      "id": 284,
+      "date": "2026-10-12",
+      "title": "First Inclusive Climbing Gym in Bad Aibling Opens New Outdoor Facility",
+      "summary": "The barrier-free climbing gym Basislager in Bad Aibling, Bavaria, has opened a new outdoor climbing area as part of its inclusion-focused project. The facility is designed to offer climbing opportunities for people of all abilities.",
+      "url": "https://www.rosenheim24.de/rosenheim/mangfalltal/bad-aibling-ort28271/bad-aibling-inklusive-kletterhalle-basislager-eroeffnet-neue-aussenanlage-94535231.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "rosenheim24.de",
+      "source_domain": "rosenheim24.de",
+      "lang": "de"
+    },
+    {
+      "id": 285,
+      "date": "2026-10-12",
+      "title": "Climbing Gym Rhiblok Opens in Vaduz After 13 Years of Planning",
+      "summary": "The Rhiblok climbing gym has officially opened in Vaduz's Mühleholz district, Liechtenstein, following a 13-year planning process. A ceremonial ribbon-cutting event was held over the weekend to mark the opening.",
+      "url": "https://landesspiegel.li/2026/10/kuechenbrand-in-vaduz-zwei-personen-im-spital/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Landesspiegel",
+      "source_domain": "landesspiegel.li",
+      "lang": "de"
+    },
     {
       "id": 282,
       "date": "2026-10-10",
