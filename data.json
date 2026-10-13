@@ -80,9 +80,34 @@
     "2026-10-08": "A new bouldering gym, BoulderBurg, has opened in Burgdorf, Switzerland, the result of a multi-year effort by a local climbing hall interest group. This marks a notable addition to the Swiss indoor climbing market, expanding access to climbing facilities in the Emmental region.",
     "2026-10-09": "A Swiss climbing gym construction project is the only notable industry story today, with planning permission for a major 100-tonne timber expansion at the Kraftreaktor climbing hall proceeding without objections. No other newsworthy gym openings, M&A, labor, or regulatory stories were identified in today's European coverage.",
     "2026-10-10": "Two small-scale European climbing facility stories surfaced today. In Germany, a disused carpentry workshop in Ettenkofen is being converted into a new climbing hall, welcomed by local families. In Belgium, construction of a multi-sport complex in Beauraing that includes a dedicated climbing room continues to face delays, with completion now pushed to January.",
-    "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend."
+    "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend.",
+    "2026-10-13": "Today's European gym industry news features facility openings and expansions in Germany and France. Bad Aibling's Basislager has added a new outdoor area with twelve inclusive climbing routes, reinforcing its status as Germany's first inclusive climbing gym. Meanwhile, in the French Basque Country, a community-run climbing association has repurposed a traditional pelota court into a new climbing venue, blending the sport with local Basque culture."
   },
   "stories": [
+    {
+      "id": 286,
+      "date": "2026-10-13",
+      "title": "Bad Aibling's Basislager Adds New Outdoor Area with Twelve Inclusive Climbing Routes",
+      "summary": "The Basislager climbing facility in Bad Aibling, Upper Bavaria, has expanded with a new outdoor area featuring twelve inclusive climbing routes. The facility is considered Germany's first inclusive climbing gym, and this expansion strengthens its therapeutic and sporting offerings.",
+      "url": "https://www.ad-hoc-news.de/wissenschaft/basislager-bad-aibling-neue-aussenanlage-bietet-zwoelf-inklusive/70303558",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "lang": "de"
+    },
+    {
+      "id": 287,
+      "date": "2026-10-13",
+      "title": "Climbing Gym Transforms Basque Pelota Court into New Climbing Venue",
+      "summary": "A community climbing association called Arroka has converted a traditional Basque pelota 'trinquet' court in Itxassou into a climbing venue. The project brings together climbers and Basque cultural traditions, positioning the new facility as a hub for the local 'euskara' (Basque language) community.",
+      "url": "https://www.vertigemedia.fr/salle-escalade-pays-basque-itxassou",
+      "category": "Openings",
+      "region": "France",
+      "source": "vertigemedia.fr",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 284,
       "date": "2026-10-12",
