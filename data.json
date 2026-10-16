@@ -81,9 +81,22 @@
     "2026-10-09": "A Swiss climbing gym construction project is the only notable industry story today, with planning permission for a major 100-tonne timber expansion at the Kraftreaktor climbing hall proceeding without objections. No other newsworthy gym openings, M&A, labor, or regulatory stories were identified in today's European coverage.",
     "2026-10-10": "Two small-scale European climbing facility stories surfaced today. In Germany, a disused carpentry workshop in Ettenkofen is being converted into a new climbing hall, welcomed by local families. In Belgium, construction of a multi-sport complex in Beauraing that includes a dedicated climbing room continues to face delays, with completion now pushed to January.",
     "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend.",
-    "2026-10-13": "Today's European gym industry news features facility openings and expansions in Germany and France. Bad Aibling's Basislager has added a new outdoor area with twelve inclusive climbing routes, reinforcing its status as Germany's first inclusive climbing gym. Meanwhile, in the French Basque Country, a community-run climbing association has repurposed a traditional pelota court into a new climbing venue, blending the sport with local Basque culture."
+    "2026-10-13": "Today's European gym industry news features facility openings and expansions in Germany and France. Bad Aibling's Basislager has added a new outdoor area with twelve inclusive climbing routes, reinforcing its status as Germany's first inclusive climbing gym. Meanwhile, in the French Basque Country, a community-run climbing association has repurposed a traditional pelota court into a new climbing venue, blending the sport with local Basque culture.",
+    "2026-10-16": "A quiet day for European climbing gym industry news, with most incoming stories focused on outdoor ascents, competition results, and US-based gym openings outside our coverage area. The one notable item is the expansion of the Pro Climbing League's European calendar for its second season, which will see events return to London and expand to Berlin and Paris with a revamped format and increased prize money — a sign of growing investment in professional climbing competition infrastructure across Europe."
   },
   "stories": [
+    {
+      "id": 288,
+      "date": "2026-10-16",
+      "title": "Pro Climbing League: Season Two Kicks Off in Berlin in January",
+      "summary": "The Pro Climbing League (PCL) will launch its second season in 2027 following a sold-out debut event in London. Three events are planned for Berlin, Paris, and London, featuring a new two-session format and prize money of £50,000 per event.",
+      "url": "https://www.lacrux.com/bouldern/pro-climbing-league-2027-berlin-paris-london/",
+      "category": "Industry",
+      "region": "Europe",
+      "source": "LACRUX",
+      "source_domain": "lacrux.com",
+      "lang": "de"
+    },
     {
       "id": 286,
       "date": "2026-10-13",
