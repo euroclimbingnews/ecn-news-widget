@@ -82,9 +82,34 @@
     "2026-10-10": "Two small-scale European climbing facility stories surfaced today. In Germany, a disused carpentry workshop in Ettenkofen is being converted into a new climbing hall, welcomed by local families. In Belgium, construction of a multi-sport complex in Beauraing that includes a dedicated climbing room continues to face delays, with completion now pushed to January.",
     "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend.",
     "2026-10-13": "Today's European gym industry news features facility openings and expansions in Germany and France. Bad Aibling's Basislager has added a new outdoor area with twelve inclusive climbing routes, reinforcing its status as Germany's first inclusive climbing gym. Meanwhile, in the French Basque Country, a community-run climbing association has repurposed a traditional pelota court into a new climbing venue, blending the sport with local Basque culture.",
-    "2026-10-16": "A notable gym conversion story comes out of Austria today, where a former church in Innsbruck is being transformed into a bouldering hall — an example of adaptive reuse of religious buildings for climbing facilities. No other qualifying European gym industry news (M&A, labor, closures, or openings) was reported in today's feed."
+    "2026-10-16": "A notable gym conversion story comes out of Austria today, where a former church in Innsbruck is being transformed into a bouldering hall — an example of adaptive reuse of religious buildings for climbing facilities. No other qualifying European gym industry news (M&A, labor, closures, or openings) was reported in today's feed.",
+    "2026-10-17": "Two climbing wall stories emerge from the European market today. In Germany, the Ferienpark Hambachtal has partially reopened following insolvency proceedings and a change of ownership, with its climbing hall now open to the public again. Meanwhile, Paris has welcomed a new municipal sports centre in the 12th arrondissement featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities."
   },
   "stories": [
+    {
+      "id": 290,
+      "date": "2026-10-17",
+      "title": "After Insolvency and Takeover: Ferienpark Hambachtal Partially Reopens",
+      "summary": "The Hambachtal holiday park in Germany has partially reopened following insolvency proceedings and a subsequent takeover by new ownership. The on-site climbing hall is among the facilities now open to the public again, alongside other rented amenities.",
+      "url": "https://www.rhein-zeitung.de/lokales/nahe-zeitung/ferienpark-hambachtal-eroeffnet-teilweise-wieder_arid-4163106.html",
+      "category": "M&A",
+      "region": "Germany",
+      "source": "Rhein-Zeitung (Nahe-Zeitung)",
+      "source_domain": "rhein-zeitung.de",
+      "lang": "de"
+    },
+    {
+      "id": 291,
+      "date": "2026-10-17",
+      "title": "Paris 12th Arrondissement: New Sports Centre Opens with 14-Metre Climbing Wall",
+      "summary": "The Suzanne-Liébrard sports centre has opened on Boulevard Carnot in Paris's 12th arrondissement, featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities. The multi-sport venue adds to the city's public climbing infrastructure.",
+      "url": "https://www.sortiraparis.com/loisirs/sport/articles/354880-paris-12e-ouverture-d-un-nouveau-centre-sportif-avec-un-mur-d-escalade-de-14-metres",
+      "category": "Openings",
+      "region": "France",
+      "source": "Sortiraparis",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
     {
       "id": 289,
       "date": "2026-10-16",
