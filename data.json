@@ -83,9 +83,34 @@
     "2026-10-12": "Two new climbing gym openings make headlines in German-speaking Europe today. In Bavaria, the inclusive Basislager climbing gym in Bad Aibling has unveiled a new barrier-free outdoor climbing area, reinforcing its position as a pioneer in accessible climbing. Meanwhile, in Liechtenstein, the long-awaited Rhiblok climbing gym has finally opened in Vaduz after 13 years of planning, with a ceremonial opening held over the weekend.",
     "2026-10-13": "Today's European gym industry news features facility openings and expansions in Germany and France. Bad Aibling's Basislager has added a new outdoor area with twelve inclusive climbing routes, reinforcing its status as Germany's first inclusive climbing gym. Meanwhile, in the French Basque Country, a community-run climbing association has repurposed a traditional pelota court into a new climbing venue, blending the sport with local Basque culture.",
     "2026-10-16": "A notable gym conversion story comes out of Austria today, where a former church in Innsbruck is being transformed into a bouldering hall — an example of adaptive reuse of religious buildings for climbing facilities. No other qualifying European gym industry news (M&A, labor, closures, or openings) was reported in today's feed.",
-    "2026-10-17": "Two climbing wall stories emerge from the European market today. In Germany, the Ferienpark Hambachtal has partially reopened following insolvency proceedings and a change of ownership, with its climbing hall now open to the public again. Meanwhile, Paris has welcomed a new municipal sports centre in the 12th arrondissement featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities."
+    "2026-10-17": "Two climbing wall stories emerge from the European market today. In Germany, the Ferienpark Hambachtal has partially reopened following insolvency proceedings and a change of ownership, with its climbing hall now open to the public again. Meanwhile, Paris has welcomed a new municipal sports centre in the 12th arrondissement featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities.",
+    "2026-10-18": "Two stories today highlight contrasting industry news across Europe: a new bouldering gym has opened in Burgdorf, Switzerland after a multi-year search for a suitable location, while French chain Climb Up has confirmed a customer data breach affecting its network of climbing gyms in Lyon. The data breach raises questions about cybersecurity practices among European gym operators as they increasingly rely on digital membership and booking systems."
   },
   "stories": [
+    {
+      "id": 292,
+      "date": "2026-10-18",
+      "title": "New Bouldering Gym Opens in Burgdorf, Switzerland",
+      "summary": "A new bouldering gym has opened in Burgdorf after the Interessengemeinschaft Kletterhalle Emmental (IGKE) spent several years searching for a suitable location. The opening marks the culmination of a long-running community effort to bring climbing facilities to the Emmental region.",
+      "url": "https://www.neo1.ch/artikel/neue-boulderhalle-in-burgdorf-eroeffnet",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "neo1.ch",
+      "source_domain": "neo1.ch",
+      "lang": "de"
+    },
+    {
+      "id": 293,
+      "date": "2026-10-18",
+      "title": "Climb Up Confirms Customer Data Breach at Lyon Climbing Gyms",
+      "summary": "French climbing gym network Climb Up has confirmed a data breach affecting customer information at its Lyon-based facilities. The company is addressing the risks and advising customers on protective measures to take following the leak.",
+      "url": "https://www.leprogres.fr/economie/2026/10/17/climb-up-confirme-une-fuite-de-donnees-clients-quels-risques-et-quels-reflexes-adopter",
+      "category": "Industry",
+      "region": "France",
+      "source": "Le Progrès",
+      "source_domain": "leprogres.fr",
+      "lang": "fr"
+    },
     {
       "id": 290,
       "date": "2026-10-17",
