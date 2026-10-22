@@ -86,9 +86,21 @@
     "2026-10-17": "Two climbing wall stories emerge from the European market today. In Germany, the Ferienpark Hambachtal has partially reopened following insolvency proceedings and a change of ownership, with its climbing hall now open to the public again. Meanwhile, Paris has welcomed a new municipal sports centre in the 12th arrondissement featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities.",
     "2026-10-18": "Two stories today highlight contrasting industry news across Europe: a new bouldering gym has opened in Burgdorf, Switzerland after a multi-year search for a suitable location, while French chain Climb Up has confirmed a customer data breach affecting its network of climbing gyms in Lyon. The data breach raises questions about cybersecurity practices among European gym operators as they increasingly rely on digital membership and booking systems.",
     "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement.",
-    "2026-10-22": "A quiet day for European climbing gym industry news, with just one notable opening to report: a new bouldering gym has launched in northern Romania, expanding the region's still-nascent indoor climbing scene. The rest of today's climbing media coverage focused on outdoor ascents, competition results, and athlete profiles from outside the gym business sector, none of which met our European gym industry criteria."
+    "2026-10-22": "A new climbing gym named after pioneering mountaineer Marie Paradis has been inaugurated in Besançon, France, marking a notable opening in the French climbing gym sector."
   },
   "stories": [
+    {
+      "id": 296,
+      "date": "2026-10-22",
+      "title": "Besançon Inaugurates Marie Paradis Climbing Gym",
+      "summary": "A new climbing facility named after French climbing pioneer Marie Paradis has officially opened in Besançon. The inauguration was attended by French climbing champion Nao Monchois.",
+      "url": "https://actu.orange.fr/videos/actu-locale/besancon-inauguration-salle-d-escalade-marie-paradis-CNT000002tgjlo.html?pid=",
+      "category": "Openings",
+      "region": "France",
+      "source": "Orange Actu",
+      "source_domain": "actu.orange.fr",
+      "lang": "fr"
+    },
     {
       "id": 295,
       "date": "2026-10-22",
