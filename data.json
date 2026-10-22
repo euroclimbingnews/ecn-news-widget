@@ -85,9 +85,21 @@
     "2026-10-16": "A notable gym conversion story comes out of Austria today, where a former church in Innsbruck is being transformed into a bouldering hall — an example of adaptive reuse of religious buildings for climbing facilities. No other qualifying European gym industry news (M&A, labor, closures, or openings) was reported in today's feed.",
     "2026-10-17": "Two climbing wall stories emerge from the European market today. In Germany, the Ferienpark Hambachtal has partially reopened following insolvency proceedings and a change of ownership, with its climbing hall now open to the public again. Meanwhile, Paris has welcomed a new municipal sports centre in the 12th arrondissement featuring a 14-metre climbing wall alongside boxing, martial arts and dance facilities.",
     "2026-10-18": "Two stories today highlight contrasting industry news across Europe: a new bouldering gym has opened in Burgdorf, Switzerland after a multi-year search for a suitable location, while French chain Climb Up has confirmed a customer data breach affecting its network of climbing gyms in Lyon. The data breach raises questions about cybersecurity practices among European gym operators as they increasingly rely on digital membership and booking systems.",
-    "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement."
+    "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement.",
+    "2026-10-22": "A quiet day for European climbing gym industry news, with just one notable opening to report: a new bouldering gym has launched in northern Romania, expanding the region's still-nascent indoor climbing scene. The rest of today's climbing media coverage focused on outdoor ascents, competition results, and athlete profiles from outside the gym business sector, none of which met our European gym industry criteria."
   },
   "stories": [
+    {
+      "id": 295,
+      "date": "2026-10-22",
+      "title": "Bouldering Gym Opens in Northern Romania, Built Around \"Shared Experience\"",
+      "summary": "Boulder Bucovina, founded and owned by Stefan Galben, opened in August in Marginea, a city in northern Romania. Galben started the gym out of a personal passion for climbing and a desire to introduce the sport to a region where it was previously virtually nonexistent.",
+      "url": "https://climbingbusinessjournal.com/bouldering-hub-opens-in-northern-romania-centered-on-a-shared-experience/",
+      "category": "Openings",
+      "region": "Europe",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 294,
       "date": "2026-10-19",
