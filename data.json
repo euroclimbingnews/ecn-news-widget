@@ -87,9 +87,33 @@
     "2026-10-18": "Two stories today highlight contrasting industry news across Europe: a new bouldering gym has opened in Burgdorf, Switzerland after a multi-year search for a suitable location, while French chain Climb Up has confirmed a customer data breach affecting its network of climbing gyms in Lyon. The data breach raises questions about cybersecurity practices among European gym operators as they increasingly rely on digital membership and booking systems.",
     "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement.",
     "2026-10-22": "A new climbing gym named after pioneering mountaineer Marie Paradis has been inaugurated in Besançon, France, marking a notable opening in the French climbing gym sector.",
-    "2026-10-23": "A quiet day for European climbing gym industry news, with just one notable opening to report. Boulder Bucovina has launched in Marginea, northern Romania, bringing bouldering to a region where the sport previously had little presence. No other M&A, labor, closure, or industry stories from European or UK operators were identified in today's feed."
+    "2026-10-23": "Two notable developments in European climbing gym real estate and consolidation today: in Innsbruck, Austria, a former church is being converted into a bouldering hall, while in Strasbourg, France, long-running independent gym Bloc et Roc en Stock has been acquired and rebranded under the Arkose chain, expanding Arkose's footprint in the city to two locations."
   },
   "stories": [
+    {
+      "id": 297,
+      "date": "2026-10-23",
+      "title": "Former Innsbruck Church Converted into Bouldering Hall",
+      "summary": "The former Petrus Canisius church in Innsbruck, Austria is currently being converted into a bouldering hall. The project is being led by a Vorarlberg-based entrepreneur and former climber, repurposing the historic building for indoor climbing use.",
+      "url": "https://www.reddit.com/r/HistoryOfAustria/comments/1xcgh9m/kirche_zu_kletterhalle_innovativer_umbau/",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Reddit (r/HistoryOfAustria)",
+      "source_domain": "reddit.com",
+      "lang": "de"
+    },
+    {
+      "id": 298,
+      "date": "2026-10-23",
+      "title": "Bloc et Roc en Stock Acquired by Arkose, Rebranded in Strasbourg",
+      "summary": "Bloc et Roc en Stock, one of France's earliest climbing gyms, has been acquired by the Arkose chain and will operate as Arkose Strasbourg Voie and Arkose Strasbourg Meinau. The move expands Arkose's presence to two sites in Strasbourg.",
+      "url": "https://www.escalade-alsace.com/articles-escalade/news/bloc-et-roc-en-stock-passent-chez-arkose",
+      "category": "M&A",
+      "region": "France",
+      "source": "Escalade Alsace",
+      "source_domain": "escalade-alsace.com",
+      "lang": "fr"
+    },
     {
       "id": 296,
       "date": "2026-10-22",
