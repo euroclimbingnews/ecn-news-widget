@@ -87,9 +87,22 @@
     "2026-10-18": "Two stories today highlight contrasting industry news across Europe: a new bouldering gym has opened in Burgdorf, Switzerland after a multi-year search for a suitable location, while French chain Climb Up has confirmed a customer data breach affecting its network of climbing gyms in Lyon. The data breach raises questions about cybersecurity practices among European gym operators as they increasingly rely on digital membership and booking systems.",
     "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement.",
     "2026-10-22": "A new climbing gym named after pioneering mountaineer Marie Paradis has been inaugurated in Besançon, France, marking a notable opening in the French climbing gym sector.",
-    "2026-10-23": "Two notable developments in European climbing gym real estate and consolidation today: in Innsbruck, Austria, a former church is being converted into a bouldering hall, while in Strasbourg, France, long-running independent gym Bloc et Roc en Stock has been acquired and rebranded under the Arkose chain, expanding Arkose's footprint in the city to two locations."
+    "2026-10-23": "Two notable developments in European climbing gym real estate and consolidation today: in Innsbruck, Austria, a former church is being converted into a bouldering hall, while in Strasbourg, France, long-running independent gym Bloc et Roc en Stock has been acquired and rebranded under the Arkose chain, expanding Arkose's footprint in the city to two locations.",
+    "2026-10-24": "A quiet day for European climbing gym industry news, with a single opening to report: a new free-to-use bouldering wall has opened in Villach, Austria, adding to the city's growing climbing facilities. No major M&A, labor, or closure stories emerged from European or UK markets today."
   },
   "stories": [
+    {
+      "id": 299,
+      "date": "2026-10-24",
+      "title": "New Free Bouldering Wall Opens in Villach, Austria",
+      "summary": "A new bouldering wall has opened in Villach, offering free climbing access to the public. The facility adds to Villach's existing climbing infrastructure, which includes the Kletterhalle Villach, Volume Boulderhalle, and the Naturfreunde bouldering facility.",
+      "url": "https://www.5min.at/villach/5202610231414/kostenloser-kletterspass-neue-boulderwand-in-villach-eroeffnet/",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "5min.at",
+      "source_domain": "5min.at",
+      "lang": "de"
+    },
     {
       "id": 297,
       "date": "2026-10-23",
