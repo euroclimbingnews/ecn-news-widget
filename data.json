@@ -88,9 +88,34 @@
     "2026-10-19": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Unibloc climbing gym in Carcassonne, open for about 18 months, is positioning itself as a cultural hub by blending climbing with art events, reflecting a broader trend of gyms diversifying their offerings to build community engagement.",
     "2026-10-22": "A new climbing gym named after pioneering mountaineer Marie Paradis has been inaugurated in Besançon, France, marking a notable opening in the French climbing gym sector.",
     "2026-10-23": "Two notable developments in European climbing gym real estate and consolidation today: in Innsbruck, Austria, a former church is being converted into a bouldering hall, while in Strasbourg, France, long-running independent gym Bloc et Roc en Stock has been acquired and rebranded under the Arkose chain, expanding Arkose's footprint in the city to two locations.",
-    "2026-10-24": "A quiet day for European climbing gym industry news, with a single opening to report: a new free-to-use bouldering wall has opened in Villach, Austria, adding to the city's growing climbing facilities. No major M&A, labor, or closure stories emerged from European or UK markets today."
+    "2026-10-24": "A quiet day for European climbing gym industry news, with a single opening to report: a new free-to-use bouldering wall has opened in Villach, Austria, adding to the city's growing climbing facilities. No major M&A, labor, or closure stories emerged from European or UK markets today.",
+    "2026-10-25": "Two notable stories from the European climbing gym sector today: a reopened bouldering gym in Brandenburg, Germany has quickly built a member base, while a climbing gym in a French shopping centre reports being hit hard by a regional curfew, echoing pandemic-era restrictions. Operators in both markets highlight how external factors—from renovation investments to local government measures—continue to shape gym revenue and membership dynamics."
   },
   "stories": [
+    {
+      "id": 300,
+      "date": "2026-10-25",
+      "title": "Boulderwerft Relaunches in Werder with 120 Members",
+      "summary": "The Boulderwerft climbing gym in Werder (Havel), Brandenburg, has reopened on Adolf-Damaschke-Straße after a hiatus, attracting 120 members since its relaunch on October 3rd. The reopening marks a fresh start for the facility following renovations or a change in operations.",
+      "url": "https://meetingpoint-brandenburg.de/artikel/21163-boulderwerft-startet-mit-120-mitgliedern-neu-durch",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "meetingpoint-brandenburg.de",
+      "source_domain": "meetingpoint-brandenburg.de",
+      "lang": "de"
+    },
+    {
+      "id": 301,
+      "date": "2026-10-25",
+      "title": "Curfew Hits Climbing Gym Revenue in Isère Shopping Centre",
+      "summary": "A climbing gym located inside a shopping centre in Isère, France, reports a significant drop in revenue due to a newly imposed regional curfew, with the manager comparing the impact to the COVID-19 health crisis. Local business owners have given mixed reactions to the measure, with some calling it disproportionate while others find it reassuring.",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/chiffre-d-affaires-plombe-disproportionne-rassurant-le-couvre-feu-diversement-accueilli-par-clients-et-commercants-de-ce-centre-commercial-3438738.html",
+      "category": "Industry",
+      "region": "France",
+      "source": "France 3 Régions",
+      "source_domain": "france3-regions.franceinfo.fr",
+      "lang": "fr"
+    },
     {
       "id": 299,
       "date": "2026-10-24",
