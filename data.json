@@ -89,9 +89,22 @@
     "2026-10-22": "A new climbing gym named after pioneering mountaineer Marie Paradis has been inaugurated in Besançon, France, marking a notable opening in the French climbing gym sector.",
     "2026-10-23": "Two notable developments in European climbing gym real estate and consolidation today: in Innsbruck, Austria, a former church is being converted into a bouldering hall, while in Strasbourg, France, long-running independent gym Bloc et Roc en Stock has been acquired and rebranded under the Arkose chain, expanding Arkose's footprint in the city to two locations.",
     "2026-10-24": "A quiet day for European climbing gym industry news, with a single opening to report: a new free-to-use bouldering wall has opened in Villach, Austria, adding to the city's growing climbing facilities. No major M&A, labor, or closure stories emerged from European or UK markets today.",
-    "2026-10-25": "Two notable stories from the European climbing gym sector today: a reopened bouldering gym in Brandenburg, Germany has quickly built a member base, while a climbing gym in a French shopping centre reports being hit hard by a regional curfew, echoing pandemic-era restrictions. Operators in both markets highlight how external factors—from renovation investments to local government measures—continue to shape gym revenue and membership dynamics."
+    "2026-10-25": "Two notable stories from the European climbing gym sector today: a reopened bouldering gym in Brandenburg, Germany has quickly built a member base, while a climbing gym in a French shopping centre reports being hit hard by a regional curfew, echoing pandemic-era restrictions. Operators in both markets highlight how external factors—from renovation investments to local government measures—continue to shape gym revenue and membership dynamics.",
+    "2026-10-27": "A quiet day for European climbing gym industry news, with one notable opening story out of Germany. Bouldering operator Element Boulders has expanded its Cologne presence with a new gym in the Deutz district, following its existing city-centre location."
   },
   "stories": [
+    {
+      "id": 302,
+      "date": "2026-10-27",
+      "title": "Element Boulders Opens New Gym in Cologne-Deutz",
+      "summary": "Bouldering gym operator Element Boulders has opened a second location in Cologne, this time in the Deutz district, expanding beyond its existing city-centre gym. Operations manager Till Pflüger commented on the new facility as part of the company's growth in the Cologne market.",
+      "url": "https://www.ksta.de/koeln/koelner-innenstadt/deutz/nach-koeln-city-element-boulders-eroeffnet-neue-halle-in-koeln-deutz-1399002",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Kölner Stadt-Anzeiger",
+      "source_domain": "ksta.de",
+      "lang": "de"
+    },
     {
       "id": 300,
       "date": "2026-10-25",
