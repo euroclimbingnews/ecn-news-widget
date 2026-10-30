@@ -92,9 +92,34 @@
     "2026-10-25": "Two notable stories from the European climbing gym sector today: a reopened bouldering gym in Brandenburg, Germany has quickly built a member base, while a climbing gym in a French shopping centre reports being hit hard by a regional curfew, echoing pandemic-era restrictions. Operators in both markets highlight how external factors—from renovation investments to local government measures—continue to shape gym revenue and membership dynamics.",
     "2026-10-27": "A quiet day for European climbing gym industry news, with one notable opening story out of Germany. Bouldering operator Element Boulders has expanded its Cologne presence with a new gym in the Deutz district, following its existing city-centre location.",
     "2026-10-28": "A single European story stood out today: Liechtenstein's new climbing gym, Kletterhalle Rhiblok in Vaduz, reported a strong opening month with roughly 3,000 visits since launching just before the autumn holidays. The rest of today's feed was dominated by human-interest and consumer guide content rather than gym industry business news, so coverage remains light.",
-    "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed."
+    "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed.",
+    "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members."
   },
   "stories": [
+    {
+      "id": 305,
+      "date": "2026-10-30",
+      "title": "Faîtes de l'Escalade 2026: Three Days of Climbing for €5 at 23 Gyms in Île-de-France",
+      "summary": "From 6–8 November 2026, the annual 'Faîtes de l'Escalade' event will let newcomers try climbing for just €5 at 23 participating climbing gyms across the Île-de-France region. The programme includes bouldering, roped climbing, and beginner sessions, with each venue offering its own activities.",
+      "url": "https://www.sortiraparis.com/loisirs/sport/articles/306857-faites-de-l-escalade-2026-trois-jours-de-grimpe-a-5-dans-23-salles-franciliennes",
+      "category": "Industry",
+      "region": "France",
+      "source": "sortiraparis.com",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
+    {
+      "id": 306,
+      "date": "2026-10-30",
+      "title": "German Alpine Club Section in Neu-Ulm Celebrates 125th Anniversary, Credits Climbing Hall for Growth",
+      "summary": "The Neu-Ulm section of the German Alpine Club (DAV) is celebrating its 125th anniversary with around 9,000 members. The section's climbing gym is cited as the most important driver of its membership growth in recent years.",
+      "url": "https://www.augsburger-allgemeine.de/neu-ulm/der-dav-in-neu-ulmer-feiert-125-jaehriges-bestehen-115541390",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Augsburger Allgemeine",
+      "source_domain": "augsburger-allgemeine.de",
+      "lang": "de"
+    },
     {
       "id": 304,
       "date": "2026-10-29",
