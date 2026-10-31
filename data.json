@@ -93,9 +93,22 @@
     "2026-10-27": "A quiet day for European climbing gym industry news, with one notable opening story out of Germany. Bouldering operator Element Boulders has expanded its Cologne presence with a new gym in the Deutz district, following its existing city-centre location.",
     "2026-10-28": "A single European story stood out today: Liechtenstein's new climbing gym, Kletterhalle Rhiblok in Vaduz, reported a strong opening month with roughly 3,000 visits since launching just before the autumn holidays. The rest of today's feed was dominated by human-interest and consumer guide content rather than gym industry business news, so coverage remains light.",
     "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed.",
-    "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members."
+    "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members.",
+    "2026-10-31": "A quiet day for European climbing gym industry news, with only one relevant story emerging from the Spanish market. Climbat, a prominent Spanish climbing gym chain, reported record participation in the 10th edition of its youth league, highlighting continued strength in gym-based community programming. The rest of today's wire was dominated by outdoor ascents, competition results, and US/Canada-focused gym industry content from Climbing Business Journal and Gripped, none of which met our European gym industry criteria."
   },
   "stories": [
+    {
+      "id": 307,
+      "date": "2026-10-31",
+      "title": "Climbat Children's League Kicks Off 10th Edition with Record Participation",
+      "summary": "The Climbat Children's League began its 10th edition with a historic turnout, as 600 children and young people took part in the opening round held across five Climbat gym locations on October 25th. The event reinforces the league's status as one of the major youth climbing competitions in Spain, run by the Climbat gym chain as part of its community programming.",
+      "url": "https://www.desnivel.com/material/noticias-de-empresa/la-10a-edicion-de-la-liga-infantil-climbat-arranca-con-record-de-participantes/",
+      "category": "Industry",
+      "region": "Spain",
+      "source": "Desnivel",
+      "source_domain": "desnivel.com",
+      "lang": "es"
+    },
     {
       "id": 305,
       "date": "2026-10-30",
