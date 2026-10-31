@@ -94,9 +94,33 @@
     "2026-10-28": "A single European story stood out today: Liechtenstein's new climbing gym, Kletterhalle Rhiblok in Vaduz, reported a strong opening month with roughly 3,000 visits since launching just before the autumn holidays. The rest of today's feed was dominated by human-interest and consumer guide content rather than gym industry business news, so coverage remains light.",
     "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed.",
     "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members.",
-    "2026-10-31": "A quiet day for European climbing gym industry news, with only one relevant story emerging from the Spanish market. Climbat, a prominent Spanish climbing gym chain, reported record participation in the 10th edition of its youth league, highlighting continued strength in gym-based community programming. The rest of today's wire was dominated by outdoor ascents, competition results, and US/Canada-focused gym industry content from Climbing Business Journal and Gripped, none of which met our European gym industry criteria."
+    "2026-10-31": "Two new climbing facility stories surfaced today from France and Switzerland. In France, the bouldering gym Bloc à Bleau in Samoreau (Seine-et-Marne) continues to build its reputation as more than just a climbing space since its June opening. Meanwhile, a new climbing venue - Kletterhalle Pilatus Indoor D4 - is set to open in central Switzerland in December, adding a fresh boulder/climbing offering to the Lucerne region's gym market."
   },
   "stories": [
+    {
+      "id": 308,
+      "date": "2026-10-31",
+      "title": "New Climbing Hall 'Pilatus Indoor D4' to Open in Central Switzerland in December",
+      "summary": "A new climbing facility, Kletterhalle Pilatus Indoor D4, is set to open in central Switzerland in December 2026. The venue is linked to the Kletterzentrum Gaswerk Wädenswil network and will offer belayed climbing.",
+      "url": "https://www.kletterportal.ch/kletterpartner/kletterhalle/neu-in-der-zentralschweiz-ab-dez-/93770/",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "kletterportal.ch",
+      "source_domain": "kletterportal.ch",
+      "lang": "de"
+    },
+    {
+      "id": 309,
+      "date": "2026-10-31",
+      "title": "French Bouldering Gym 'Bloc à Bleau' Becomes Community Hub in Samoreau",
+      "summary": "Bloc à Bleau, a bouldering gym that opened on June 5, 2026 in Samoreau (Seine-et-Marne), has positioned itself as more than just a climbing venue for the local community. The two founders emphasize building a social and cultural space around the sport.",
+      "url": "https://actu.fr/ile-de-france/samoreau_77442/dans-ce-village-de-seine-et-marne-bloc-a-bleau-est-bien-plus-quune-salle-descalade_64976570.html",
+      "category": "Openings",
+      "region": "France",
+      "source": "actu.fr",
+      "source_domain": "actu.fr",
+      "lang": "fr"
+    },
     {
       "id": 307,
       "date": "2026-10-31",
