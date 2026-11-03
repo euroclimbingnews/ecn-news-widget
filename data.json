@@ -94,9 +94,34 @@
     "2026-10-28": "A single European story stood out today: Liechtenstein's new climbing gym, Kletterhalle Rhiblok in Vaduz, reported a strong opening month with roughly 3,000 visits since launching just before the autumn holidays. The rest of today's feed was dominated by human-interest and consumer guide content rather than gym industry business news, so coverage remains light.",
     "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed.",
     "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members.",
-    "2026-10-31": "Two new climbing facility stories surfaced today from France and Switzerland. In France, the bouldering gym Bloc à Bleau in Samoreau (Seine-et-Marne) continues to build its reputation as more than just a climbing space since its June opening. Meanwhile, a new climbing venue - Kletterhalle Pilatus Indoor D4 - is set to open in central Switzerland in December, adding a fresh boulder/climbing offering to the Lucerne region's gym market."
+    "2026-10-31": "Two new climbing facility stories surfaced today from France and Switzerland. In France, the bouldering gym Bloc à Bleau in Samoreau (Seine-et-Marne) continues to build its reputation as more than just a climbing space since its June opening. Meanwhile, a new climbing venue - Kletterhalle Pilatus Indoor D4 - is set to open in central Switzerland in December, adding a fresh boulder/climbing offering to the Lucerne region's gym market.",
+    "2026-11-03": "Today's main industry story comes from France, where PlanetGrimpe reports on Block'Out's move to join the Arkose group, a significant consolidation in the French climbing gym market. Meanwhile, in Germany, local planning discussions around the Markkleeberger See area near Leipzig include proposals for a new climbing hall as part of a broader waterfront development. Other stories mentioning 'Kletterhalle' in German outlets today were either youth sports event coverage or unrelated local news where a climbing hall was merely the venue, and have been excluded as not industry-relevant."
   },
   "stories": [
+    {
+      "id": 310,
+      "date": "2026-11-03",
+      "title": "Block'Out Joins Arkose Group: Why, How, and What's Next",
+      "summary": "French climbing gym chain Block'Out is merging into the Arkose group, marking a significant consolidation in France's climbing gym industry. The article explores the rationale behind the move, the process, and what it means for the future of both brands and their gyms.",
+      "url": "https://planetgrimpe.com/blockout-passe-chez-arkose-pourquoi-comment-et-pour-quel-avenir/",
+      "category": "M&A",
+      "region": "France",
+      "source": "PlanetGrimpe",
+      "source_domain": "planetgrimpe.com",
+      "lang": "fr"
+    },
+    {
+      "id": 311,
+      "date": "2026-11-03",
+      "title": "Markkleeberg Lake: Plans for Marina, Tower, and Climbing Hall Still Missing Lock",
+      "summary": "As the Markkleeberger See near Leipzig marks its 20th anniversary, local planners have unveiled ideas for further development including a sailing harbor, an observation tower, and a new climbing hall. However, a planned lock connection remains unresolved, leaving the climbing hall proposal among several pending development ideas.",
+      "url": "https://www.lvz.de/lokales/leipzig-lk/markkleeberg/markkleeberger-see-ideen-fuer-segelhafen-turm-und-kletterhalle-aber-schleuse-fehlt-T5NVALT6GVHS5JK6IK7ERS3U24.html",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "LVZ",
+      "source_domain": "lvz.de",
+      "lang": "de"
+    },
     {
       "id": 308,
       "date": "2026-10-31",
