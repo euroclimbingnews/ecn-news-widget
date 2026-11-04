@@ -95,9 +95,22 @@
     "2026-10-29": "A single relevant story today: plans for a new climbing gym in South Tyrol's Wipptal region have progressed, with a potential site now identified after years of discussion. No other qualifying UK or European climbing gym industry news was found in today's feed.",
     "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members.",
     "2026-10-31": "Two new climbing facility stories surfaced today from France and Switzerland. In France, the bouldering gym Bloc à Bleau in Samoreau (Seine-et-Marne) continues to build its reputation as more than just a climbing space since its June opening. Meanwhile, a new climbing venue - Kletterhalle Pilatus Indoor D4 - is set to open in central Switzerland in December, adding a fresh boulder/climbing offering to the Lucerne region's gym market.",
-    "2026-11-03": "Today's main industry story comes from France, where PlanetGrimpe reports on Block'Out's move to join the Arkose group, a significant consolidation in the French climbing gym market. Meanwhile, in Germany, local planning discussions around the Markkleeberger See area near Leipzig include proposals for a new climbing hall as part of a broader waterfront development. Other stories mentioning 'Kletterhalle' in German outlets today were either youth sports event coverage or unrelated local news where a climbing hall was merely the venue, and have been excluded as not industry-relevant."
+    "2026-11-03": "Today's main industry story comes from France, where PlanetGrimpe reports on Block'Out's move to join the Arkose group, a significant consolidation in the French climbing gym market. Meanwhile, in Germany, local planning discussions around the Markkleeberger See area near Leipzig include proposals for a new climbing hall as part of a broader waterfront development. Other stories mentioning 'Kletterhalle' in German outlets today were either youth sports event coverage or unrelated local news where a climbing hall was merely the venue, and have been excluded as not industry-relevant.",
+    "2026-11-04": "The only notable European climbing gym story today comes from France, where the \"Faîtes de l'Escalade\" promotional event will let visitors try 23 climbing gyms across Île-de-France for just €5 over three days in November, aiming to boost footfall and new memberships. Other stories in today's feed were either unrelated competition coverage (a German lead climbing championship in Darmstadt) or incidental mentions of climbing gyms within unrelated political and local-event news, and have been excluded as not relevant to the gym industry."
   },
   "stories": [
+    {
+      "id": 312,
+      "date": "2026-11-04",
+      "title": "\"Faîtes de l'Escalade\": €5 Climbing Pass for 23 Gyms Across Île-de-France",
+      "summary": "From 6–8 November 2026, the \"Faîtes de l'Escalade\" initiative invites the public to try climbing at 23 climbing gyms across the Île-de-France region for just €5. The promotional event is designed to introduce newcomers to the sport and drive visits to participating facilities.",
+      "url": "https://www.sortiraparis.com/de/was-zu-tun-in-paris/sport-wohlbefinden/articles/306857-geht-klettern-drei-tage-klettern-fur-5-euro-in-den-kletterhallen-der-ile-de-france-ab-dem-6-november",
+      "category": "Industry",
+      "region": "France",
+      "source": "sortiraparis.com",
+      "source_domain": "sortiraparis.com",
+      "lang": "de"
+    },
     {
       "id": 310,
       "date": "2026-11-03",
