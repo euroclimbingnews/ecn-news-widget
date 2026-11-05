@@ -96,9 +96,22 @@
     "2026-10-30": "Two notable stories from the German-speaking climbing scene today: Paris-area gyms are gearing up for the annual low-cost 'Faîtes de l'Escalade' promotional weekend, offering three days of climbing for just €5 across 23 Île-de-France facilities, while the DAV Neu-Ulm section marks its 125th anniversary, crediting its climbing hall as the key driver of membership growth to nearly 9,000 members.",
     "2026-10-31": "Two new climbing facility stories surfaced today from France and Switzerland. In France, the bouldering gym Bloc à Bleau in Samoreau (Seine-et-Marne) continues to build its reputation as more than just a climbing space since its June opening. Meanwhile, a new climbing venue - Kletterhalle Pilatus Indoor D4 - is set to open in central Switzerland in December, adding a fresh boulder/climbing offering to the Lucerne region's gym market.",
     "2026-11-03": "Today's main industry story comes from France, where PlanetGrimpe reports on Block'Out's move to join the Arkose group, a significant consolidation in the French climbing gym market. Meanwhile, in Germany, local planning discussions around the Markkleeberger See area near Leipzig include proposals for a new climbing hall as part of a broader waterfront development. Other stories mentioning 'Kletterhalle' in German outlets today were either youth sports event coverage or unrelated local news where a climbing hall was merely the venue, and have been excluded as not industry-relevant.",
-    "2026-11-04": "The only notable European climbing gym story today comes from France, where the \"Faîtes de l'Escalade\" promotional event will let visitors try 23 climbing gyms across Île-de-France for just €5 over three days in November, aiming to boost footfall and new memberships. Other stories in today's feed were either unrelated competition coverage (a German lead climbing championship in Darmstadt) or incidental mentions of climbing gyms within unrelated political and local-event news, and have been excluded as not relevant to the gym industry."
+    "2026-11-04": "The only notable European climbing gym story today comes from France, where the \"Faîtes de l'Escalade\" promotional event will let visitors try 23 climbing gyms across Île-de-France for just €5 over three days in November, aiming to boost footfall and new memberships. Other stories in today's feed were either unrelated competition coverage (a German lead climbing championship in Darmstadt) or incidental mentions of climbing gyms within unrelated political and local-event news, and have been excluded as not relevant to the gym industry.",
+    "2026-11-05": "Today's limited climbing industry news includes a French trade feature examining whether the sport's growth is stalling across leisure sectors. Vertige Media's piece on bowling, tennis, and climbing gyms questions whether the post-pandemic indoor leisure boom—climbing included—is now cooling off, citing the Climbing District chain in Paris as an example. No other qualifying European gym industry stories were identified today; several German reports concerned a climbing wall accident in Rosenheim but did not pertain to gym business operations."
   },
   "stories": [
+    {
+      "id": 313,
+      "date": "2026-11-05",
+      "title": "Bowling, Tennis, Climbing: The Post-Boom Hangover",
+      "summary": "A French industry feature examines whether leisure activities like bowling, tennis, and climbing are facing a slowdown after their pandemic-era growth surge. The piece cites Paris's Climbing District Saint-Lazare as an example of the climbing gym sector navigating this shifting market. It raises questions about the sustainability of rapid expansion seen in recent years across indoor leisure facilities in France.",
+      "url": "https://www.vertigemedia.fr/salles-escalade-bowling-tennis-croissance",
+      "category": "Industry",
+      "region": "France",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 312,
       "date": "2026-11-04",
