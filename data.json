@@ -98,9 +98,21 @@
     "2026-11-03": "Today's main industry story comes from France, where PlanetGrimpe reports on Block'Out's move to join the Arkose group, a significant consolidation in the French climbing gym market. Meanwhile, in Germany, local planning discussions around the Markkleeberger See area near Leipzig include proposals for a new climbing hall as part of a broader waterfront development. Other stories mentioning 'Kletterhalle' in German outlets today were either youth sports event coverage or unrelated local news where a climbing hall was merely the venue, and have been excluded as not industry-relevant.",
     "2026-11-04": "The only notable European climbing gym story today comes from France, where the \"Faîtes de l'Escalade\" promotional event will let visitors try 23 climbing gyms across Île-de-France for just €5 over three days in November, aiming to boost footfall and new memberships. Other stories in today's feed were either unrelated competition coverage (a German lead climbing championship in Darmstadt) or incidental mentions of climbing gyms within unrelated political and local-event news, and have been excluded as not relevant to the gym industry.",
     "2026-11-05": "Today's limited climbing industry news includes a French trade feature examining whether the sport's growth is stalling across leisure sectors. Vertige Media's piece on bowling, tennis, and climbing gyms questions whether the post-pandemic indoor leisure boom—climbing included—is now cooling off, citing the Climbing District chain in Paris as an example. No other qualifying European gym industry stories were identified today; several German reports concerned a climbing wall accident in Rosenheim but did not pertain to gym business operations.",
-    "2026-11-06": "The big industry story this week comes from France, where Arkose has acquired Block'Out to become the world's largest climbing gym chain with 47 locations. This landmark deal caps off a busy year of M&A activity across the European climbing gym sector, raising questions about consolidation and the rise of mega-chains in the industry."
+    "2026-11-06": "The big industry story this week comes from France, where Arkose has acquired Block'Out to become the world's largest climbing gym chain with 47 locations. This landmark deal caps off a busy year of M&A activity across the European climbing gym sector, raising questions about consolidation and the rise of mega-chains in the industry.",
+    "2026-11-07": "Two notable industry stories emerged from Europe this week. In France, Arkose has acquired rival chain Block'Out, creating the world's largest climbing gym chain with 47 locations and marking a significant consolidation moment following a wave of M&A activity across the European sector this year. Separately, a CBJ webinar featured Peter Zeidelhack of the German Alpine Club (DAV) discussing routesetting standards and professional development pathways for setters in Germany, offering a window into how training and certification works outside the more commercialised US system."
   },
   "stories": [
+    {
+      "id": 315,
+      "date": "2026-11-07",
+      "title": "German Alpine Club Shares Lessons on Routesetting Standards and Education",
+      "summary": "Peter Zeidelhack, who leads routesetting education for the German Alpine Club (DAV), discussed Germany's routesetting standards and professional development pathways in a recent industry webinar. The conversation offers insight into how routesetter training and certification differs in Germany compared to other markets.",
+      "url": "https://climbingbusinessjournal.com/lessons-in-standards-and-education-from-germany-ft-peter-zeidelhack/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 314,
       "date": "2026-11-06",
