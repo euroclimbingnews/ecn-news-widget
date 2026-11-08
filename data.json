@@ -100,9 +100,33 @@
     "2026-11-05": "Today's limited climbing industry news includes a French trade feature examining whether the sport's growth is stalling across leisure sectors. Vertige Media's piece on bowling, tennis, and climbing gyms questions whether the post-pandemic indoor leisure boom—climbing included—is now cooling off, citing the Climbing District chain in Paris as an example. No other qualifying European gym industry stories were identified today; several German reports concerned a climbing wall accident in Rosenheim but did not pertain to gym business operations.",
     "2026-11-06": "The big industry story this week comes from France, where Arkose has acquired Block'Out to become the world's largest climbing gym chain with 47 locations. This landmark deal caps off a busy year of M&A activity across the European climbing gym sector, raising questions about consolidation and the rise of mega-chains in the industry.",
     "2026-11-07": "The only genuinely industry-relevant story today comes from France, where a community-run climbing gym in Fagnières, opened in September 2025, is marking a milestone event, with local stakeholders highlighting its economic and social impact on the area. The remaining stories from German-language outlets concern consumer-facing events (a Halloween-themed session for children, general mountain safety commentary, and a youth outing) rather than gym business developments, and have been excluded as out of scope.",
-    "2026-11-08": "A quiet day for European climbing gym industry news, with the main story being an educational feature on routesetting standards in Germany. Climbing Business Journal profiled Peter Zeidelhack of the German Alpine Club (DAV), who oversees professional routesetter training and certification pathways in the country, offering useful context for gyms benchmarking their own setting standards."
+    "2026-11-08": "Two small but notable operational stories from the European gym scene today: in Germany, the Deutscher Alpenverein has opened a new climbing tower as part of the SportForum Vogtland in Rehau after a long search for a suitable site near Hof, while in France the Niort-based climbing gym La Verticale has digitised its ticketing system with a new online shop to streamline session bookings at its Acclameur complex. Both moves reflect incremental infrastructure and digital-service investment by regional operators rather than major market shifts."
   },
   "stories": [
+    {
+      "id": 317,
+      "date": "2026-11-08",
+      "title": "German Alpine Club Opens New Climbing Tower in Rehau",
+      "summary": "The Deutscher Alpenverein (DAV) has opened a new climbing tower as part of the SportForum Vogtland in Rehau, near Hof, Germany. The club had been searching for a suitable site for a new climbing facility in the region for some time before settling on this location.",
+      "url": "https://www.euroherz.de/sportforum-vogtland-jetzt-mit-kletterturm-2535744/",
+      "category": "Openings",
+      "region": "Germany",
+      "source": "Radio Euroherz",
+      "source_domain": "euroherz.de",
+      "lang": "de"
+    },
+    {
+      "id": 318,
+      "date": "2026-11-08",
+      "title": "Niort Climbing Gym La Verticale Launches Online Ticketing",
+      "summary": "La Verticale, a climbing gym in Niort, France, has digitised its ticketing system by launching an online shop. The move is designed to make booking sessions easier for visitors to its Acclameur complex.",
+      "url": "https://presseagence.fr/niort-escalade-la-salle-la-verticale-dematerialise-sa-billetterie-avec-une-boutique-en-ligne/",
+      "category": "Industry",
+      "region": "France",
+      "source": "Presse Agence",
+      "source_domain": "presseagence.fr",
+      "lang": "fr"
+    },
     {
       "id": 316,
       "date": "2026-11-07",
