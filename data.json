@@ -100,9 +100,22 @@
     "2026-11-05": "Today's limited climbing industry news includes a French trade feature examining whether the sport's growth is stalling across leisure sectors. Vertige Media's piece on bowling, tennis, and climbing gyms questions whether the post-pandemic indoor leisure boom—climbing included—is now cooling off, citing the Climbing District chain in Paris as an example. No other qualifying European gym industry stories were identified today; several German reports concerned a climbing wall accident in Rosenheim but did not pertain to gym business operations.",
     "2026-11-06": "The big industry story this week comes from France, where Arkose has acquired Block'Out to become the world's largest climbing gym chain with 47 locations. This landmark deal caps off a busy year of M&A activity across the European climbing gym sector, raising questions about consolidation and the rise of mega-chains in the industry.",
     "2026-11-07": "The only genuinely industry-relevant story today comes from France, where a community-run climbing gym in Fagnières, opened in September 2025, is marking a milestone event, with local stakeholders highlighting its economic and social impact on the area. The remaining stories from German-language outlets concern consumer-facing events (a Halloween-themed session for children, general mountain safety commentary, and a youth outing) rather than gym business developments, and have been excluded as out of scope.",
-    "2026-11-08": "Two small but notable operational stories from the European gym scene today: in Germany, the Deutscher Alpenverein has opened a new climbing tower as part of the SportForum Vogtland in Rehau after a long search for a suitable site near Hof, while in France the Niort-based climbing gym La Verticale has digitised its ticketing system with a new online shop to streamline session bookings at its Acclameur complex. Both moves reflect incremental infrastructure and digital-service investment by regional operators rather than major market shifts."
+    "2026-11-08": "Two small but notable operational stories from the European gym scene today: in Germany, the Deutscher Alpenverein has opened a new climbing tower as part of the SportForum Vogtland in Rehau after a long search for a suitable site near Hof, while in France the Niort-based climbing gym La Verticale has digitised its ticketing system with a new online shop to streamline session bookings at its Acclameur complex. Both moves reflect incremental infrastructure and digital-service investment by regional operators rather than major market shifts.",
+    "2026-11-09": "A notable gym opening story comes out of Austria today: the Petrus-Canisius church in Innsbruck has been converted into a bouldering hall, blending its sacred architecture with new climbing infrastructure. This kind of adaptive reuse of disused religious buildings for climbing gyms could be of interest to operators looking at unconventional real estate options across Europe. No other qualifying European gym industry stories were identified in today's feed."
   },
   "stories": [
+    {
+      "id": 319,
+      "date": "2026-11-09",
+      "title": "Bouldering and Praying: How a Church in Innsbruck Became a Climbing Gym",
+      "summary": "The Petrus-Canisius Church in Innsbruck, Austria, has been repurposed as a bouldering hall, combining the building's historic sacred architecture with new climbing walls. The conversion highlights a growing trend of adaptive reuse of disused religious buildings for indoor climbing facilities.",
+      "url": "https://www.sn.at/panorama/oesterreich/bouldern-und-beten-wie-eine-kirche-in-innsbruck-zur-kletterhalle-wurde-art-682806",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "SN.at",
+      "source_domain": "sn.at",
+      "lang": "de"
+    },
     {
       "id": 317,
       "date": "2026-11-08",
