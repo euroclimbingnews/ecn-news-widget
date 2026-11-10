@@ -101,9 +101,22 @@
     "2026-11-06": "The big industry story this week comes from France, where Arkose has acquired Block'Out to become the world's largest climbing gym chain with 47 locations. This landmark deal caps off a busy year of M&A activity across the European climbing gym sector, raising questions about consolidation and the rise of mega-chains in the industry.",
     "2026-11-07": "The only genuinely industry-relevant story today comes from France, where a community-run climbing gym in Fagnières, opened in September 2025, is marking a milestone event, with local stakeholders highlighting its economic and social impact on the area. The remaining stories from German-language outlets concern consumer-facing events (a Halloween-themed session for children, general mountain safety commentary, and a youth outing) rather than gym business developments, and have been excluded as out of scope.",
     "2026-11-08": "Two small but notable operational stories from the European gym scene today: in Germany, the Deutscher Alpenverein has opened a new climbing tower as part of the SportForum Vogtland in Rehau after a long search for a suitable site near Hof, while in France the Niort-based climbing gym La Verticale has digitised its ticketing system with a new online shop to streamline session bookings at its Acclameur complex. Both moves reflect incremental infrastructure and digital-service investment by regional operators rather than major market shifts.",
-    "2026-11-09": "A notable gym opening story comes out of Austria today: the Petrus-Canisius church in Innsbruck has been converted into a bouldering hall, blending its sacred architecture with new climbing infrastructure. This kind of adaptive reuse of disused religious buildings for climbing gyms could be of interest to operators looking at unconventional real estate options across Europe. No other qualifying European gym industry stories were identified in today's feed."
+    "2026-11-09": "A notable gym opening story comes out of Austria today: the Petrus-Canisius church in Innsbruck has been converted into a bouldering hall, blending its sacred architecture with new climbing infrastructure. This kind of adaptive reuse of disused religious buildings for climbing gyms could be of interest to operators looking at unconventional real estate options across Europe. No other qualifying European gym industry stories were identified in today's feed.",
+    "2026-11-10": "A notable industry story emerges from France today: Steve Guillou, president of French climbing gym chain Arkose, discusses the challenges of growing attendance in major urban markets, suggesting a 'zero-sum' dynamic between competing venues in big cities. The other stories in today's feed were local event listings (a ladies' brunch, a film screening, and a tourism talk at various German/Austrian climbing halls) and did not meet the threshold for industry-relevant news."
   },
   "stories": [
+    {
+      "id": 320,
+      "date": "2026-11-10",
+      "title": "Arkose President Steve Guillou: 'In Big Cities, There Will Be No Miracle' on Gym Attendance",
+      "summary": "Steve Guillou, president of French climbing gym chain Arkose, discusses the plateauing or 'communicating vessels' effect of climbing gym attendance in large French cities, where new openings may simply redistribute existing customers rather than grow the market. The interview touches on strategic considerations for gym operators facing saturation in major urban areas.",
+      "url": "https://alpinemag.fr/steve-guillou-president-arkose-villes-frequentation-salles-escalade-vase-communiquant/",
+      "category": "Industry",
+      "region": "France",
+      "source": "Alpine Mag",
+      "source_domain": "alpinemag.fr",
+      "lang": "fr"
+    },
     {
       "id": 319,
       "date": "2026-11-09",
