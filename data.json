@@ -102,9 +102,34 @@
     "2026-11-07": "The only genuinely industry-relevant story today comes from France, where a community-run climbing gym in Fagnières, opened in September 2025, is marking a milestone event, with local stakeholders highlighting its economic and social impact on the area. The remaining stories from German-language outlets concern consumer-facing events (a Halloween-themed session for children, general mountain safety commentary, and a youth outing) rather than gym business developments, and have been excluded as out of scope.",
     "2026-11-08": "Two small but notable operational stories from the European gym scene today: in Germany, the Deutscher Alpenverein has opened a new climbing tower as part of the SportForum Vogtland in Rehau after a long search for a suitable site near Hof, while in France the Niort-based climbing gym La Verticale has digitised its ticketing system with a new online shop to streamline session bookings at its Acclameur complex. Both moves reflect incremental infrastructure and digital-service investment by regional operators rather than major market shifts.",
     "2026-11-09": "A notable gym opening story comes out of Austria today: the Petrus-Canisius church in Innsbruck has been converted into a bouldering hall, blending its sacred architecture with new climbing infrastructure. This kind of adaptive reuse of disused religious buildings for climbing gyms could be of interest to operators looking at unconventional real estate options across Europe. No other qualifying European gym industry stories were identified in today's feed.",
-    "2026-11-10": "A notable industry story emerges from France today: Steve Guillou, president of French climbing gym chain Arkose, discusses the challenges of growing attendance in major urban markets, suggesting a 'zero-sum' dynamic between competing venues in big cities. The other stories in today's feed were local event listings (a ladies' brunch, a film screening, and a tourism talk at various German/Austrian climbing halls) and did not meet the threshold for industry-relevant news."
+    "2026-11-10": "A notable industry story emerges from France today: Steve Guillou, president of French climbing gym chain Arkose, discusses the challenges of growing attendance in major urban markets, suggesting a 'zero-sum' dynamic between competing venues in big cities. The other stories in today's feed were local event listings (a ladies' brunch, a film screening, and a tourism talk at various German/Austrian climbing halls) and did not meet the threshold for industry-relevant news.",
+    "2026-11-11": "Today's European climbing gym news centres on labour relations in France, where Climbing District faced a two-day strike, prompting dialogue over staff grievances. Meanwhile in Italy, the Salewa Cube Varese gym in Varese has upgraded its facility with connected lighting and automation systems, highlighting ongoing investment in gym infrastructure and energy efficiency across the sector."
   },
   "stories": [
+    {
+      "id": 321,
+      "date": "2026-11-11",
+      "title": "Climbing District: Two Days of Strike, What Next?",
+      "summary": "Staff at the Climbing District gym staged a two-day strike, hanging a banner outside the venue that drew attention from passers-by. The strike has prompted dialogue between staff and management, raising questions about working conditions at the French climbing gym chain.",
+      "url": "https://www.vertigemedia.fr/climbing-district-greve-deux-jours-dialogue",
+      "category": "Labor",
+      "region": "France",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
+    {
+      "id": 322,
+      "date": "2026-11-11",
+      "title": "Connected Lighting and Automation Installed at Salewa Cube Varese",
+      "summary": "The Salewa Cube Varese climbing gym has implemented a new automation and connected lighting system, with particular attention paid to lighting quality in the climbing area. The upgrade reflects a broader trend of European climbing facilities investing in smart building technology.",
+      "url": "https://elettricomagazine.it/progetti-impianti-realizzazioni/illuminazione-e-automazione-al-salewa-cube-varese/",
+      "category": "Industry",
+      "region": "Italy",
+      "source": "ElettricoMagazine",
+      "source_domain": "elettricomagazine.it",
+      "lang": "it"
+    },
     {
       "id": 320,
       "date": "2026-11-10",
