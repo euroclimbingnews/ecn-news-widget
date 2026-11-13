@@ -105,9 +105,33 @@
     "2026-11-10": "A notable industry story emerges from France today: Steve Guillou, president of French climbing gym chain Arkose, discusses the challenges of growing attendance in major urban markets, suggesting a 'zero-sum' dynamic between competing venues in big cities. The other stories in today's feed were local event listings (a ladies' brunch, a film screening, and a tourism talk at various German/Austrian climbing halls) and did not meet the threshold for industry-relevant news.",
     "2026-11-11": "Today's European climbing gym news centres on labour relations in France, where Climbing District faced a two-day strike, prompting dialogue over staff grievances. Meanwhile in Italy, the Salewa Cube Varese gym in Varese has upgraded its facility with connected lighting and automation systems, highlighting ongoing investment in gym infrastructure and energy efficiency across the sector.",
     "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives.",
-    "2026-11-13": "A quiet day for European gym industry news, with the main story being the Vertical Pro trade show taking place in Germany this week, bringing together setters, suppliers and gym operators from across the industry."
+    "2026-11-13": "Two notable gym openings feature in today's European roundup: Innsbruck gets an unusual dual-use venue combining a climbing gym with an active parish church, while Paris sees the launch of Climb World, a large 2,800m² bouldering facility at the Ateliers Gaîté in Montparnasse. Both represent continued investment in urban climbing infrastructure across the continent."
   },
   "stories": [
+    {
+      "id": 325,
+      "date": "2026-11-13",
+      "title": "Innsbruck Church Converted to Combine Climbing Gym with Church Services",
+      "summary": "The Petrus Canisius parish church in Innsbruck has undergone an unusual renovation that allows it to function simultaneously as a climbing gym and a place of worship. The conversion has drawn attention for its novel reuse of sacred space for sport and community use.",
+      "url": "https://www.heute.at/s/klettern-und-auch-beten-neue-nutzung-in-kirche-120280721",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "heute.at",
+      "source_domain": "heute.at",
+      "lang": "de"
+    },
+    {
+      "id": 326,
+      "date": "2026-11-13",
+      "title": "Climb World Opens 2,800m² Bouldering Facility at Ateliers Gaîté in Montparnasse, Paris",
+      "summary": "A new bouldering gym called Climb World has opened at the Ateliers Gaîté complex in Montparnasse, Paris, offering 2,800 square metres of climbing surface. The venue adds to the growing roster of large-scale bouldering facilities in the French capital.",
+      "url": "https://www.sortiraparis.com/loisirs/sport/articles/357943-climb-world-2-800-m-d-escalade-de-bloc-aux-ateliers-gaite-a-montparnasse",
+      "category": "Openings",
+      "region": "France",
+      "source": "Sortiraparis",
+      "source_domain": "sortiraparis.com",
+      "lang": "fr"
+    },
     {
       "id": 324,
       "date": "2026-11-13",
