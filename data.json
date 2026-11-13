@@ -104,9 +104,21 @@
     "2026-11-09": "A notable gym opening story comes out of Austria today: the Petrus-Canisius church in Innsbruck has been converted into a bouldering hall, blending its sacred architecture with new climbing infrastructure. This kind of adaptive reuse of disused religious buildings for climbing gyms could be of interest to operators looking at unconventional real estate options across Europe. No other qualifying European gym industry stories were identified in today's feed.",
     "2026-11-10": "A notable industry story emerges from France today: Steve Guillou, president of French climbing gym chain Arkose, discusses the challenges of growing attendance in major urban markets, suggesting a 'zero-sum' dynamic between competing venues in big cities. The other stories in today's feed were local event listings (a ladies' brunch, a film screening, and a tourism talk at various German/Austrian climbing halls) and did not meet the threshold for industry-relevant news.",
     "2026-11-11": "Today's European climbing gym news centres on labour relations in France, where Climbing District faced a two-day strike, prompting dialogue over staff grievances. Meanwhile in Italy, the Salewa Cube Varese gym in Varese has upgraded its facility with connected lighting and automation systems, highlighting ongoing investment in gym infrastructure and energy efficiency across the sector.",
-    "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives."
+    "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives.",
+    "2026-11-13": "A quiet day for European gym industry news, with the main story being the Vertical Pro trade show taking place in Germany this week, bringing together setters, suppliers and gym operators from across the industry."
   },
   "stories": [
+    {
+      "id": 324,
+      "date": "2026-11-13",
+      "title": "Climb Insider: A Trade Show and Setting Event in Germany",
+      "summary": "Industry professionals are gathering in Germany this week for Vertical Pro, a trade show covering gear, setting and climbing gym business topics. The event offers networking opportunities for gym operators, setters and suppliers across the European market.",
+      "url": "https://climbingbusinessjournal.com/climb-insider-a-trade-show-and-setting-in-germany/",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "Climbing Business Journal",
+      "source_domain": "climbingbusinessjournal.com"
+    },
     {
       "id": 323,
       "date": "2026-11-12",
