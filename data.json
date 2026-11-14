@@ -106,9 +106,32 @@
     "2026-11-11": "Today's European climbing gym news centres on labour relations in France, where Climbing District faced a two-day strike, prompting dialogue over staff grievances. Meanwhile in Italy, the Salewa Cube Varese gym in Varese has upgraded its facility with connected lighting and automation systems, highlighting ongoing investment in gym infrastructure and energy efficiency across the sector.",
     "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives.",
     "2026-11-13": "Two notable gym openings feature in today's European roundup: Innsbruck gets an unusual dual-use venue combining a climbing gym with an active parish church, while Paris sees the launch of Climb World, a large 2,800m² bouldering facility at the Ateliers Gaîté in Montparnasse. Both represent continued investment in urban climbing infrastructure across the continent.",
-    "2026-11-14": "A light news day for European climbing gym industry coverage, with the sole relevant item being coverage of the Vertical Pro trade show in Germany, where industry professionals are gathering to discuss gear, setting, and market trends."
+    "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote."
   },
   "stories": [
+    {
+      "id": 327,
+      "date": "2026-11-14",
+      "title": "Murray and Brownlee-linked investor backs £3m raise for Pro Climbing League",
+      "summary": "Redrice, an investment vehicle linked to Andy Murray and Alistair Brownlee, has backed a £3m funding round for the Pro Climbing League, which recently held a pilot event in London. The investment underscores growing commercial interest in competitive climbing formats in the UK.",
+      "url": "https://www.cityam.com/murray-and-brownlee-linked-redrice-backs-3m-pro-climbing-league-raise/",
+      "category": "Industry",
+      "region": "UK",
+      "source": "City AM",
+      "source_domain": "cityam.com"
+    },
+    {
+      "id": 328,
+      "date": "2026-11-14",
+      "title": "Châtellerault multisport hall with climbing wall option faces crucial vote",
+      "summary": "A proposed multisport facility in Châtellerault, France, which includes a climbing wall among its planned amenities alongside fencing, table tennis and boxing, is awaiting a decisive council vote. Local sports clubs are divided over whether the project represents hope or disappointment, with its future hanging on the outcome.",
+      "url": "https://www.lanouvellerepublique.fr/chatellerault/espoir-ou-immense-deception-pour-les-clubs-le-projet-de-halle-multisports-amor-a-chatellerault-suspendu-a-un-vote-crucial-1794585230",
+      "category": "Openings",
+      "region": "France",
+      "source": "La Nouvelle République",
+      "source_domain": "lanouvellerepublique.fr",
+      "lang": "fr"
+    },
     {
       "id": 325,
       "date": "2026-11-13",
