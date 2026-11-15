@@ -106,9 +106,22 @@
     "2026-11-11": "Today's European climbing gym news centres on labour relations in France, where Climbing District faced a two-day strike, prompting dialogue over staff grievances. Meanwhile in Italy, the Salewa Cube Varese gym in Varese has upgraded its facility with connected lighting and automation systems, highlighting ongoing investment in gym infrastructure and energy efficiency across the sector.",
     "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives.",
     "2026-11-13": "Two notable gym openings feature in today's European roundup: Innsbruck gets an unusual dual-use venue combining a climbing gym with an active parish church, while Paris sees the launch of Climb World, a large 2,800m² bouldering facility at the Ateliers Gaîté in Montparnasse. Both represent continued investment in urban climbing infrastructure across the continent.",
-    "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote."
+    "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote.",
+    "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds."
   },
   "stories": [
+    {
+      "id": 329,
+      "date": "2026-11-15",
+      "title": "Innsbruck Church Doubles as 'Spiritual Petrol Station' and Climbing Gym",
+      "summary": "A church in Innsbruck, Austria has been converted to serve a dual purpose, functioning as both a place of worship and a climbing gym. The unusual combination is being described locally as offering visitors a 'spiritual refuelling stop' alongside physical activity.",
+      "url": "https://www.nachrichten.at/wirtschaft/kirche-in-innsbruck-ist-spirituelle-tankstelle-und-kletterhalle-zugleich;art15,4231756",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Nachrichten.at",
+      "source_domain": "nachrichten.at",
+      "lang": "de"
+    },
     {
       "id": 327,
       "date": "2026-11-14",
