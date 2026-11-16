@@ -107,9 +107,22 @@
     "2026-11-12": "A quiet day for European climbing gym industry news, with only one notable story emerging from France. The Club Alpin Français' Cluses section is progressing on a new climbing wall project, alongside other club initiatives.",
     "2026-11-13": "Two notable gym openings feature in today's European roundup: Innsbruck gets an unusual dual-use venue combining a climbing gym with an active parish church, while Paris sees the launch of Climb World, a large 2,800m² bouldering facility at the Ateliers Gaîté in Montparnasse. Both represent continued investment in urban climbing infrastructure across the continent.",
     "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote.",
-    "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds."
+    "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds.",
+    "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown."
   },
   "stories": [
+    {
+      "id": 330,
+      "date": "2026-11-16",
+      "title": "Boulder Gym Sandstein in Aschaffenburg to Close Due to Low Visitor Numbers",
+      "summary": "Boulderhalle Sandstein in Aschaffenburg, Germany, is closing its doors, primarily due to high rental costs combined with insufficient visitor numbers during the summer months. The closure highlights ongoing financial pressures facing independent climbing gyms in Germany.",
+      "url": "https://www.primavera24.de/aktuelles/news/zu-wenig-gaeste-boulderhalle-sandtstein-in-aschaffenburg-schliesst",
+      "category": "Closures",
+      "region": "Germany",
+      "source": "Primavera24",
+      "source_domain": "primavera24.de",
+      "lang": "de"
+    },
     {
       "id": 329,
       "date": "2026-11-15",
