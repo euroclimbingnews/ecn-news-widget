@@ -108,9 +108,46 @@
     "2026-11-13": "Two notable gym openings feature in today's European roundup: Innsbruck gets an unusual dual-use venue combining a climbing gym with an active parish church, while Paris sees the launch of Climb World, a large 2,800m² bouldering facility at the Ateliers Gaîté in Montparnasse. Both represent continued investment in urban climbing infrastructure across the continent.",
     "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote.",
     "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds.",
-    "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown."
+    "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown.",
+    "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design."
   },
   "stories": [
+    {
+      "id": 331,
+      "date": "2026-11-17",
+      "title": "Inclusive Route-Setting Festival Launches at Wuppertal Climbing Gym",
+      "summary": "The German Alpine Club (DAV) is holding the first 'Festival of Routes' at its Wuppertal climbing hall, bringing together climbers of different experience levels and abilities to collaborate on route setting. The event aims to foster mutual learning and inclusivity within the climbing gym community.",
+      "url": "https://www.alpenverein.de/artikel/festival-inklusiver-routenbau-kletterhalle-wuppertal_e3ae4e40-c517-454d-beab-d776da8e8e81",
+      "category": "Industry",
+      "region": "Germany",
+      "source": "alpenverein.de",
+      "source_domain": "alpenverein.de",
+      "lang": "de"
+    },
+    {
+      "id": 332,
+      "date": "2026-11-17",
+      "title": "Swiss Marina Project Considers Private Climbing Hall Amenity",
+      "summary": "A planned 5,000-square-metre marina development on Lake Uri (Urnersee), backed by investor Sawiris, is set to open in 2032/33 and may include a climbing hall alongside a swimming pool and spa as part of its leisure offering. The project is intended to become a new centrepiece for the village.",
+      "url": "https://www.blick.ch/wirtschaft/marina-projekt-sawirs-denkt-an-private-villa-am-urnersee/twrtsqs",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "Blick",
+      "source_domain": "blick.ch",
+      "lang": "de"
+    },
+    {
+      "id": 333,
+      "date": "2026-11-17",
+      "title": "Innsbruck Church Converted Into Bouldering Gym, Sunday Mass Continues",
+      "summary": "The Diocese of Innsbruck has leased the St. Peter Canisius church building to an entrepreneur for 50 years, who has transformed it into a bouldering gym while Sunday mass continues to be held there. The unusual repurposing comes after the building had stood empty for decades.",
+      "url": "https://infovaticana.com/fr/2026/11/16/une-eglise-dinnsbruck-se-transforme-en-salle-descalade-avec-messe-le-dimanche-le-diocese-cede-le-temple-apres-50-ans/",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "InfoVaticana",
+      "source_domain": "infovaticana.com",
+      "lang": "fr"
+    },
     {
       "id": 330,
       "date": "2026-11-16",
