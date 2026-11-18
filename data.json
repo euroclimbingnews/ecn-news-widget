@@ -109,9 +109,34 @@
     "2026-11-14": "Light day for European climbing gym industry news. In the UK, the Pro Climbing League has secured a £3m funding round backed by investors linked to Andy Murray and Alistair Brownlee, signalling continued investor interest in competitive climbing infrastructure. In France, a planned multisport hall in Châtellerault that includes a climbing wall option hangs in the balance ahead of a crucial council vote.",
     "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds.",
     "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown.",
-    "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design."
+    "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design.",
+    "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation."
   },
   "stories": [
+    {
+      "id": 334,
+      "date": "2026-11-18",
+      "title": "Groundbreaking for New Functional Building at Kletterhalle Wien",
+      "summary": "The City of Vienna is moving forward with modernising sports infrastructure in the Donaustadt district, with a groundbreaking ceremony announced for a new functional building at Kletterhalle Wien. The project represents a further step in the climbing hall's development.",
+      "url": "https://presse.wien.gv.at/presse/2026/11/17/aviso-spatenstich-fuer-neues-funktionsgebaeude-bei-der-kletterhalle-wien",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "presse.wien.gv.at",
+      "source_domain": "presse.wien.gv.at",
+      "lang": "de"
+    },
+    {
+      "id": 335,
+      "date": "2026-11-18",
+      "title": "Climbing Gym: The Reality of Being an Independent Owner",
+      "summary": "In an interview, Robin Leduc, owner of the independent climbing gym Unibloc Carcassonne, discusses the sacrifices and difficulties of running an independent gym amid current industry pressures. The piece explores the financial and operational challenges facing small, independent operators as the sector consolidates.",
+      "url": "https://www.vertigemedia.fr/patron-salle-escalade-independante-crise-unibloc-carcassonne",
+      "category": "Industry",
+      "region": "France",
+      "source": "Vertige Media",
+      "source_domain": "vertigemedia.fr",
+      "lang": "fr"
+    },
     {
       "id": 331,
       "date": "2026-11-17",
