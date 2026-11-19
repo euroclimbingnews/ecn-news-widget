@@ -110,9 +110,22 @@
     "2026-11-15": "A quiet day for European climbing gym news, with just one notable item: an unusual property story out of Austria where a church in Innsbruck has been repurposed to double as both a place of worship and a climbing gym. The other items in today's feed were either non-newsworthy social media posts (minor opening-hours changes, bare Facebook pages) or incidental mentions within unrelated outdoor-adventure stories, and have been excluded as not meeting industry relevance thresholds.",
     "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown.",
     "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design.",
-    "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation."
+    "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation.",
+    "2026-11-19": "A single relevant story today from Austria: the future of the Wörgl climbing gym, closed since February following its operator's insolvency, has been decided. The facility will reportedly continue operating under new arrangements, offering some stability for local climbers after months of uncertainty."
   },
   "stories": [
+    {
+      "id": 336,
+      "date": "2026-11-19",
+      "title": "Decision Reached: The Future of Wörgl Climbing Gym Clarified",
+      "summary": "The climbing gym in Wörgl, Austria, has been closed since February after its previous operators filed for insolvency. A decision has now been made regarding how the facility will proceed going forward, though details on new management or reopening timelines were part of the report.",
+      "url": "https://www.tt.com/artikel/30947177/entscheidung-gefallen-so-geht-es-mit-der-kletterhalle-woergl-weiter",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Tiroler Tageszeitung",
+      "source_domain": "tt.com",
+      "lang": "de"
+    },
     {
       "id": 334,
       "date": "2026-11-18",
