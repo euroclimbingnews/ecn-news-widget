@@ -111,9 +111,22 @@
     "2026-11-16": "A quiet day for European gym industry news, with the only notable story coming out of Germany. Boulderhalle Sandstein in Aschaffenburg has announced its closure, citing high rental costs and insufficient summer visitor numbers as the key drivers behind the shutdown.",
     "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design.",
     "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation.",
-    "2026-11-19": "A single relevant story today from Austria: the future of the Wörgl climbing gym, closed since February following its operator's insolvency, has been decided. The facility will reportedly continue operating under new arrangements, offering some stability for local climbers after months of uncertainty."
+    "2026-11-19": "A single relevant story today from Austria: the future of the Wörgl climbing gym, closed since February following its operator's insolvency, has been decided. The facility will reportedly continue operating under new arrangements, offering some stability for local climbers after months of uncertainty.",
+    "2026-11-21": "A notable story from Rennes highlights a French climbing gym, The Roof, running monthly sessions reserved for women and gender minorities to improve inclusivity and participation. No other significant European climbing gym industry news was found in today's feed."
   },
   "stories": [
+    {
+      "id": 337,
+      "date": "2026-11-21",
+      "title": "Rennes Climbing Gym Launches Sessions Reserved for Women and Gender Minorities",
+      "summary": "The Roof climbing gym in Rennes, France, hosts monthly sessions exclusively for women and gender minorities, aiming to create a more comfortable environment for underrepresented climbers. Participants describe feeling more able to take up space and engage with the sport in this setting.",
+      "url": "https://www.ouest-france.fr/sport/escalade/je-prends-plus-facilement-ma-place-a-rennes-des-seances-descalades-reservees-aux-femmes-et-minorites-de-genre-19a217e2-e116-11f1-b029-43a761592972",
+      "category": "Industry",
+      "region": "France",
+      "source": "Ouest-France",
+      "source_domain": "ouest-france.fr",
+      "lang": "fr"
+    },
     {
       "id": 336,
       "date": "2026-11-19",
