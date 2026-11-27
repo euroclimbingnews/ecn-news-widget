@@ -112,9 +112,46 @@
     "2026-11-17": "Today's European climbing gym news includes two notable building/property stories: a Swiss luxury marina development project in Uri canton reportedly considering an on-site climbing hall among its leisure amenities, and the conversion of a former Catholic church in Innsbruck, Austria, into a new bouldering gym under a 50-year lease from the diocese. Meanwhile, the German Alpine Club (DAV) is hosting an inclusive route-setting festival at its Wuppertal climbing hall, bringing together climbers of varying experience and ability levels to collaborate on route design.",
     "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation.",
     "2026-11-19": "A single relevant story today from Austria: the future of the Wörgl climbing gym, closed since February following its operator's insolvency, has been decided. The facility will reportedly continue operating under new arrangements, offering some stability for local climbers after months of uncertainty.",
-    "2026-11-21": "A notable story from Rennes highlights a French climbing gym, The Roof, running monthly sessions reserved for women and gender minorities to improve inclusivity and participation. No other significant European climbing gym industry news was found in today's feed."
+    "2026-11-21": "A notable story from Rennes highlights a French climbing gym, The Roof, running monthly sessions reserved for women and gender minorities to improve inclusivity and participation. No other significant European climbing gym industry news was found in today's feed.",
+    "2026-11-27": "Today's European climbing gym news spans three countries. In Austria, the Kletterhalle Wörgl has permanently closed, raising questions about alternatives for local climbers, while in Vienna's 22nd district a climbing hall is being expanded with new infrastructure. Meanwhile in Switzerland, a former nightclub in Nendaz has been converted into a new climbing gym called Gravity, which opened its doors this past weekend."
   },
   "stories": [
+    {
+      "id": 338,
+      "date": "2026-11-27",
+      "title": "Wörgl Climbing Gym Permanently Closed: Are There Alternatives?",
+      "summary": "The climbing gym in Wörgl, Austria has permanently closed, representing a significant loss for sports and leisure facilities in the city and region. Local residents and climbers are now searching for alternative climbing venues in the area.",
+      "url": "https://vero-online.info/kletterhalle-woergl-endgueltig-geschlossen-gibt-es-alternative/",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Vero Online",
+      "source_domain": "vero-online.info",
+      "lang": "de"
+    },
+    {
+      "id": 339,
+      "date": "2026-11-27",
+      "title": "Vienna's 22nd District Climbing Gym to Be Expanded",
+      "summary": "A climbing gym in Vienna's 22nd district (Donaustadt) is undergoing expansion, with a new building planned to improve infrastructure for climbers in the area. The project is associated with Naturfreunde Wien.",
+      "url": "https://www.facebook.com/w24TV/posts/die-kletterhalle-im-22-bezirk-wird-erweitert-%EF%B8%8F-der-neubau-soll-die-infrastruktur/1760675516060114/",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "W24",
+      "source_domain": "facebook.com",
+      "lang": "de"
+    },
+    {
+      "id": 340,
+      "date": "2026-11-27",
+      "title": "Nendaz: Former Nightclub Lapin Vert Transforms into Gravity Climbing Gym",
+      "summary": "A former discotheque called Lapin Vert in Nendaz, Switzerland has been converted into a new climbing gym named Gravity, which opened to the public this past weekend. The founder noted that among several ideas for the space, the climbing gym concept generated the most enthusiasm.",
+      "url": "https://www.lenouvelliste.ch/valais/valais-central/conthey-district/nendaz/nendaz-de-discotheque-a-salle-descalade-le-lapin-vert-devenu-gravity-ouvre-ses-portes-ce-week-end-1523024",
+      "category": "Openings",
+      "region": "Switzerland",
+      "source": "Le Nouvelliste",
+      "source_domain": "lenouvelliste.ch",
+      "lang": "fr"
+    },
     {
       "id": 337,
       "date": "2026-11-21",
