@@ -113,9 +113,46 @@
     "2026-11-18": "Two notable European gym-industry stories today: Vienna is breaking ground on a new functional building at Kletterhalle Wien as part of a broader sports infrastructure upgrade in Donaustadt, while in France, an interview with independent gym owner Robin Leduc (Unibloc Carcassonne) sheds light on the financial pressures and sacrifices facing small, independently-run climbing gyms amid ongoing industry consolidation.",
     "2026-11-19": "A single relevant story today from Austria: the future of the Wörgl climbing gym, closed since February following its operator's insolvency, has been decided. The facility will reportedly continue operating under new arrangements, offering some stability for local climbers after months of uncertainty.",
     "2026-11-21": "A notable story from Rennes highlights a French climbing gym, The Roof, running monthly sessions reserved for women and gender minorities to improve inclusivity and participation. No other significant European climbing gym industry news was found in today's feed.",
-    "2026-11-27": "Today's European climbing gym news spans three countries. In Austria, the Kletterhalle Wörgl has permanently closed, raising questions about alternatives for local climbers, while in Vienna's 22nd district a climbing hall is being expanded with new infrastructure. Meanwhile in Switzerland, a former nightclub in Nendaz has been converted into a new climbing gym called Gravity, which opened its doors this past weekend."
+    "2026-11-27": "Today's European climbing gym news spans three countries. In Austria, the Kletterhalle Wörgl has permanently closed, raising questions about alternatives for local climbers, while in Vienna's 22nd district a climbing hall is being expanded with new infrastructure. Meanwhile in Switzerland, a former nightclub in Nendaz has been converted into a new climbing gym called Gravity, which opened its doors this past weekend.",
+    "2026-11-28": "Austria features twice in today's roundup: Innsbruck's climbing hall (KI) is undergoing a major expansion and modernisation, including new ventilation systems, while in Wörgl the local climbing hall's permanent closure has been noted as a significant loss for the region's sport and leisure offerings. Meanwhile in France, a shopping centre near Paris is repositioning itself as a leisure destination, adding a climbing wall alongside padel courts and bowling as part of its retail-to-entertainment transformation."
   },
   "stories": [
+    {
+      "id": 341,
+      "date": "2026-11-28",
+      "title": "Innsbruck Climbing Hall Undergoes Major Expansion and Modernisation",
+      "summary": "The climbing hall in Innsbruck (KI) is being rebuilt to be larger, more functional and more modern, with renovation work taking place at the heart of the facility. As part of the expansion, an additional ventilation system has been installed along with new ventilation and cooling pipework.",
+      "url": "https://presse.innsbruck.gv.at/news-ki-groesser-funktioneller-moderner?id=253031&menueid=34260&l=deutsch",
+      "category": "Openings",
+      "region": "Austria",
+      "source": "Stadt Innsbruck",
+      "source_domain": "presse.innsbruck.gv.at",
+      "lang": "de"
+    },
+    {
+      "id": 342,
+      "date": "2026-11-28",
+      "title": "Wörgl Climbing Hall Permanently Closes, Called a Major Loss for the Region",
+      "summary": "The climbing hall in Wörgl, Austria has permanently closed, a development described as a significant loss for the town and region's sport and leisure offerings. The closure was mentioned in coverage of the comprehensive modernisation of the nearby Europa Mittelschule.",
+      "url": "https://vero-online.info/europa-mittelschule-umfassend-modernisiert/",
+      "category": "Closures",
+      "region": "Austria",
+      "source": "Vero Online",
+      "source_domain": "vero-online.info",
+      "lang": "de"
+    },
+    {
+      "id": 343,
+      "date": "2026-11-28",
+      "title": "French Shopping Centre Valvert Croix Blanche Reinvents Itself as Leisure Park with Climbing Wall",
+      "summary": "The Valvert Croix Blanche shopping centre near Paris is transforming into a leisure destination, featuring two lakes, a musical fountain, eight padel courts, a climbing wall, a bowling alley and restaurants open late. The development reflects a broader trend of retail centres incorporating leisure and sports facilities to boost footfall.",
+      "url": "https://www.lenouveleconomiste.fr/attractivite-des-territoires/grand-paris-1/valvert-croix-blanche-le-centre-commercial-qui-se-reve-parc-de-loisirs/",
+      "category": "Openings",
+      "region": "France",
+      "source": "Le Nouvel Economiste",
+      "source_domain": "lenouveleconomiste.fr",
+      "lang": "fr"
+    },
     {
       "id": 338,
       "date": "2026-11-27",
